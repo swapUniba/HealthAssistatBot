@@ -1,0 +1,9 @@
+#set($newline="
+")
+#set($tab="   ")
+#if($results)
+Dall'analisi del tuo stato di salute le malattie correlate potrebbero essere: 
+#foreach($diagnose in $diagnosys) - *$diagnose.name* $newline#end
+
+Vuoi che ti suggerisca uno specialista nella tua zona? Se si scegli un'area medica altrimenti digita un nuovo stato di salute
+#end

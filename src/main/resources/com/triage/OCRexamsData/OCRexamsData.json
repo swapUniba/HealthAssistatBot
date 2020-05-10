@@ -1,0 +1,277 @@
+[
+  {
+    "categoria":"emocromo",
+    "esami": [
+      {
+        "significato":"globuli bianchi (wbc)",
+        "sinonimi":["globuli bianchi","leucociti","wbc","white blood cells"]
+      },
+      {
+        "significato":"globuli rossi (rbc)",
+        "sinonimi":["globuli rossi","eritrociti","emazia","rbc","red blood cells"]
+      },
+      {
+        "significato":"emoglobina (hb)",
+        "sinonimi":["emoglobina","hb","hemoglobin"]
+      },
+      {
+        "significato":"ematocrito (ht)",
+        "sinonimi":["ematocrito","htc","ht","hematocrit"]
+      },
+      {
+        "significato":"volume corpuscolare medio (mcv)",
+        "sinonimi":["volume corpuscolare medio","mcv","mean corpuscular volum"]
+      },
+      {
+        "significato":"contenuto cellulare medio di emoglobina (mch)",
+        "sinonimi":["contenuto cellulare medio di emoglobina","mch","mean corpuscular hemoglobin"]
+      },
+      {
+        "significato":"concentrazione cellulare medio di emoglobina (mchc)",
+        "sinonimi":["concentrazione cellulare medio di emoglobina","mchc","mean corpuscular hemoglobin concentration"]
+      },
+      {
+        "significato":"ampiezza della distribuzione eritrocitaria (rdw)",
+        "sinonimi":["ampiezza della distribuzione eritrocitaria","rdw","red cells dispersion width"]
+      },
+      {
+        "significato":"reticolociti (ir)",
+        "sinonimi":["reticolociti","conta reticolocitaria","conta reticolocitaria corretta","conta reticolocitaria assoluta","indice reticolociatrio","ir","conta dei reticolociti"]
+      },
+      {
+        "significato":"piastrine (plt)",
+        "sinonimi":["piastrine","trombociti","plt","platelets","conta dei trombociti","conta piastrinica"]
+      },
+      {
+        "significato":"ampiezza di distribuzione piastrinica(pdw)",
+        "sinonimi":["ampiezza di distribuzione piastrinica","pdw","platelet distribution width"]
+      },
+      {
+        "significato":"volume piastrinico medio (mpv)",
+        "sinonimi":["volume piastrinico medio","mpv","mean platelet volume"]
+      }
+    ]
+  },
+  {
+    "categoria":"formula leucocitaria",
+    "esami": [
+      {
+        "significato":"neutrofili",
+        "sinonimi":["neutrofili"]
+      },
+      {
+        "significato":"linfociti",
+        "sinonimi":["linfociti"]
+      },
+      {
+        "significato":"eosinofili",
+        "sinonimi":["eosinofili"]
+      },
+      {
+        "significato":"basofili",
+        "sinonimi":["basofili"]
+      },
+      {
+        "significato":"monociti",
+        "sinonimi":["monociti"]
+      },
+      {
+        "significato":"cellule dendritiche",
+        "sinonimi":["cellule dendritiche"]
+      },
+      {
+        "significato":"macrofagi",
+        "sinonimi":["macrofagi"]
+      }
+    ]
+  },
+  {
+    "categoria":"azoto ureico",
+    "esami": [
+      {
+        "significato":"azoto ureico (bun)",
+        "sinonimi":["azoto ureico","bun","blood urea nitrogen"]
+      }
+    ]
+  },
+  {
+    "categoria":"glicemia",
+    "esami": [
+      {
+        "significato":"glicemia",
+        "sinonimi":["glicemia"]
+      }
+    ]
+  },
+  {
+    "categoria":"transaminasi",
+    "esami": [
+      {
+        "significato":"transaminasi glutammico ossalacetica (got)",
+        "sinonimi":["transaminasi glutammico ossalacetica","got","a sparta to aminotransferasi","ast"]
+      },
+      {
+        "significato":"transaminasi glutammico piruvica (gpt)",
+        "sinonimi":["transaminasi glutammico piruvica","gpt","alanina aminotransferasi","alt"]
+      }
+    ]
+  },
+  {
+    "categoria":"bilirubinemia",
+    "esami": [
+      {
+        "significato":"bilirubinemia totale",
+        "sinonimi":["bilirubinemia totale"]
+      },
+      {
+        "significato":"bilirubinemia indiretta",
+        "sinonimi":["bilirubinemia indiretta"]
+      },
+      {
+        "significato":"bilirubinemia diretta",
+        "sinonimi":["bilirubinemia diretta"]
+      }
+    ]
+  },
+  {
+    "categoria":"colesterolemia",
+    "esami": [
+      {
+        "significato":"colesterolemia totale (tc)",
+        "sinonimi":["colesterolemia totale","tc"]
+      },
+      {
+        "significato":"colesterolemia (ldl)",
+        "sinonimi":["colesterolemia ldl","ldl"]
+      },
+      {
+        "significato":"colesterolemia (hdl)",
+        "sinonimi":["colesterolemia hdl","hdl"]
+      },
+      {
+        "significato":"colesterolemia non-hdl",
+        "sinonimi":["colesterolemia non-hdl","tc-hdl"]
+      }
+    ]
+  },
+  {
+    "categoria":"trigliceridi",
+    "esami": [
+      {
+        "significato":"trigliceridi",
+        "sinonimi":["triacilgliceroli","trigliceridi"]
+      }
+    ]
+  },
+  {
+    "categoria":"uricemia",
+    "esami": [
+      {
+        "significato":"uricemia",
+        "sinonimi":["uricemia"]
+      }
+    ]
+  },
+  {
+    "categoria":"creatininemia",
+    "esami": [
+      {
+        "significato":"creatininemia",
+        "sinonimi":["creatininemia"]
+      }
+    ]
+  },
+  {
+    "categoria":"protidemia",
+    "esami": [
+      {
+        "significato":"protidemia totale",
+        "sinonimi":["protidemia totale"]
+      },
+      {
+        "significato":"protidemia frazionata",
+        "sinonimi":["protidemia frazionata"]
+      }
+    ]
+  },
+  {
+    "categoria":"fosfata alcalina",
+    "esami": [
+      {
+        "significato":"fosfatasemia alcalina (alp)",
+        "sinonimi":["fastafasemia alcalina","alp","fosfatasi alcalina"]
+      },
+      {
+        "significato":"fosfatasemia acida (acp)",
+        "sinonimi":["fastafasemia acida","acp","fosfatasi acida"]
+      }
+    ]
+  },
+  {
+    "categoria":"gamma gt",
+    "esami": [
+      {
+        "significato":"gamma gt",
+        "sinonimi":["gamma glutamiltranspeptidasi","gamma gt","ggt","gamma glutamil transferasi"]
+      }
+    ]
+  },
+  {
+    "categoria":"sideremia",
+    "esami": [
+      {
+        "significato":"sideremia",
+        "sinonimi":["sideremia"]
+      }
+    ]
+  },
+  {
+    "categoria":"ferritina",
+    "esami": [
+      {
+        "significato":"ferritinemia",
+        "sinonimi":["ferritinemia"]
+      }
+    ]
+  },
+  {
+    "categoria":"transferrina",
+    "esami": [
+      {
+        "significato":"transferrinemia (tf)",
+        "sinonimi":["transferrinemia","tf"]
+      }
+    ]
+  },
+  {
+    "categoria":"peso",
+    "esami": [
+      {
+        "significato":"peso",
+        "sinonimi":["peso","pesatura"]
+      }
+    ]
+  },
+  {
+    "categoria":"pressione arteriosa",
+    "esami": [
+      {
+        "significato":"pressione arteriosa minima",
+        "sinonimi":["pressione arteriosa minima"]
+      },
+      {
+        "significato":"pressione arteriosa massima",
+        "sinonimi":["pressione arteriosa massima"]
+      }
+    ]
+  },
+  {
+    "categoria":"frequenza cardiaca",
+    "esami": [
+      {
+        "significato":"frequenza cardiaca",
+        "sinonimi":["frequenza cardiaca"]
+      }
+    ]
+  }
+]

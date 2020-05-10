@@ -1,0 +1,5 @@
+#set( $newline="
+")
+Ci sono diversi intervalli e/o unità di misura a disposizione per questo esame:$newline
+#foreach($rg in $ranges)$velocityCount. $rg  $newline#end
+Per favore, scegli l'intervallo e/o unità di misura di tuo interesse

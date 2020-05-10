@@ -1,0 +1,7 @@
+#set( $newline="
+")
+#set( $parenthesiso="(")
+#set( $parenthesisc=")")
+I monitoraggi inseriti sono:
+#foreach($tr in $trackings)$velocityCount. *$tr.name* $parenthesiso$tr.date$parenthesisc $newline#end$newline
+Puoi scegliere il nome di un monitoraggio per osservarne i dettagli

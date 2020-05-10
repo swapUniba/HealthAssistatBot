@@ -1,0 +1,2 @@
+#if($sayhi)Bentornato $name!#end
+ Scegli una funzionalità premendo il corrispondente bottone

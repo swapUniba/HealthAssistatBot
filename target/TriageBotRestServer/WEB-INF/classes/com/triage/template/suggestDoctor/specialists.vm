@@ -1,0 +1,10 @@
+#set($newline="
+")
+#set($tab="   ")
+#if($results)
+Gli specialisti più rilevanti nell'area *$classRes* e che operano a *$province* sono (le stelle indicano il livello di gradimento degli untenti): 
+#foreach($doc in $doctors)$tab - #if($doc.webpage)[$doc.completeName]($doc.webpage)#else$doc.completeName#end$doctorsEmoji.get($doc)$newline#end
+_Fonte:_ [mediciitalia.it](mediciitalia.it)
+#else Non ho trovato nessun spcialista nell'area *$classRes* e che operano a *$province*#end
+
+Digita una nuovo stato di salute per individuare dei nuovi specialisti, altrimenti ritorna al menu principale.

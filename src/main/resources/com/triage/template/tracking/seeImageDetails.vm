@@ -1,0 +1,31 @@
+#set( $newline="
+")
+#set( $parenthesiso="(")
+#set( $parenthesisc=")")
+#if($exams.size()>0)
+#*
+    #if($plaintext)
+     Ecco il testo estratto: $newline
+      $plaintext
+    #end *#
+Ecco gli esami estratti dall'immagine selezionata.
+I duplicati stanno a significare che non hanno in comune la stessa unità di misura/range $newline
+#foreach($exam in $exams)$velocityCount. *$exam.name* $newline#end$newline
+Puoi scegliere il nome di un esame per visualizzarne i dettagli
+    #elseif ($exams.size()==0 && $trimage.status=="completato")
+       #*
+       #if($plaintext)
+        Ecco il testo estratto: $newline
+            $plaintext
+        --------------------------
+        #end
+       *#
+Purtroppo, non siamo riusciti ad individuare correttamente alcun esame.
+        #elseif($exams.size()==0 && $trimage.status=="elaborazione")
+           L'elaborazione non è ancora completata, tornare in seguito in questa sezione per conoscere novita'.
+#elseif($exams.size()==0 && $trimage.status=="fallito")
+        Non è stato possibile processare questa immagine.
+#end
+
+
+

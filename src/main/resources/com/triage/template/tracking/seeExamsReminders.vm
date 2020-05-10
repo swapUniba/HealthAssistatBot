@@ -1,0 +1,6 @@
+#set( $newline="
+")
+Ecco le notifiche (incluse anche quelle passate):
+#foreach($reminder in $reminders)$velocityCount.  *$reminder.exam* ($reminder.dateNewFormat#if($reminder.isPassed)-*Scaduta*#end) $newline#end
+Seleziona un esame per visualizzare le informazioni sulla notifica
+

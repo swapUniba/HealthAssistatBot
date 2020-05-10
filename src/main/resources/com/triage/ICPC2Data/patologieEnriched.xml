@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<patologie>
+	<voce>
+		<entry>Abbassamento dell'utero</entry>
+		<descrizione>Discesa dell'utero nel canale vaginale. Si manifesta quando si verifica un indebolimento della muscolatura e dei legamenti che sostengono l'organo, il quale, di conseguenza, tende a scivolare verso il basso.</descrizione>
+		<capitolo>X87_Prolasso utero-vaginale</capitolo>
+		<id>236</id>
+	</voce>
+	<voce>
+		<entry>Abbassamento della vescica</entry>
+		<descrizione>Discesa verso il basso e talvolta fuori dall'introito vaginale della vescica</descrizione>
+		<capitolo>X87_Prolasso utero-vaginale</capitolo>
+		<id>237</id>
+	</voce>
+	<voce>
+		<entry>Aborto</entry>
+		<descrizione>Interruzione prematura di una gravidanza</descrizione>
+		<capitolo>W82_ABORTO SPONTANEO</capitolo>
+		<id>238</id>
+		<descrizioniAggiuntive>
+			<descrizione>Interruzione di gravidanza</descrizione>
+			<descrizione>L'aborto è l'interruzione prematura di una gravidanza.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Aborto</sinonimo>
+			<sinonimo>Aborto indotto</sinonimo>
+			<sinonimo>Interruzione della gravidanza</sinonimo>
+			<sinonimo>Interruzione di gravidanza</sinonimo>
+			<sinonimo>Aborti spontanei</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Aborto</wikiLink>		
+	</voce>
+	<voce>
+		<entry>Aborto incompleto</entry>
+		<descrizione>Espulsione solo di parte del prodotto del concepimento</descrizione>
+		<capitolo>W82_ABORTO SPONTANEO</capitolo>
+		<id>239</id>
+		<descrizioniAggiuntive>
+			<descrizione>Terminazione della gravidanza senza espulsione di tutti i prodotti della concezione</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Aborto incompleto</sinonimo>
+			<sinonimo>Aborto parziale</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Abrasione</entry>
+		<descrizione>Leggera escoriazione della pelle o delle mucose, o  lesione della parte piu' esterna della pelle, provocata da un trauma, o da uno sfregamento con un oggetto che colpisce di striscio la superficie interessata</descrizione>
+		<capitolo>S17_Abrasione/graffio/vescica</capitolo>
+		<id>240</id>
+		<descrizioniAggiuntive>
+			<descrizione>Le lesioni elementari della cute.</descrizione>
+			<descrizione>Un'abrasione superficiale.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Lesioni elementari della cute</sinonimo>
+			<sinonimo>Abrasione</sinonimo>
+			<sinonimo>Escoriazione</sinonimo>
+			<sinonimo>Graffio</sinonimo>
+			<sinonimo>Sberleffo</sinonimo>
+			<sinonimo>Sbucciatura</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Lesioni_elementari_della_cute</wikiLink>
+	</voce>
+	<voce>
+		<entry>Abrasione della cornea</entry>
+		<descrizione>Lesione di una porzione della superficie corneale con perdita di tessuto superficiale</descrizione>
+		<capitolo>F79_Altra lesione traumatica dell'occhio</capitolo>
+		<id>241</id>
+	</voce>
+	<voce>
+		<entry>Abrasioni al volto</entry>
+		<descrizione>Leggera escoriazione della pelle del viso</descrizione>
+		<capitolo>S17_Abrasione/graffio/vescica</capitolo>
+		<id>242</id>
+	</voce>
+	<voce>
+		<entry>Abuso di alcohol / alcol</entry>
+		<descrizione>Condizione di chi avverte la necessita' irrefrenabile e frequente di assumere bibite alcoliche malgrado i danni che tale assunzione comporta</descrizione>
+		<capitolo>P15_Abuso alcolico cronico</capitolo>
+		<id>243</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'alcolismo è una sindrome patologica determinata dall'assunzione acuta o cronica di grandi quantità di alcol. </descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Alcolismo</sinonimo>
+			<sinonimo>Abuso di alcol</sinonimo>
+			<sinonimo>Abuso di alcool</sinonimo>
+			<sinonimo>Alcolista</sinonimo>
+			<sinonimo>Alcolisti</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Alcolismo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Abuso di droga</entry>
+		<descrizione>Condizione di chi avverte la necessita' irrefrenabile e frequente di assumere droga  (stupefacenti) malgrado i danni che tale assunzione comporta</descrizione>
+		<capitolo>P19_Abuso di droga</capitolo>
+		<id>244</id>
+		<descrizioniAggiuntive>
+			<descrizione>Uso abituale di droghe naturali o sintetiche</descrizione>
+			<descrizione>La tossicodipendenza viene intesa come sistema comportamentale che si instaura in seguito all'uso cronico e compulsivo di sostanze.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Tossicodipendenza</sinonimo>
+			<sinonimo>Tossicomania</sinonimo>
+			<sinonimo>Drogato</sinonimo>
+			<sinonimo>Tossicodipendente</sinonimo>
+			<sinonimo>Abuso di droga</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Tossicodipendenza</wikiLink>
+	</voce>
+	<voce>
+		<entry>Abuso sessuale</entry>
+		<descrizione>Maltrattamento fisico nei confronti di una persona (il piu' delle volte una donna o un bambino) non in grado di scegliere con costringimento ad attivita' sessuali.</descrizione>
+		<capitolo>Z25_Aggressione/evento traumatico</capitolo>
+		<id>245</id>
+	</voce>
+	<voce>
+		<entry>Acidosi</entry>
+		<descrizione>Condizione patologica  in cui siano prodotte o introdotte in misura superiore alla norma sostanze acide, oppure siano sottratte sostanze alcaline, cosi' che il pH organico tende all? acidita'</descrizione>
+		<capitolo>T99_Altro dist. endocrino/metabolico/nutriz.</capitolo>
+		<id>246</id>
+		<descrizioniAggiuntive>
+			<descrizione>Intossicazione per cui il sangue presenta una reazione acida</descrizione>
+			<descrizione>Per acidosi in campo medico, si intende un aumento dell'acidità, ovverosia un incremento della concentrazione di ioni idrogeno di un qualsiasi fluido o tessuto con conseguente abbassamento del pH, sia per effettivo aumento di ioni positivi sia per la diminuzione di ioni negativi con effetto tampone.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Acidosi</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/acidosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Acidosi respiratoria</entry>
+		<descrizione>Situazione patologica in cui arriva poco ossigeno ai polmoni e diminuisce il pH nel sangue</descrizione>
+		<capitolo>T99_Altro dist. endocrino/metabolico/nutriz.</capitolo>
+		<id>247</id>
+		<descrizioniAggiuntive>
+			<descrizione>Per acidosi respiratoria, in campo medico, si intende una condizione caratterizzata da un basso livello di pH, che ha origine da una diminuita ventilazione alveolare.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Acidosi respiratoria</sinonimo>
+			<sinonimo>Acidosi da anidride carbonica</sinonimo>
+			<sinonimo>Anidride carbonica acidosi</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Acidosi_respiratoria</wikiLink>
+	</voce>
+	<voce>
+		<entry>Acne</entry>
+		<descrizione>Malattia molto diffusa, specialmente tra gli adolescenti, per la quale la pelle, soprattutto del viso, si copre di brufoli</descrizione>
+		<capitolo>S96_ACNE</capitolo>
+		<id>248</id>
+		
+		<descrizioniAggiuntive>
+			<descrizione>Malattia della pelle</descrizione>
+			<descrizione>L'acne è una malattia della pelle ad evoluzione benigna, caratterizzata da un processo infiammatorio del follicolo pilifero e della ghiandola sebacea annessa, chiamata in linguaggio comune "brufolo" o "foruncolo".</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Acne</sinonimo>
+			<sinonimo>Acne endogena</sinonimo>
+			<sinonimo>Acne giovanile</sinonimo>
+			<sinonimo>Acne nodulo cistica</sinonimo>
+			<sinonimo>Acne papulo-pustolosa</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Acne</wikiLink>
+	</voce>
+	<voce>
+		<entry>Acufene</entry>
+		<descrizione>Disturbo della capacita' uditiva e consiste nella percezione di rumori, suoni fastidiosi, talvolta sottili fischi o ronzii. Si tratta di rumori creati all?interno del corpo o percezioni di rumori esterni che in realta' non esistono</descrizione>
+		<capitolo>H03_Acufene/tintinnio/ronzio all?orecchio</capitolo>
+		<id>249</id>
+		<descrizioniAggiuntive>
+			<descrizione>Un acufene, in medicina, è un disturbo uditivo costituito da rumori che l'orecchio percepisce come fastidiosi a tal punto da influire sulla qualità della vita del soggetto affettone.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Acufene</sinonimo>
+			<sinonimo>Tinnito</sinonimo>
+			<sinonimo>Acufeni</sinonimo>
+			<sinonimo>Tinnitus</sinonimo>
+			<sinonimo>Ronzio auricolare</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/acufene</wikiLink>
+	</voce>
+	<voce>
+		<entry>Addensamento</entry>
+		<descrizione>Ispessimento di un organo o di un tessuto</descrizione>
+		<capitolo>R81_Polmonite</capitolo>
+		<id>250</id>
+	</voce>
+	<voce>
+		<entry>Adenocarcinoma intestinale</entry>
+		<descrizione>Tumore maligno localizzato nell'intestino che prende origine dall'epitelio ghiandolare.</descrizione>
+		<capitolo>D75_ Neoplasia maligna del colon/retto</capitolo>
+		<id>251</id>
+	</voce>
+	<voce>
+		<entry>Adenocarcinoma polmonare</entry>
+		<descrizione>Tumore maligno localizzato nei pomoni che prende origine dall'epitelio ghiandolare.</descrizione>
+		<capitolo>R84_Neoplasia maligna bronchiale/polmonare</capitolo>
+		<id>252</id>
+		<descrizioniAggiuntive>
+			<descrizione>Per adenocarcinoma polmonare in campo medico, si intende una neoplasia maligna a carattere invasivo che colpisce i bronchi, esso conta il 40% dei vari tipi ed è la forma più comune nelle persone non fumatrici.</descrizione>
+			<descrizione>Neoplasia maligna</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Adenocarcinoma polmonare</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Adenocarcinoma_polmonare</wikiLink>
+	</voce>
+	<voce>
+		<entry>Adenoidi</entry>
+		<descrizione>Piccole masse di tessuto linfatico situate nella parte alta della gola o piu' esattamente la' dove le vie nasali sboccano nella gola stessa. Svolgono una complessa funzione di difesa. Piu' che come parte anatomiche sono riconosciute come un disturbo o patologia, in particolare quando le adenoidi sono molto voluminose, poiche' rappresentano un serio ostacolo  alla respirazione.</descrizione>
+		<capitolo>R90_Ipertrofia di tonsille/adenoidi</capitolo>
+		<id>253</id>
+	</voce>
+	<voce>
+		<entry>Afasia</entry>
+		<descrizione>Non riuscire a spiegarsi ne' attraverso le parole, ne' attraverso la scrittura o i segni o non riuscire a capire ne' una persona che parla ne' un testo scritto</descrizione>
+		<capitolo>N19_Disordine della parola</capitolo>
+		<id>254</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia di origine nervosa che colpisce il linguaggio</descrizione>
+			<descrizione>L'afasia è la perdita della capacità di produrre o comprendere il linguaggio, dovuta a lesioni alle aree del cervello deputate alla sua elaborazione.</descrizione>
+			<descrizione>Alterazione del linguaggio</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Afasia</sinonimo>
+			<sinonimo>Afemia</sinonimo>
+			<sinonimo>Afasia di wernicke</sinonimo>
+			<sinonimo>Afasia recettiva</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/afasia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Afte</entry>
+		<descrizione>Piccole ulcere dolorose solitamente all'interno della bocca causate da una rottura della mucosa</descrizione>
+		<capitolo>D83_MALATTIA_DELLA_BOCCA/LINGUA/LABBRA</capitolo>
+		<id>255</id>
+		<descrizioniAggiuntive>
+			<descrizione>Viene definita afta una dolorosa ulcera all'interno della cavità orale causata da una rottura della mucosa.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Afta</sinonimo>
+			<sinonimo>Stomatite aftosa</sinonimo>
+			<sinonimo>Ulcera aftosa</sinonimo>
+			<sinonimo>Stomatite aftosa ricorrente</sinonimo>
+			<sinonimo>Aftosi del cavo orale</sinonimo>
+			<sinonimo>Mal di cancro</sinonimo>
+			<sinonimo>Afte</sinonimo>
+			<sinonimo>Ulcere aftose</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Afta</wikiLink>
+	</voce>
+	<voce>
+		<entry>Aids</entry>
+		<descrizione>La Sindrome da immunodeficienza acquisita, rappresenta lo stadio clinico terminale dell?infezione da parte del virus dell?immunodeficienza umana (Hiv)</descrizione>
+		<capitolo>B90_Infezione HIV/AIDS</capitolo>
+		<id>256</id>
+		<descrizioniAggiuntive>
+			<descrizione>La sindrome da immunodeficienza acquisita è una malattia del sistema immunitario umano causata dal virus dell'immunodeficienza umana.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>AIDS</sinonimo>
+			<sinonimo>Sindrome da immunodeficienza acquisita</sinonimo>
+			<sinonimo>SIDA</sinonimo>
+			<sinonimo>HIV/AIDS</sinonimo>
+			<sinonimo>Stadiazione HIV</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/AIDS</wikiLink>
+	</voce>
+	<voce>
+		<entry>Allergia</entry>
+		<descrizione>Reazione spropositata a qualche sostanza (e.g. pollini, cloro). Si concretizza in ripetute sequenze di starnuti intensi, gocciolamento del naso, chiusura della gola a volte con asma, innalzamento della temperatura corporea, arrossamento e prurito agli occhi (congiuntivite). Esistono anche manifestazioni cutanee delle allergie con la comparsa di dermatiti.</descrizione>
+		<capitolo>A92_Allergia/ reazione allergica NAC</capitolo>
+		<id>257</id>
+		<descrizioniAggiuntive>
+			<descrizione>Alterazione della risposta di un organismo a determinate sostanze</descrizione>
+			<descrizione>L'allergia è una malattia del sistema immunitario caratterizzata da reazioni eccessive portate da particolari anticorpi nei confronti di sostanze abitualmente innocue come ad esempio pollini.</descrizione>
+			<descrizione>Malattia del sistema immunitario</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Allergia</sinonimo>
+			<sinonimo>Reazione allergica</sinonimo>
+			<sinonimo>Allergie</sinonimo>
+			<sinonimo>Reazioni allergiche</sinonimo>
+			<sinonimo>Allergiche</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/allergia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Allergia locale</entry>
+		<descrizione>Allergia con reazione localizzata solo su una certa parte del corpo</descrizione>
+		<capitolo>S88_Dermatite da contatto/allergia</capitolo>
+		<id>258</id>
+	</voce>
+	<voce>
+		<entry>Alluce valvo</entry>
+		<descrizione>Patologia a carico del piede, caratterizzata da una deformita' dell'alluce che appare con la falange deformata, formante un angolo verso l'estero</descrizione>
+		<capitolo>L17_Sintomo o disturbo di piede/dito di piede</capitolo>
+		<id>259</id>
+	</voce>
+	<voce>
+		<entry>Alopecia</entry>
+		<descrizione>Processo di diminuzione della qualita' (colore, spessore) e della quantita' di capelli o la loro scomparsa. E' un tipo di perdita dei capelli a chiazze</descrizione>
+		<capitolo>P29_Altro sintomo o disturbo psicologico</capitolo>
+		<id>260</id>
+		<descrizioniAggiuntive>
+			<descrizione>Si definisce alopecia il processo di diminuzione della qualità e della quantità di capelli o la loro scomparsa.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Alopecia</sinonimo>
+			<sinonimo>Psilosi</sinonimo>
+			<sinonimo>Alopecia androgenetica</sinonimo>
+			<sinonimo>Calvizie</sinonimo>
+			<sinonimo>Calvezza</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Alopecia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Alzheimer</entry>
+		<descrizione>Malattia che colpisce le persone oltre i 60 anni di eta'. E' una malattia che distrugge le cellule cerebrali portando il paziente da una forma lieve di perdita di memoria alla totale perdita di autosufficienza</descrizione>
+		<capitolo>P70_Demenza</capitolo>
+		<id>261</id>
+		<descrizioniAggiuntive>
+			<descrizione>La malattia di Alzheimer-Perusini, detta anche morbo di Alzheimer, demenza presenile di tipo Alzheimer, demenza degenerativa primaria di tipo Alzheimer o semplicemente di Alzheimer, è la forma più comune di demenza degenerativa progressivamente invalidante con esordio prevalentemente in età presenile.</descrizione>
+			<descrizione>Sindrome caratterizzata da demenza degenerativa invalidante</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Malattia di alzheimer</sinonimo>
+			<sinonimo>Morbo di alzheimer</sinonimo>
+			<sinonimo>Alzheimer</sinonimo>
+			<sinonimo>Demenza di alzheimer</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Malattia_di_Alzheimer</wikiLink>
+	</voce>
+	<voce>
+		<entry>Anacusia</entry>
+		<descrizione>Patologia che colpisce gli organi dell'udito e che porta alla perdita totale o parziale (unilaterale) della funzione uditiva</descrizione>
+		<capitolo>H28_Limitazione/disabilita' uditiva (H)</capitolo>
+		<id>262</id>
+	</voce>
+	<voce>
+		<entry>Anemia</entry>
+		<descrizione>Mancanza di globuli rossi che determina debolezza e colore meno intenso del sangue</descrizione>
+		<capitolo>B82_Altra anemia/non specificata</capitolo>
+		<id>263</id>
+		
+		<descrizioniAggiuntive>
+			<descrizione>Malattia che fa diminuire i globuli rossi del sangue</descrizione>
+			<descrizione>Si definisce anemia la riduzione patologica dell'emoglobina nel sangue al di sotto dei range di normalità.</descrizione>
+			<descrizione>Diminuzione del tasso di emoglobina nel sangue</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>anemia</sinonimo>
+			<sinonimo>Anemie</sinonimo>
+			<sinonimo>Oligoemia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Anemia</wikiLink>
+
+	</voce>
+	<voce>
+		<entry>Aneurisma</entry>
+		<descrizione>Un aneurisma è una dilatazione progressiva di un segmento di un'arteria, che è stata causata da un anomalia della parete del vaso sanguigno.</descrizione>
+		<capitolo>K99_Altra malattia cardiovascolare</capitolo>
+		<id>264</id>
+		<descrizioniAggiuntive>
+			<descrizione>Dilatazione anomala di un'arteria dovuta all' alterazione di una sua parete</descrizione>
+			<descrizione>Un aneurisma è una dilatazione progressiva di un segmento vascolare che deve essere almeno pari al 50%, altrimenti si parla di ectasia.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Aneurisma</sinonimo>
+			<sinonimo>Aneurismi</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/aneurisma</wikiLink>
+	</voce>
+	<voce>
+		<entry>Angina pectoris</entry>
+		<descrizione>Forte dolore al cuore e a volte anche al braccio sinistro</descrizione>
+		<capitolo>K74_Cardiopatia ischemica con angina</capitolo>
+		<id>265</id>
+		<descrizioniAggiuntive>
+			<descrizione>Angina pectoris</descrizione>
+			<descrizione>L'angina pectoris è un dolore al torace, denominato anche dolore retrosternale, provocato dall'insufficiente ossigenazione del muscolo cardiaco a causa di una transitoria diminuzione del flusso sanguigno attraverso le arterie coronarie.</descrizione>
+			<descrizione>Indicato come un senso di oppressione toracica, da distinguere da un dolore a tipo fitta che si può ricondurre a dolori di natura più prettamente muscolare.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Angina pectoris</sinonimo>
+			<sinonimo>Stenocardia</sinonimo>
+			<sinonimo>Angina</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/angina_pectoris</wikiLink>
+	</voce>
+	<voce>
+		<entry>Angioma</entry>
+		<descrizione>formazione di natura benigna, causata da un anomalo sviluppo dei vasi sanguigni, che si presentano dilatati.  La dilatazione del vaso sanguigno dà luogo alla formazione di quello che viene comunemente chiamato un “cul de sac”, nel quale il flusso di sangue ristagna. la voglia o macchia di vino, ad esempio, è un angioma della pelle (di forma e grandezza diverse), presente alla nascita.</descrizione>
+		<capitolo>S81_Emangioma/linfangioma</capitolo>
+		<id>266</id>
+		<descrizioniAggiuntive>
+			<descrizione>Tumore dei vasi del sistema sanguigno</descrizione>
+			<descrizione>L'angioma è un tumore benigno formato da cellule derivate dall'endotelio o dall'epitelio del sistema circolatorio linfatico o da cellule dei tessuti che circondano tali strutture.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Angioma</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/angioma</wikiLink>
+	</voce>
+	<voce>
+		<entry>Anoressia</entry>
+		<descrizione>Astensione volontaria dal cibo che può portate alla totale mancanza. Malattia psicologica molto grave che colpisce principalmente gli adolescenti.</descrizione>
+		<capitolo>T03_Perdita dell'appetito</capitolo>
+		<id>267</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'anoressia nervosa è uno dei più importanti disturbi del comportamento alimentare, detti anche Disturbi Alimentari Psicogeni.</descrizione>
+			<descrizione>L'anoressia è la mancanza o riduzione dell'appetito, quest'ultima a volte indicata come iporessia.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>anoressia nervosa</sinonimo>
+			<sinonimo>anoressia</sinonimo>
+			<sinonimo>anoressia mentale</sinonimo>
+			<sinonimo>inappetenza</sinonimo>
+			<sinonimo>Iporessia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Anoressia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Appendicite</entry>
+		<descrizione>infiammazione dell'appendice, che e' una piccola protuberanza dell'intestino, delle dimensioni di un dito. se non curata in tempo puo' degenerare in peritonite.</descrizione>
+		<capitolo>D88_Appendicite</capitolo>
+		<id>268</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione dell'appendice</descrizione>
+			<descrizione>Per appendicite s'intende l'infiammazione dell'appendice vermiforme.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Appendicite</sinonimo>
+			<sinonimo>Appendicite acuta</sinonimo>
+			<sinonimo>Appendicite cronica</sinonimo>
+			<sinonimo>Appendice rotta</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/appendicite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Appendicopatia</entry>
+		<descrizione>Qualsiasi patologia legata all'appendice cecale. La malattia piu' comune e' l?appendicite, l?infiammazione dell?appendice</descrizione>
+		<capitolo>D88_Appendicite</capitolo>
+		<id>269</id>
+	</voce>
+	<voce>
+		<entry>Aritmia</entry>
+		<descrizione>Battiti del cuore non regolari</descrizione>
+		<capitolo>K80_Aritmia cardiaca NAC</capitolo>
+		<id>270</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'aritmia è l'alterazione del ritmo cardiaco normale, che si riferisce al ritmo che origina dal nodo del seno, regolare per frequenza e conduzione elettrica del cuore.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Aritmia</sinonimo>
+			<sinonimo>Aritmie</sinonimo>
+			<sinonimo>Aritmia cardiaca</sinonimo>
+			<sinonimo>Aritmie cardiache</sinonimo>
+			<sinonimo>Alloritmia</sinonimo>
+			<sinonimo>Disritmie</sinonimo>
+			<sinonimo>Aritmico</sinonimo>
+			<sinonimo>Disturbi del ritmo cardiaco</sinonimo>
+			<sinonimo>Aritmia ventricolare</sinonimo>
+			<sinonimo>Battito cardiaco irregolare</sinonimo>
+			<sinonimo>Tachiaritmia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/aritmia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Artereosclerosi</entry>
+		<descrizione>Malattia pre lo piu' presente negli anziani. Provoca la perdita della memoria</descrizione>
+		<capitolo>K92_ARTERIOSCLEROSI/MALATTIA_VASCOLARE_PERIFERICA</capitolo>
+		<id>271</id>
+	</voce>
+	<voce>
+		<entry>Arteriosclerosi</entry>
+		<descrizione>Malattia pre lo piu' presente negli anziani. Provoca la perdita della memoria</descrizione>
+		<capitolo>K92_Arteriosclerosi/mal.vascolare periferica</capitolo>
+		<id>272</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia degenerativa delle arterie</descrizione>
+			<descrizione>L'arteriosclerosi è un indurimento tissutale, o sclerosi, della parete arteriosa che compare con l'avanzare dell'età, come conseguenza dell'accumulo di tessuto connettivo fibroso a scapito della componente elastica.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Arteriosclerosi</sinonimo>
+			<sinonimo>Indurimento delle arterie</sinonimo>
+			<sinonimo>Malattia coronarica</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/arteriosclerosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Artrite</entry>
+		<descrizione>Infiammazione e dolore alle articolazioni. Ci sono vari tipi di artriti: quella reumatoide, quella gottosa e quella chiamata osteoartrite. Spesso frequente in età avanzata.</descrizione>
+		<capitolo>L87_Borsite/tendinite/sinovite NAC</capitolo>
+		<id>273</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione articolare</descrizione>
+			<descrizione>L'artrite è un'infiammazione articolare di cui esistono oltre 100 tipologie.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Artrite</sinonimo>
+			<sinonimo>Artriti</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/artrite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Artrite acuta</entry>
+		<descrizione>Infiammazione delle articolazioni nella fase piu' pungente e dolorosa</descrizione>
+		<capitolo>L87_Borsite/tendinite/sinovite NAC</capitolo>
+		<id>274</id>
+	</voce>
+	<voce>
+		<entry>Artrite gottosa</entry>
+		<descrizione>Infiammazione delle articolazioni dovuta alla gotta</descrizione>
+		<capitolo>L87_Borsite/tendinite/sinovite NAC</capitolo>
+		<id>275</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia metabolica dovuta all'eccesso di acido urico nel sangue e caratterizzata da accessi di artrite acuta soprattutto ai piedi</descrizione>
+			<descrizione>La gotta è una malattia del metabolismo caratterizzata da attacchi ricorrenti di artrite infiammatoria acuta con dolore, arrossamento e gonfiore delle articolazioni, causati dal deposito di cristalli di acido urico in presenza di iperuricemia.</descrizione>
+			<descrizione>Patologia causata dall `aumento della produzione di acido urico</descrizione>
+			<descrizione>Malattia metabolica</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Gotta</sinonimo>
+			<sinonimo>Podagra</sinonimo>
+			<sinonimo>Chiragra</sinonimo>
+			<sinonimo>Artrite gottosa</sinonimo>
+			<sinonimo>Urarthritis</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/gotta</wikiLink>
+	</voce>
+	<voce>
+		<entry>Artrosi</entry>
+		<descrizione>malattia delle articolazioni, colpisce prevalentamente gli anziani</descrizione>
+		<capitolo>L91_Altra artrosi</capitolo>
+		<id>276</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia degenerativa delle articolazioni frequente con l'avanzare dell'età</descrizione>
+			<descrizione>L'osteoartrosi o artrosi o, secondo la corrente terminologia anglofona, osteoartrite, è una malattia degenerativa che interessa le articolazioni.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Artrosi</sinonimo>
+			<sinonimo>Osteoartrosi</sinonimo>
+			<sinonimo>Artrite degenerativa</sinonimo>
+			<sinonimo>Osteoartrite</sinonimo>
+			<sinonimo>Gonartrosi</sinonimo>
+			<sinonimo>Malattia degenerativa delle articolazioni</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Osteoartrosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Ascesso</entry>
+		<descrizione>Zona gonfia a causa di un'infezione (es.gengiva)</descrizione>
+		<capitolo>A99_Malattia o condizione o sede non definita</capitolo>
+		<id>277</id>
+		<descrizioniAggiuntive>
+			<descrizione>Sacca di pus che si forma in una parte del corpo in seguito a un'infezione</descrizione>
+			<descrizione>Un ascesso è una raccolta di essudato purulento che si forma all'interno di un tessuto.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Apostema</sinonimo>
+			<sinonimo>Ascesso</sinonimo>
+			<sinonimo>Postema</sinonimo>
+			<sinonimo>Ascessi</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/ascesso</wikiLink>
+	</voce>
+	<voce>
+		<entry>Ascesso dentale</entry>
+		<descrizione>Gofiore della gengiva dovuto a un'infezione</descrizione>
+		<capitolo>D82_Malattia di denti o gengive</capitolo>
+		<id>278</id>
+		<descrizioniAggiuntive>
+			<descrizione>Con il termine di ascesso alveolare, ascesso alveolare acuto, ascesso periapicale o ascesso dentale si definisce una raccolta circoscritta con contenuto purulento che dalla zona periapicale di un dente affetto da patologia infettiva dei tessuti interni, tende a migrare verso la superficie, comparendo di solito come tumefazione ben delimitata in corrispondenza della mucosa alveolare della bocca, nel tentativo da parte dell'organismo di contenere ed eliminare l'infezione.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ascesso alveolare</sinonimo>
+			<sinonimo>Ascesso alveolare acuto</sinonimo>
+			<sinonimo>Ascesso dentale</sinonimo>
+			<sinonimo>Ascesso periapicale</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Ascesso_alveolare</wikiLink>
+	</voce>
+	<voce>
+		<entry>Ascesso perianale</entry>
+		<descrizione>Infezione con rigonfiamento vicino all'ano</descrizione>
+		<capitolo>D95_Ragade anale/ascesso perianale</capitolo>
+		<id>279</id>
+	</voce>
+	<voce>
+		<entry>Asma</entry>
+		<descrizione>Fatica nel respirare, senso di chiusura della gola, senso di parzialita' nel funzionamento dei polmoni</descrizione>
+		<capitolo>R96_Asma</capitolo>
+		<id>280</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia che provoca intensa difficoltà respiratoria dovuta a spasmo e ipersecrezione bronchiale</descrizione>
+			<descrizione>L'asma è una malattia infiammatoria caratterizzata da ostruzione generalmente reversibile delle vie aeree inferiori spesso in seguito a sensibilizzazione da parte di allergeni.</descrizione>
+			<descrizione>Malattia dell'apparato respiratorio</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Asma</sinonimo>
+			<sinonimo>Asma bronchiale</sinonimo>
+			<sinonimo>Crisi asmatica</sinonimo>
+			<sinonimo>Attacco d'asma</sinonimo>
+			<sinonimo>Asma allergica</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/asma</wikiLink>
+	</voce>
+	<voce>
+		<entry>Astigmatismo</entry>
+		<descrizione>L'astigmatismo e' il piu' comune problema visivo. E' quasi sempre causato da una forma irregolare della cornea.</descrizione>
+		<capitolo>F28_LIMITAZIONE_FUNZIONALE/DISABILITA'_OCULARE</capitolo>
+		<id>281</id>
+		<descrizioniAggiuntive>
+			<descrizione>Difetto di curvatura della cornea per cui l'immagine non si forma in un unico fuoco e la visione risulta indistinta</descrizione>
+			<descrizione>L'astigmatismo, in oftalmologia è una aberrazione ottica astigmatica che costituisce un'ametropia.</descrizione>
+			<descrizione>In genere corneale</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Astigmatismo</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/astigmatismo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Blocco intestinale</entry>
+		<descrizione>Non riuscire a defecare e sentire la pancia dura</descrizione>
+		<capitolo>D99_Altra malattia del sistema digerente</capitolo>
+		<id>282</id>
+		<descrizioniAggiuntive>
+			<descrizione>Difficoltà a defecare</descrizione>
+			<descrizione>La stitichezza o stipsi è una malattia o disturbo della defecazione consistente nella difficoltà di svuotare in tutto o in parte l'intestino espellendone le feci.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>stitichezza</sinonimo>
+			<sinonimo>costipazione</sinonimo>
+			<sinonimo>stipsi</sinonimo>
+			<sinonimo>blocco intestinale</sinonimo>
+			<sinonimo>costipamento</sinonimo>
+			<sinonimo>Occlusione intestinale</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Stitichezza</wikiLink>
+	</voce>
+	<voce>
+		<entry>Borsite</entry>
+		<descrizione>Infiammazione di una borsa (sacca) mucosa o sierosa</descrizione>
+		<capitolo>L87_Borsite/tendinite/sinovite NAC</capitolo>
+		<id>283</id>
+		<descrizioniAggiuntive>
+			<descrizione>Per borsite si intende un processo infiammatorio della borsa sierosa di un'articolazione</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>borsite</sinonimo>
+			<sinonimo>bursite</sinonimo>
+			<sinonimo>Borsiti</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Borsite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Bronchite</entry>
+		<descrizione>La bronchite è un'infiammazione dei bronchi è può essere causata da virus o batteri.</descrizione>
+		<capitolo>R78_Bronchite acuta/bronchiolite</capitolo>
+		<id>284</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione dei bronchi</descrizione>
+			<descrizione>La bronchite è una tra le più frequenti malattie dell'apparato respiratorio.</descrizione>
+			<descrizione>Malattia dell'apparato respiratorio</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Bronchite</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/bronchite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Broncopolmonite</entry>
+		<descrizione>infiammazione dell'apparato respiratorio</descrizione>
+		<capitolo>R81_Polmonite</capitolo>
+		<id>285</id>
+		<descrizioniAggiuntive>
+			<descrizione>La broncopolmonite, è uno dei due tipi di polmonite batterica classificati per la presenza di masse solide.</descrizione>
+			<descrizione>Malattia dell'apparato respiratorio</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Broncopolmonite</sinonimo>
+			<sinonimo>Broncopolmoniti</sinonimo>
+			<sinonimo>Polmonite bronchiale</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Broncopolmonite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Bulimia</entry>
+		<descrizione>Disturbo del comportamento alimentare, ingerire cibo in maniera compulsiva, senza controllo.</descrizione>
+		<capitolo>P86_Anoressia nervosa/bulimia</capitolo>
+		<id>286</id>
+		<descrizioniAggiuntive>
+			<descrizione>La bulimia è un disturbo del comportamento alimentare</descrizione>
+			<descrizione>l disturbo da alimentazione incontrollata, detto anche BED è un disturbo del comportamento alimentare che si presenta clinicamente con episodi di abbuffate tipici della bulimia nervosa, senza però mostrare i comportamenti compensatori tipici di quest'ultima, quali vomito, abuso di lassativi o diuretici, digiuno successivo</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>bulimia</sinonimo>
+			<sinonimo>Bulimia nervosa</sinonimo>
+			<sinonimo>Bulimico</sinonimo>
+			<sinonimo>Iperoressia</sinonimo>
+			<sinonimo>Polifagia nervosa</sinonimo>
+			<sinonimo>Disturbo da alimentazione incontrollata</sinonimo>
+			<sinonimo>Binge eating disorder</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Bulimia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Calcoli Renali</entry>
+		<descrizione>Un calcolo renale e' un corpo solido che si forma all'interno del rene.</descrizione>
+		<capitolo>U95_CALCOLOSI_URINARIA</capitolo>
+		<id>287</id>
+		<descrizioniAggiuntive>
+			<descrizione>La calcolosi renale o nefrolitiasi è una condizione clinica caratterizzata dalla formazione di precipitati nel rene, inquadrata all'interno delle calcolosi delle vie urinarie.</descrizione>
+			<descrizione>Nome con cui viene identificata una tipologia di calcolosi renale caratterizzata dalla presenza di cristalli di dimensioni molto ridotte</descrizione>
+			<descrizione>Citazioni sulla calcolosi renale o nefrolitiasi.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Calcolo renale</sinonimo>
+			<sinonimo>Nefrolito</sinonimo>
+			<sinonimo>Nefrolitiasi</sinonimo>
+			<sinonimo>Calcoli renali</sinonimo>
+			<sinonimo>Calcolosi renale</sinonimo>
+			<sinonimo>Litiasi renale</sinonimo>
+			<sinonimo>Calcoli delle vie urinarie</sinonimo>
+			<sinonimo>Nephrolith</sinonimo>
+			<sinonimo>Calcolosi renale di acido urico</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Nefrolitiasi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Cancrena</entry>
+		<descrizione>Una parte del corpo muore perche' non riceve piu' nutrimento e ossigeno</descrizione>
+		<capitolo>K92_Arteriosclerosi/mal.vascolare periferica</capitolo>
+		<id>288</id>
+		<descrizioniAggiuntive>
+			<descrizione>Con il termine necrosi si indica l'insieme dei fenomeni morfologicamente osservabili cui la cellula va incontro in seguito a morte prematura per cause non naturali nei tessuti viventi.</descrizione>
+			<descrizione>La gangrena, detta anche cancrena o cangrena, è una complicazione del processo di necrosi caratterizzata dalla decomposizione dei tessuti, che diventano nerastri o verdastri.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Cancrena</sinonimo>
+			<sinonimo>Necrosi</sinonimo>
+			<sinonimo>Gangrena</sinonimo>
+			<sinonimo>Gangrena diabetica</sinonimo>
+			<sinonimo>Gangrena embolica</sinonimo>
+			<sinonimo>Gangrena secca</sinonimo>
+			<sinonimo>Gangrena umida</sinonimo>
+			<sinonimo>Necrosi dei tessuti</sinonimo>
+			<sinonimo>Necrotico</sinonimo>
+			<sinonimo>Necrotizzante</sinonimo>
+			<sinonimo>Tessuto necrotico</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/necrosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Cancro</entry>
+		<descrizione>Degenerazione cellulare che può situarsi in svariate parti e organi corporei che impedisce all'organo intaccato di funzionare correttamente fino alla distruzione dell'organo stesso .E' spesso mortale e le cure non sono ancora risolutive.Si interviene con la rimozione chirurgica delle parti ammalate, o con chemio e radioterapia.</descrizione>
+		<capitolo>B74_ALTRA_NEOPLASIA_MALIGNA_EMATOLOGICA</capitolo>
+		<id>289</id>
+		<descrizioniAggiuntive>
+			<descrizione>Una neoplasia o tumore, indica, in patologia, «una massa abnormale di tessuto che cresce in eccesso ed in modo scoordinato rispetto ai tessuti normali, e che persiste in questo stato dopo la cessazione degli stimoli che hanno indotto il processo».</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>cancro</sinonimo>
+			<sinonimo>canchero</sinonimo>
+			<sinonimo>carcinoma</sinonimo>
+			<sinonimo>tumore maligno</sinonimo>
+			<sinonimo>Neoplasia</sinonimo>
+			<sinonimo>Accrescimento tumorale</sinonimo>
+			<sinonimo>Cancerose</sinonimo>
+			<sinonimo>Neoplasia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Neoplasia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Candidosi</entry>
+		<descrizione>La candidosi è la più frequente infezione micotica (provocata cioè da funghi) che colpisce l'apparato genitale.</descrizione>
+		<capitolo>A78_Altra malattia infettiva/NAC</capitolo>
+		<id>290</id>
+		<descrizioniAggiuntive>
+			<descrizione>La candidosi, detta anche candidiasi o moniliasi, è un'infezione da funghi del genere Candida, di cui Candida albicans è il più comune.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Candidosi</sinonimo>
+			<sinonimo>Candidosi genitale</sinonimo>
+			<sinonimo>Candidiasi</sinonimo>
+			<sinonimo>Candidiasi vaginale</sinonimo>
+			<sinonimo>Candidiasi vulvare</sinonimo>
+			<sinonimo>Monilia malattia</sinonimo>
+			<sinonimo>Moniliasi</sinonimo>
+			<sinonimo>Infezioni da lieviti</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/candidosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Carie</entry>
+		<descrizione>malattia provocata da un batterio che attacca i denti, rovinandoli dall'esterno. quando raggiunge il nervo provoca dolori molto forti. Una volta che la carie ha attaccato un dente, esso non puo' essere curato; la carie va asportata dal dentista.</descrizione>
+		<capitolo>D19_SINTOMO_O_DISTURBI_RIFERITI_A_DENTI_O_GENGIVE</capitolo>
+		<id>291</id>
+		<descrizioniAggiuntive>
+			<descrizione>La carie è un processo patologico che consiste nell'erosione o nella distruzione di un tessuto duro.</descrizione>
+			<descrizione>La carie dentaria è una malattia degenerativa dei tessuti duri del dente su base infettiva, che origina dalla superficie e procede in profondità, fino alla polpa dentale.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Carie</sinonimo>
+			<sinonimo>Carie dentaria</sinonimo>
+			<sinonimo>Carie dentale</sinonimo>
+			<sinonimo>Cariogeni</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Carie_dentaria</wikiLink>
+	</voce>
+	<voce>
+		<entry>Cataratta congenita</entry>
+		<descrizione>La cataratta congenita e' una pellicola opaca che si forma sulla superfice del cristallino, e che offusca la vista. Congenita significa che si tratta di malattie ereditaria.</descrizione>
+		<capitolo>F92_CATARATTA</capitolo>
+		<id>292</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il termine cataratta congenita si riferisce ad una opacità sull'occhio presente dalla nascita</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Cataratta congenita</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Cecita'</entry>
+		<descrizione>Mancanza della vista</descrizione>
+		<capitolo>F94_Cecita'</capitolo>
+		<id>293</id>
+		<descrizioniAggiuntive>
+			<descrizione>Totale mancanza della vista</descrizione>
+			<descrizione>La cecità consiste in una percezione ottico-visiva ridottissima o nulla.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>cecità</sinonimo>
+			<sinonimo>Ablepsia</sinonimo>
+			<sinonimo>Amaurosi</sinonimo>
+			<sinonimo>Anopsia</sinonimo>
+			<sinonimo>Non vedente</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Cecità</wikiLink>
+	</voce>
+	<voce>
+		<entry>Celiachia</entry>
+		<descrizione>La celiachia e' l'incapacita' di assimilare il glutine contenuto nei cereali</descrizione>
+		<capitolo>D99_Altra malattia del sistema digerente</capitolo>
+		<id>294</id>
+		<descrizioniAggiuntive>
+			<descrizione>La celiachia o malattia celiaca è una malattia autoimmune dell'intestino tenue, che si verifica in individui di tutte le età, geneticamente predisposti.</descrizione>
+			<descrizione>Malattia autoimmune dell'intestino tenue</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Celiachia</sinonimo>
+			<sinonimo>Sprue celiaca</sinonimo>
+			<sinonimo>Morbo celiaco</sinonimo>
+			<sinonimo>Malattia celiaca</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/celiachia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Cellulite</entry>
+		<descrizione>La cellulite è un problema diffuso soprattutto nel mondo femminile. La presenza della cellulite su diverse parti del corpo non dipende dal peso di una persona ma è un'alterazione del tessuto cellulare sottocutaneo e può raggiungere diversi stadi.</descrizione>
+		<capitolo>S76_Altra malattia infettiva della pelle</capitolo>
+		<id>295</id>
+		<descrizioniAggiuntive>
+			<descrizione>Accumulo di acqua e grasso nel tessuto sottocutaneo</descrizione>
+			<descrizione>La cellulite estetica, da non confondere con la cellulite infettiva, in termini medici più correttamente denominata panniculopatia edemato-fibro-sclerotica o PEFS, indica una condizione alterata del tessuto sottocutaneo che è ricco di cellule adipose. </descrizione>
+		</descrizioniAggiuntive>
+		<wikiLink>it.wikipedia.org/wiki/Cellulite_(estetica)</wikiLink>
+	</voce>
+	<voce>
+		<entry>Cistite</entry>
+		<descrizione>Infiammazione della vescica che colpisce soprattutto le donne.</descrizione>
+		<capitolo>U71_Cistite/altra infezione urinaria</capitolo>
+		<id>296</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione della vescica</descrizione>
+			<descrizione>La cistite è una infiammazione della vescica urinaria, organo dedicato alla raccolta dell'urina.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Cistite</sinonimo>
+			<sinonimo>Cistiti</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/cistite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Colite</entry>
+		<descrizione>Infiammazione del colon spesso dovuta ad intolleranze alimentari(ad esempio, da latticini)</descrizione>
+		<capitolo>D99_ALTRA_MALATTIA_AL_SISTEMA_DIGERENTE</capitolo>
+		<id>297</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione del colon</descrizione>
+			<descrizione>La colite è un gruppo di condizioni infiammatorie ed autoimmuni che colpiscono il colon, ovvero il secondo tratto dell'intestino crasso.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Colite</sinonimo>
+			<sinonimo>Malattie infiammatorie intestinali</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/colite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Colpo della strega</entry>
+		<descrizione>Dolore acuto alla schiena, in basso verso il sedere, in genere dopo qualche movimento brusco o sforzo.</descrizione>
+		<capitolo>L84_Sindrome dorso lombare senza irradiazione</capitolo>
+		<id>298</id>
+		<descrizioniAggiuntive>
+			<descrizione>Dolore reumatico della regione lombare</descrizione>
+			<descrizione>La lombalgia, più comunemente detta mal di schiena, è un disturbo comune che coinvolge i muscoli e le ossa della schiena.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Lombaggine</sinonimo>
+			<sinonimo>Lombalgia</sinonimo>
+			<sinonimo>Lombalgie</sinonimo>
+			<sinonimo>Colpo della strega</sinonimo>
+			<sinonimo>Dolore lombare</sinonimo>
+			<sinonimo>Mal di schiena</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/lombalgia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Congestione</entry>
+		<descrizione>Aumento esagerato di sangue in una parte del corpo</descrizione>
+		<capitolo>D87_Disordine gastrico funzionale</capitolo>
+		<id>299</id>
+		<descrizioniAggiuntive>
+			<descrizione>Fenomeno fisiologico che vede un eccesso di sangue o altro in un organo</descrizione>
+		</descrizioniAggiuntive>
+	</voce>
+	<voce>
+		<entry>Congiuntivite</entry>
+		<descrizione>infiammazione agli occhi</descrizione>
+		<capitolo>F70_Congiuntivite infettiva</capitolo>
+		<id>300</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione acuta o cronica della congiuntiva</descrizione>
+			<descrizione>La congiuntivite rappresenta uno stato infiammatorio a carico della congiuntiva.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Congiuntivite</sinonimo>
+			<sinonimo>Congiutivi</sinonimo>
+			<sinonimo>Tipo di patata</sinonimo>
+			<sinonimo>Occhio rosa</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/congiuntivite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Contusione</entry>
+		<descrizione>Ematoma dovuto a una botta, senza tagli o ferite</descrizione>
+		<capitolo>A80_Trauma/lesione traumatica NAC</capitolo>
+		<id>301</id>
+		<descrizioniAggiuntive>
+			<descrizione>Le contusioni sono lesioni conseguenza di un trauma diretto, la cui forza vulnerante non è sufficiente a provocare una discontinuità dei tessuti biologici</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>contusione</sinonimo>
+			<sinonimo>ecchimosi</sinonimo>
+			<sinonimo>lividura</sinonimo>
+			<sinonimo>livido</sinonimo>
+			<sinonimo>acciaccata</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Contusione</wikiLink>
+	</voce>
+	<voce>
+		<entry>Contusione costale</entry>
+		<descrizione>Ematoma dovuto a una botta, senza tagli o ferite, alle costole</descrizione>
+		<capitolo>L81_Lesione traumatica muscoloscheletrica NAC</capitolo>
+		<id>302</id>
+	</voce>
+	<voce>
+		<entry>Contusione cranica</entry>
+		<descrizione>Ematoma dovuto a una botta, senza tagli o ferite, alla testa</descrizione>
+		<capitolo>N80_Altra lesione traumatica della testa</capitolo>
+		<id>303</id>
+	</voce>
+	<voce>
+		<entry>Contusione escoriata</entry>
+		<descrizione>Ematoma, dovuto a una botta, con lesione superficiale della pelle</descrizione>
+		<capitolo>A80_Trauma/lesione traumatica NAC</capitolo>
+		<id>304</id>
+	</voce>
+	<voce>
+		<entry>Contusione palmare</entry>
+		<descrizione>Ematoma dovuto a una botta al palmo delle mani</descrizione>
+		<capitolo>L81_Lesione traumatica muscoloscheletrica NAC</capitolo>
+		<id>305</id>
+	</voce>
+	<voce>
+		<entry>Contusione quadricipite</entry>
+		<descrizione>Ematoma dovuto a una botta, sul quadricipite</descrizione>
+		<capitolo>L81_Lesione traumatica muscoloscheletrica NAC</capitolo>
+		<id>306</id>
+	</voce>
+	<voce>
+		<entry>Contusione sacrale</entry>
+		<descrizione>Ematoma dovuto a una botta, all'osso sacro</descrizione>
+		<capitolo>L81_Lesione traumatica muscoloscheletrica NAC</capitolo>
+		<id>307</id>
+	</voce>
+	<voce>
+		<entry>Couperose</entry>
+		<descrizione>Zone rosse sugli zigomi e sul naso dovute alla rottura o alla dilatazione dei capillari superficiali</descrizione>
+		<capitolo>S99_Altra malattia della pelle</capitolo>
+		<id>308</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'acne rosacea o semplicemente rosacea è una dermatosi, ovvero una alterazione patologica della cute, che interessa di solito l'area centrale del volto e si manifesta con eritema, con teleangectasie e con lesioni infiammatorie di tipo acneiforme.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Acne rosacea</sinonimo>
+			<sinonimo>Rosacea</sinonimo>
+			<sinonimo>Copparosa</sinonimo>
+			<sinonimo>Couperose</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Acne_rosacea</wikiLink>
+	</voce>
+	<voce>
+		<entry>Crisi di asma bronchiale</entry>
+		<descrizione>Momenti in cui si fa molta fatica a respirare</descrizione>
+		<capitolo>R96_Asma</capitolo>
+		<id>309</id>
+	</voce>
+	<voce>
+		<entry>Crisi emorroidaria</entry>
+		<descrizione>Deterioramento o una qualunque alterazione dell'emorroidi interne</descrizione>
+		<capitolo>K96_Emorroidi</capitolo>
+		<id>310</id>
+	</voce>
+	<voce>
+		<entry>Daltonismo</entry>
+		<descrizione>Disturbo alla vista per cui una persona non riesce a distinguere i colori; in particolare, confonde il rosso e il verde</descrizione>
+		<capitolo>F99_Altra malattia di occhio/annessi</capitolo>
+		<id>311</id>
+		<descrizioniAggiuntive>
+			<descrizione>Anomalia della percezione cromatica, in particolare dei colori rosso e verde</descrizione>
+			<descrizione>Il daltonismo consiste in una cecità ai colori, ovvero nell'inabilità a percepire i colori.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Daltonismo</sinonimo>
+			<sinonimo>Daltonico</sinonimo>
+			<sinonimo>Cecità ai colori</sinonimo>
+			<sinonimo>Protanopia</sinonimo>
+			<sinonimo>Deuteranopia</sinonimo>
+			<sinonimo>Tritanopia</sinonimo>
+			<sinonimo>Colore cecità</sinonimo>
+			<sinonimo>Deficit della visione dei colori</sinonimo>
+			<sinonimo>Deficit di visione a colori</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/daltonismo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Denti bucati</entry>
+		<descrizione>Avere carie sui denti</descrizione>
+		<capitolo>D82_Malattia di denti o gengive</capitolo>
+		<id>312</id>
+	</voce>
+	<voce>
+		<entry>Depressione</entry>
+		<descrizione>La depressione è una patologia dell'umore in grado di diminuire il tono dell'umore e l' abilità della persone ad adattarsi alla vita sociale</descrizione>
+		<capitolo>P76_Depressione</capitolo>
+		<id>313</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il disturbo depressivo maggiore è una patologia psichiatrica o disturbo dell'umore, caratterizzata da episodi di umore depresso accompagnati principalmente da una bassa autostima e perdita di interesse o piacere nelle attività normalmente piacevoli.</descrizione>
+			<descrizione>Malattia psichica caratterizzata da alterazione dell'umore e dei sentimenti che provoca un'ingiustificata tristezza spesso unita ad ansia</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Disturbo depressivo</sinonimo>
+			<sinonimo>Depressione</sinonimo>
+			<sinonimo>Depressione clinica</sinonimo>
+			<sinonimo>Depressione maggiore</sinonimo>
+			<sinonimo>Malinconia</sinonimo>
+			<sinonimo>melancolia</sinonimo>
+			<sinonimo>abbattimento</sinonimo>
+			<sinonimo>accasciamento</sinonimo>
+			<sinonimo>deiezione</sinonimo>
+			<sinonimo>demoralizzazione</sinonimo>
+			<sinonimo>deiezione</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Disturbo_depressivo</wikiLink>	
+	</voce>
+	<voce>
+		<entry>Dermatite</entry>
+		<descrizione>Manifestazione cutanea infiammatoria, eritematosa con vescicole essudative oppure desquamative, determinata da vari fattori.</descrizione>
+		<capitolo>S88_Dermatite da contatto/allergia</capitolo>
+		<id>314</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia della cute non infiammatoria</descrizione>
+			<descrizione>Per dermatite si intende una patologia che riguarda la pelle.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Dermatite</sinonimo>
+			<sinonimo>Dermatosi</sinonimo>
+			<sinonimo>Dermatiti</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/dermatite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Diabete</entry>
+		<descrizione>Problema nell'assimilazione degli zuccheri che provoca un innalzamento eccessivo degli zuccheri nel sangue</descrizione>
+		<capitolo>T89_Diabete insulino dipendente</capitolo>
+		<id>315</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia causata da insufficiente secrezione di insulina, porta ad aumento di zucchero nel sangue e presenza di zucchero nelle urine</descrizione>
+			<descrizione>Il diabete mellito o DM è una forma di diabete ovvero un gruppo di disturbi metabolici accomunati dal fatto di presentare una persistente instabilità del livello glicemico del sangue, passando da condizioni di iperglicemia, più frequente, a condizioni di ipoglicemia.</descrizione>
+			<descrizione> </descrizione>
+			<descrizione> </descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>diabete mellito</sinonimo>
+			<sinonimo>diabetico</sinonimo>
+			<sinonimo>diabete</sinonimo>
+			<sinonimo>Diabetologia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Diabete_mellito</wikiLink>
+	</voce>
+	<voce>
+		<entry>Difficolta respiratorie</entry>
+		<descrizione>Difficolta' nel respirare normalmente, spesso provocata da qualche problema ai polmoni o ai bronchi</descrizione>
+		<capitolo>R02_RESPIRO_CORTO,DISPNEA</capitolo>
+		<id>316</id>
+	</voce>
+	<voce>
+		<entry>Discalculia</entry>
+		<descrizione>La discalculia è una difficoltà nell'apprendimento del calcolo, che si manifesta nella scrittura dei numeri, nel riconoscimento dei simboli numerici e nell risoluzioni problematiche.</descrizione>
+		<capitolo>P24_Problema specifico dell?apprendimento</capitolo>
+		<id>317</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'Organizzazione Mondiale della Sanità definisce la discalculia come un disturbo specifico dell'apprendimento a prognosi organica, geneticamente determinato, espressione di disfunzione cerebrale.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Discalculia</sinonimo>
+			<sinonimo>Discalcolia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/discalculia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Disgrafia</entry>
+		<descrizione>Difficoltà ad imparare a scrivere.</descrizione>
+		<capitolo>P24_Problema specifico dell?apprendimento</capitolo>
+		<id>318</id>
+		<descrizioniAggiuntive>
+			<descrizione>La disgrafia è un disturbo specifico della scrittura nella riproduzione di segni alfabetici e numerici; può essere legata a un quadro di disprassia, può essere secondaria a una lateralizzazione incompleta, è caratterizzata dalla difficoltà a riprodurre segni alfabetici e numerici e infine riguarda esclusivamente il grafismo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Disgrafia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Disgrafia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Dislessia</entry>
+		<descrizione>Ridotta capacità di leggere, spesso da lesione del lobo parietale dominante.</descrizione>
+		<capitolo>P24_Problema specifico dell?apprendimento</capitolo>
+		<id>319</id>
+		<descrizioniAggiuntive>
+			<descrizione>Disturbo neurologico della capacità di leggere o di riconoscere e ricomporre il linguaggio scritto</descrizione>
+			<descrizione>La dislessia è un disturbo classificato tra i Disturbi Specifici di Apprendimento con il codice F81.0, e la sua principale manifestazione consiste nella difficoltà che hanno i soggetti colpiti a leggere velocemente e correttamente ad alta voce, nonché ad elaborare e comprendere quello che leggono.</descrizione>
+			<descrizione>Disturbo specifico di apprendimento</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Dislessia</sinonimo>
+			<sinonimo>Dislessico</sinonimo>
+			<sinonimo>Legastenia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/dislessia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Distacco della retina</entry>
+		<descrizione>Malattia che colpisce l'occhio spesso provocata da un trauma o da troppo stress che provoca lo stacco della retina dalla parete dell'occhio, e quindi la perdita parziale o totale della vista</descrizione>
+		<capitolo>F82_Distacco di retina</capitolo>
+		<id>320</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il distacco della retina è una patologia dell'occhio che si presenta in seguito al sollevamento della neuroretina dal tessuto epiteliale pigmentato.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Distacco della retina</sinonimo>
+			<sinonimo>Distacco di retina</sinonimo>
+			<sinonimo>Distacco retinico</sinonimo>
+			<sinonimo>Retina</sinonimo>
+			<sinonimo>Rottura retinica</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Distacco_della_retina</wikiLink>
+	</voce>
+	<voce>
+		<entry>Distorsione</entry>
+		<descrizione>Trauma alle articolazioni. Tipica è la distorsione alla caviglia.</descrizione>
+		<capitolo>L79_Distorsione/stiramento di articolazione NAC</capitolo>
+		<id>321</id>
+		<descrizioniAggiuntive>
+			<descrizione>Atto, effetto del lacerare o del lacerarsi</descrizione>
+			<descrizione>Una distorsione è una patologia a carico dell'apparato locomotore; è causata da traumi o contusioni soprattutto delle ossa più sporgenti, o di movimenti innaturali delle ossa mobili, ma anche un insufficiente tono muscolare può facilitarla.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Distorsione</sinonimo>
+			<sinonimo>Slogatura</sinonimo>
+			<sinonimo>Stiramento</sinonimo>
+			<sinonimo>Stiratura</sinonimo>
+			<sinonimo>Storta</sinonimo>
+			<sinonimo>Lacerazione</sinonimo>
+			<sinonimo>Rottura</sinonimo>
+			<sinonimo>Strappo</sinonimo>
+			<sinonimo>Distorsioni</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/distorsione</wikiLink>
+	</voce>
+	<voce>
+		<entry>Duodenite</entry>
+		<descrizione>Infiammazione del duodeno.</descrizione>
+		<capitolo>D99_Altra malattia del sistema digerente</capitolo>
+		<id>322</id>
+	</voce>
+	<voce>
+		<entry>Epatite</entry>
+		<descrizione>L'epatite è una malattia del fegato. Esistono diversi tipi di epatite: epatite A, epatite B, epatite C, epatite D.</descrizione>
+		<capitolo>D72_Epatite virale</capitolo>
+		<id>323</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione del fegato</descrizione>
+			<descrizione>L'epatite è l'infiammazione del fegato, può essere dovuta a cause diverse: virus, farmaci, alcool ecc.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Epatite</sinonimo>
+			<sinonimo>Epatiti</sinonimo>
+			<sinonimo>Epatite cronica</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/epatite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Epilessia</entry>
+		<descrizione>Ricorrenti e improvvise crisi epilettiche. Forte tremore esteso a tutto il corpo, eccessiva produzione di saliva.</descrizione>
+		<capitolo>N88_Epilessia</capitolo>
+		<id>324</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia del sistema nervoso caratterizzata da crisi con perdita di coscienza e convulsioni</descrizione>
+			<descrizione>L'epilessia è una condizione neurologica caratterizzata da ricorrenti e improvvise manifestazioni con improvvisa perdita della coscienza e violenti movimenti convulsivi dei muscoli, dette crisi epilettiche.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Epilessia</sinonimo>
+			<sinonimo>Mal caduco</sinonimo>
+			<sinonimo>Malcaduco</sinonimo>
+			<sinonimo>Morbo sacro</sinonimo>
+			<sinonimo>Crisi epilettica</sinonimo>
+			<sinonimo>Crisi epilettiche</sinonimo>
+			<sinonimo>Attacco epilettico</sinonimo>
+			<sinonimo>Epilessie</sinonimo>
+			<sinonimo>Epilettica</sinonimo>
+			<sinonimo>Epilettologia</sinonimo>
+			<sinonimo>Crisi comiziale</sinonimo>
+			<sinonimo>Male caduco</sinonimo>
+			<sinonimo>Epilettici</sinonimo>
+			<sinonimo>Epilettiforme</sinonimo>
+			<sinonimo>Epilettogena</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/epilessia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Ernia del disco</entry>
+		<descrizione>Fuoriuscita del disco dalla sua posizione normale. Provoca prima mal di schiena, poi sciatica con dolori in tutta la gamba fino a sotto il piede. Per curare questa malattia esistono cure a base di cortisone; in alternativa si rende necessario un intervento chirurgico.</descrizione>
+		<capitolo>L84_Sindrome dorso lombare senza irradiazione</capitolo>
+		<id>325</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'ernia del disco è il risultato di una dislocazione seguita da fuoruscita di materiale normalmente contenuto nel disco intervertebrale, che facendosi spazio tra le fibre lesionate dell'anulus viene a contatto con le strutture nervose contenute nel canale spinale,la dura meninge e/o le radici.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ernia al disco</sinonimo>
+			<sinonimo>Ernia del disco</sinonimo>
+			<sinonimo>Ernia discale</sinonimo>
+			<sinonimo>Ernia discale lombare</sinonimo>
+			<sinonimo>Erniazione del disco spinale</sinonimo>
+			<sinonimo>Rottura di disco intervertebrale</sinonimo>
+			<sinonimo>Disco prolassato</sinonimo>
+			<sinonimo>Disco sporgente</sinonimo>
+			<sinonimo>Ernia del disco lombare</sinonimo>
+			<sinonimo>Ernia del disco spinale</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/ernia_del_disco</wikiLink>
+	</voce>
+	<voce>
+		<entry>Esaurimento nervoso</entry>
+		<descrizione>Espressione che indica una serie di patologie di tipo psicologico collegate a vari sintomi</descrizione>
+		<capitolo>P76_Depressione</capitolo>
+		<id>326</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il termine esaurimento nervoso è un'espressione popolare desueta, che sta ad indicare un insieme non ben definito e generico di situazioni patologiche o semi-patologiche psicologiche e neurologiche.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Esaurimento nervoso</sinonimo>
+			<sinonimo>Nevrastenia</sinonimo>
+			<sinonimo>Nervosismo</sinonimo>
+			<sinonimo>Neurastenia</sinonimo>
+			<sinonimo>Scompenso nervoso</sinonimo>
+			<sinonimo>nevrastenico</sinonimo>
+			<sinonimo>neurastenico</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Esaurimento_nervoso</wikiLink>
+	</voce>
+	<voce>
+		<entry>Esofagite</entry>
+		<descrizione>Disturbo dell'appartato digerente</descrizione>
+		<capitolo>D84_Malattia dell?esofago</capitolo>
+		<id>327</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'esofagite è una infiammazione acuta o cronica della mucosa dell'esofago.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Esofagite</sinonimo>
+			<sinonimo>Esofago ipersensibile</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/esofagite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Flebite</entry>
+		<descrizione>Malattia delle gambe, provocata o dallo stare troppo in piedi, o da pavimenti troppo caldi</descrizione>
+		<capitolo>K94_FLEBITE_E_TROMBOFLEBITE</capitolo>
+		<id>328</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione di una vena</descrizione>
+			<descrizione>Con il termine flebite ci si riferisce alla infiammazione di una vena, che si può manifestare per vari motivi, più spesso a carico degli arti inferiori, anche se virtualmente ogni vena può essere colpita.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Flebite</sinonimo>
+			<sinonimo>Flebiti</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/flebite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Focolaio</entry>
+		<descrizione>Punto dove inizia qualcosa (ad esmpio un'infezione) e dal quale puo' propagarsi</descrizione>
+		<capitolo>A78_ALTRA MALATTIA INFETTIVA/NAC</capitolo>
+		<id>329</id>
+		<descrizioniAggiuntive>
+			<descrizione>Centro principale di un processo infettivo, specie tubercolare</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Conflagrazione</sinonimo>
+			<sinonimo>Focolaio</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Forfora</entry>
+		<descrizione>Denota lo staccarsi di piccole parti di pelli dal cuoio capelluto. Provoca prurito</descrizione>
+		<capitolo>S86_DERMATITE_SEBORROICA</capitolo>
+		<id>330</id>
+		<descrizioniAggiuntive>
+			<descrizione>Desquamazione dello strato corneo del cuoio capelluto</descrizione>
+			<descrizione>La forfora è una patologia del cuoio capelluto, che si presenta macroscopicamente come scagliette bianche e secche alla base del capello.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Forfora</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/forfora</wikiLink>
+	</voce>
+	<voce>
+		<entry>Frattura</entry>
+		<descrizione>Rottura, parziale o totale, di un osso</descrizione>
+		<capitolo>L72_FRATTURA_DI_RADIO/ULNA</capitolo>
+		<id>331</id>
+		<descrizioniAggiuntive>
+			<descrizione>La frattura in medicina è l’interruzione parziale o totale della continuità di un osso.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>frattura</sinonimo>
+			<sinonimo>rottura</sinonimo>
+			<sinonimo>Frattura ossea</sinonimo>
+			<sinonimo>Traumi delle ossa</sinonimo>
+			<sinonimo>frattura esposta</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Frattura_(medicina)</wikiLink>
+	</voce>
+	<voce>
+		<entry>Gastrite</entry>
+		<descrizione>La gastrite e' un dolore che colpisce lo stomaco provocando bruciore</descrizione>
+		<capitolo>D87_DISORDINE GASTRICO FUNZIONALE</capitolo>
+		<id>332</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione della mucosa gastrica</descrizione>
+			<descrizione>La gastrite è un'infiammazione della mucosa gastrica, sono diverse le cause che portano a tale manifestazione e ne esistono innumerevoli tipi, suddivise nella maniera classica: gastriti acute e croniche.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Gastrite</sinonimo>
+			<sinonimo>Gastriti</sinonimo>
+			<sinonimo>Irritazione gastrica</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/gastrite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Gengivite</entry>
+		<descrizione>Infiammazione delle gengive con arrossamento e gonfiore dei tessuti che possono anche sanguinare.</descrizione>
+		<capitolo>D82_MALATTIA DEI DENTI E GENGIVE</capitolo>
+		<id>333</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione delle gengive</descrizione>
+			<descrizione>Per gengivite si intende infiammazione dei tessuti gengivali, caratterizzata da gonfiore, arrossamento, calore e sanguinamento conseguenti all'accumulo di placca.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Gengivite</sinonimo>
+			<sinonimo>Ulite</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/gengivite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Glaucoma</entry>
+		<descrizione>Malattia al nervo ottico, è degenerativa e causa danni permanenti se non curata in tempo</descrizione>
+		<capitolo>F93_GLAUCOMA</capitolo>
+		<id>334</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia dell'occhio caratterizzata da un forte aumento della pressione del bulbo oculare, che può provocare una grave riduzione della vista sino alla cecità</descrizione>
+			<descrizione>I glaucomi sono un gruppo molto diversificato di malattie oculari, accomunate dalla presenza di un danno cronico e progressivo del nervo ottico, con alterazioni caratteristiche dell'aspetto della sua "testa" e dello strato delle fibre nervose retiniche.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Glaucoma</sinonimo>
+			<sinonimo>Glaucoma assoluto</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/glaucoma</wikiLink>
+	</voce>
+	<voce>
+		<entry>Gonorrea</entry>
+		<descrizione>Malattia a trasmissione sessuale.</descrizione>
+		<capitolo>Y71_GONORREA (NELL'UOMO)</capitolo>
+		<id>335</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia infettiva</descrizione>
+			<descrizione>La gonorrea o blenorragia è una malattia a trasmissione sessuale.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Blenorragia</sinonimo>
+			<sinonimo>Blenorrea</sinonimo>
+			<sinonimo>Gonorrea</sinonimo>
+			<sinonimo>Scolo</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/gonorrea</wikiLink>
+	</voce>
+	<voce>
+		<entry>Herpes</entry>
+		<descrizione>Rossore e rigonfinamento di una parte delle labbra. Inizialmente si manifesta con un leggero pizzicore e un senso di calore su un punto arrossato del labbro per svilupparsi poi come un piccolo rigonfiamento, delle piccole vescicole che in qualche giorno si asciugano.</descrizione>
+		<capitolo>S70_HERPES ZOSTER</capitolo>
+		<id>336</id>
+		<descrizioniAggiuntive>
+			<descrizione>Affezione virale della pelle con formazione di vescicole che si accompagna spesso a stati febbrili</descrizione>
+			<descrizione>Con il termine herpes o erpete si intende generalmente una categoria di infezioni causate da virus del genere Herpesviridae, che si manifestano con lesioni papulo-vescicolari cutanee, localizzate in varie parti del corpo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>erpete</sinonimo>
+			<sinonimo>Herpes</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Herpes</wikiLink>	
+	</voce>
+	<voce>
+		<entry>Infarto</entry>
+		<descrizione>Improvviso arresto del funzionamento del cuore che puo' provocare la morte. Il sintomo principale e' un dolore al petto o al braccio che precede l'attacco</descrizione>
+		<capitolo>A29_ALTRO SINTOMO O DISTURBO GENERALE</capitolo>
+		<id>337</id>
+		<descrizioniAggiuntive>
+			<descrizione>Per infarto si intende la necrosi di un tessuto per ischemia, cioè per grave deficit di flusso sanguigno.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>attacco cardiaco</sinonimo>
+			<sinonimo>infarto</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Infarto</wikiLink>
+	</voce>
+	<voce>
+		<entry>Influenza</entry>
+		<descrizione>Ci si sente deboli con la temperatura alta spesso si accompagna a raffreddore. Di solito si guarisce in pochi giorni, ma a volte la febbre puo' protrarsi anche per due settimane. L'influenza si cura con medicinali di automedicazione (aspirine o medicine contenenti paracetamolo), ma a volte si rende necessaria una cura antibiotica.</descrizione>
+		<capitolo>R80_INFLUENZA</capitolo>
+		<id>338</id>
+		<descrizioniAggiuntive>
+			<descrizione>Forte raffreddore o influenza</descrizione>
+			<descrizione>L’influenza è una malattia infettiva causata da virus RNA della famiglia degli Orthomyxoviridae.</descrizione>
+			<descrizione>Malattia infettiva causata da virus RNA</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Influenza</sinonimo>
+			<sinonimo>Grippe</sinonimo>
+			<sinonimo>Febbre</sinonimo>
+			<sinonimo>Influenzavirus c</sinonimo>
+			<sinonimo>Sindrome influenzale</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/influenza</wikiLink>
+	</voce>
+	<voce>
+		<entry>Iperidrosi</entry>
+		<descrizione>Eccesso di sudore prodotto dalle ghiandole sudoripare (o sudorali).</descrizione>
+		<capitolo>A09_PROBLEMA DA SUDORAZIONE</capitolo>
+		<id>339</id>
+		<descrizioniAggiuntive>
+			<descrizione>Eccessiva e profonda sudorazione</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>sudorazione</sinonimo>
+			<sinonimo>sudore</sinonimo>
+			<sinonimo>traspirazione</sinonimo>
+			<sinonimo>Diaforesi</sinonimo>
+			<sinonimo>Iperidrosi</sinonimo>
+		</sinonimi>	
+	</voce>
+	<voce>
+		<entry>Ischemia</entry>
+		<descrizione>chiusura di una vena</descrizione>
+		<capitolo>A29_ALTRO SINTOMO O DISTURBO GENERALE</capitolo>
+		<id>340</id>
+		<descrizioniAggiuntive>
+			<descrizione>In medicina, l'ischemia è una diminuzione parziale o totale di afflusso di sangue in un organo causata da un problema fisiologico o meccanico, del sistema cardiocircolatorio.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ischemia</sinonimo>
+			<sinonimo>Ischemia cardiaca</sinonimo>
+			<sinonimo>Danno ischemico</sinonimo>
+			<sinonimo>Ischemico</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/ischemia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Labirintite</entry>
+		<descrizione>malattia che provoca perdita dell'equilibrio e senso di vertigini; se e' di origine virale, con la somministrazione di antibiotici e' possibile arrivare alla guarigione completa, processo che puo' richiedere anche molte settimane</descrizione>
+		<capitolo>H82_SINDROME VERTIGINOSA</capitolo>
+		<id>341</id>
+		<descrizioniAggiuntive>
+			<descrizione>Con il termine labirintite si indica il disturbo dovuto ad un'infiammazione di una zona dell'orecchio interno chiamata labirinto, con danneggiamento del sistema vestibolare, responsabile dell'equilibrio generale del corpo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Labirintite</sinonimo>
+			<sinonimo>Otite interna</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/labirintite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Laringite</entry>
+		<descrizione>Infiammazione batterica o virale della laringe.</descrizione>
+		<capitolo>R77_LARINGITE/TRACHEITE ACUTA</capitolo>
+		<id>342</id>
+		<descrizioniAggiuntive>
+			<descrizione>La faringite, chiamata comunemente "mal di gola", è un'infiammazione della faringe, acuta o cronica, che provoca difficoltà nel deglutire e talvolta può essere accompagnata da tosse e secrezione, etc.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>faringite</sinonimo>
+			<sinonimo>laringite</sinonimo>
+			<sinonimo>Faringiti</sinonimo>
+			<sinonimo>mal di gola</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Faringite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Leucemia</entry>
+		<descrizione>Malattia maligna che aggredisce il midollo osseo riducendo drasticamente la formazione di globuli rossi, bianchi e piastrine.</descrizione>
+		<capitolo>B73_LEUCEMIA</capitolo>
+		<id>343</id>
+		<descrizioniAggiuntive>
+			<descrizione>Tipo di cancro caratterizzato da una crescita abnorme di globuli bianchi</descrizione>
+			<descrizione>La leucemia è un termine con il quale si indica un insieme di malattie maligne, vari tipi di cancri o tumori caratterizzati dalla proliferazione neoplastica di una cellula staminale ematopoietica e si traduce in un numero elevato di globuli bianchi anormali.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Leucemia</sinonimo>
+			<sinonimo>Leucemie</sinonimo>
+			<sinonimo>Cancro del sangue</sinonimo>
+			<sinonimo>Cancro del midollo osseo</sinonimo>
+			<sinonimo>Neoplasie ematologiche</sinonimo>
+			<sinonimo>Tumore del midollo osseo</sinonimo>
+			<sinonimo>Tumore del sangue</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/leucemia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Litiasi della colecisti</entry>
+		<descrizione>Avere i calcoli alla colecisti</descrizione>
+		<capitolo>D98_COLECISTITE, COLELITIASI</capitolo>
+		<id>344</id>
+	</voce>
+	<voce>
+		<entry>Litiasi renale</entry>
+		<descrizione>Avere i calcoli ai reni</descrizione>
+		<capitolo>U95_CALCOLOSI URINARIA</capitolo>
+		<id>345</id>
+		<descrizioniAggiuntive>
+			<descrizione>La calcolosi renale o nefrolitiasi è una condizione clinica caratterizzata dalla formazione di precipitati nel rene, inquadrata all'interno delle calcolosi delle vie urinarie.</descrizione>
+			<descrizione>Nome con cui viene identificata una tipologia di calcolosi renale caratterizzata dalla presenza di cristalli di dimensioni molto ridotte</descrizione>
+			<descrizione> </descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>calcolo renale</sinonimo>
+			<sinonimo>Nefrolitiasi</sinonimo>
+			<sinonimo>nefrolito</sinonimo>
+			<sinonimo>Calcolosi renale</sinonimo>
+			<sinonimo>Litiasi renale</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Calcolosi_delle_vie_urinarie</wikiLink>
+	</voce>
+	<voce>
+		<entry>Lombagia</entry>
+		<descrizione>infiammazione alla zona lombare</descrizione>
+		<capitolo>L03_SINTOMO_O_DISTURBO_ALLA_REGIONE_LOMBO_SACRALE</capitolo>
+		<id>346</id>
+	</voce>
+	<voce>
+		<entry>Lussazione</entry>
+		<descrizione>Lesione ad un'articolazione in cui, a differenza di quanto avviene nella distorsione, si ha un distaccamento dei rapporti articolari</descrizione>
+		<capitolo>L80_LUSSAZIONE_E_SUBLUSSAZIONE</capitolo>
+		<id>347</id>
+		<descrizioniAggiuntive>
+			<descrizione>Lussazione</descrizione>
+			<descrizione>Una lussazione è uno spostamento permanente delle superfici articolari l'una rispetto all'altra.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Lussazione</sinonimo>
+			<sinonimo>Slogamento</sinonimo>
+			<sinonimo>Slogatura</sinonimo>
+			<sinonimo>Diastasi</sinonimo>
+			<sinonimo>Lussazioni</sinonimo>
+			<sinonimo>Sublussazione</sinonimo>
+			<sinonimo>Lussazione articolare</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/lussazione</wikiLink>
+	</voce>
+	<voce>
+		<entry>Mal di mare</entry>
+		<descrizione>Stato di malessere causato dal navigare con forte rollio (p.es. con mare agitato o onda al traverso). I sintomi sono simili a quelli dell'avvelenamento: nausea fino al vomito, senso di squilibrio talvolta fino alla vertigine. Deriva dallo sfasamento tra l'informazione sensoriale visiva e quella dell'equilibrio (fornita dal labirinto situato nell'orecchio).</descrizione>
+		<capitolo>N17_VERTIGINE/CAPOGIRO</capitolo>
+		<id>348</id>
+		<descrizioniAggiuntive>
+			<descrizione>Mal di mare</descrizione>
+			<descrizione>Il mal di mare, una sensazione di disturbo, che si manifesta in alcune persone quando viaggiano su imbarcazioni o similari, è causata dalle sensazioni conflittuali afferenti al cervello: dagli occhi giunge l'informazione di essere fermi, mentre dagli organi preposti all'equilibrio arriva un segnale di movimento.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Mal di mare</sinonimo>
+			<sinonimo>Naupatia</sinonimo>
+			<sinonimo>Mal de mer</sinonimo>
+			<sinonimo>Naupathia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/mal_di_mare</wikiLink>
+	</voce>
+	<voce>
+		<entry>Malaria</entry>
+		<descrizione>Malattia infettiva dovuta a parassiti portati da un particolare tipo di zanzara.</descrizione>
+		<capitolo>A73_MALARIA</capitolo>
+		<id>349</id>
+		<descrizioniAggiuntive>
+			<descrizione>La malaria è una parassitosi, malattia provocata da parassiti protozoi del genere Plasmodium.</descrizione>
+			<descrizione>Malattia causata da parassiti</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Malaria</sinonimo>
+			<sinonimo>Paludismo</sinonimo>
+			<sinonimo>Febbre delle paludi</sinonimo>
+			<sinonimo>Febbre quartana</sinonimo>
+			<sinonimo>Febbre terzana</sinonimo>
+			<sinonimo>Malaria cerebrale</sinonimo>
+			<sinonimo>Malarone</sinonimo>
+			<sinonimo>Lariam</sinonimo>
+			<sinonimo>Schizogenesi</sinonimo>
+			<sinonimo>Febbre malarica</sinonimo>
+			<sinonimo>Malarica</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/malaria</wikiLink>
+	</voce>
+	<voce>
+		<entry>Malattia del bacio</entry>
+		<descrizione>Malattia infettiva che si contrae attraverso la saliva. Può essere asintomatica o avere un gran numero di sintomi, dalla febbre alta all'ingrossamento dei linfonodi. Può portare a una forma cronica di stanchezza.</descrizione>
+		<capitolo>A75_MONONUCLEOSI_INFETTIVA</capitolo>
+		<id>350</id>
+		<descrizioniAggiuntive>
+			<descrizione>La mononucleosi infettiva è una malattia infettiva virale molto contagiosa, causata dal virus di Epstein-Barr.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Mononucleosi</sinonimo>
+			<sinonimo>Mononucleosi infettiva</sinonimo>
+			<sinonimo>Angina monocitica</sinonimo>
+			<sinonimo>Malattia del bacio</sinonimo>
+			<sinonimo>Angina di pfeiffer</sinonimo>
+			<sinonimo>Febbre ghiandolare</sinonimo>
+			<sinonimo>Mono</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/mononucleosi_infettiva</wikiLink>
+	</voce>
+	<voce>
+		<entry>Miopia</entry>
+		<descrizione>Disturbo alla vista che provoca difficoltà nella messa a fuoco di oggetti lontani.</descrizione>
+		<capitolo>F91_DIFETTO DI RIFRAZIONE</capitolo>
+		<id>351</id>
+		<descrizioniAggiuntive>
+			<descrizione>Difetto di rifrazione dell'occhio per cui si ha una visione confusa e imperfetta degli oggetti lontani</descrizione>
+			<descrizione>La miopia è un'ametropia o un'anomalia refrattiva, a causa della quale i raggi luminosi provenienti da un oggetto distante non si focalizzano correttamente sulla retina, ma invece davanti ad essa.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Miopia</sinonimo>
+			<sinonimo>Ipometropia</sinonimo>
+			<sinonimo>Miope</sinonimo>
+			<sinonimo>Miopia degenerativa</sinonimo>
+			<sinonimo>Miopia maligna</sinonimo>
+			<sinonimo>Miopia patologica</sinonimo>
+			<sinonimo>Miopia progressiva</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/miopia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Morbillo</entry>
+		<descrizione>Malattia infettiva e contagiosa dello stesso ceppo (ma estremamente meno pericolosa) di vaiolo e peste. E' caratterizzata da macchie sulla pelle ma anche da tosse, febbre e raffreddore.</descrizione>
+		<capitolo>A71_MORBILLO</capitolo>
+		<id>352</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia infettiva esantematica con febbre elevata e infiammazione delle mucose delle vie respiratorie</descrizione>
+			<descrizione>Il morbillo è una malattia infettiva del sistema respiratorio, immunitario e della pelle causata da un virus, il Paramyxovirus del genere Morbillivirus.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Fersa</sinonimo>
+			<sinonimo>Morbillo</sinonimo>
+			<sinonimo>Rubeola</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/morbillo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Nistagmo</entry>
+		<descrizione>Il nistagmo e' una malattia dell'occhio che provoca un continuo movimento della pupilla.</descrizione>
+		<capitolo>F14_MOVIMENTI ANORMALI DELL'OCCHIO</capitolo>
+		<id>353</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il termine nistagmo, dal greco "νυσταγμός", derivato da "νυστάζειν" ossia sonnolenza, si riferisce a movimenti oscillatori, ritmici e involontari dei globi oculari.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Nistagmo</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Nistagmo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Orchite</entry>
+		<descrizione>Consiste nell'infiammazione di uno o di entrambi i testicoli, parte dell'apparato genitale maschile.</descrizione>
+		<capitolo>Y74_ORCHITE/EPIDIDIMITE</capitolo>
+		<id>354</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'orchite consiste nell'ingrossamento acuto o cronico di uno o di entrambi i testicoli, parte dell'apparato genitale maschile.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Orchite</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/orchite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Orecchioni</entry>
+		<descrizione>E' una malattia infettiva che si manifesta con un forte dolore alle orecchie, nonche' con gonfiore delle ghiandole parotidi e febbre alta. La malattia colpisce in genere in eta' infantile e in alcuni casi puo' essere causa della perdita di udito. Puo' colpire anche gli adulti, causando per esempio negli uomini gravi problemi di fertilita'.</descrizione>
+		<capitolo>D71_PAROTITE EPIDEMICA</capitolo>
+		<id>355</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione della parotide</descrizione>
+			<descrizione>La parotite epidemica, più conosciuta con il nome popolare di orecchioni, è una malattia infettiva acuta contagiosa.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Orecchione</sinonimo>
+			<sinonimo>Stranguglione</sinonimo>
+			<sinonimo>Orecchioni</sinonimo>
+			<sinonimo>Parotite</sinonimo>
+			<sinonimo>Parotite epidemica</sinonimo>
+			<sinonimo>Epidemia di parotite</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/parotite_epidemica</wikiLink>
+	</voce>
+	<voce>
+		<entry>Orticaria</entry>
+		<descrizione>e' un tipo di eruzione cutanea localizzata o generalizzata che si presenta con delle placche di varia forma e grandezza accompagnate da rossore e un forte prurito. Il nome deriva da ortica, poiche' ha le stesse manifestazioni di quando la pelle viene a contatto con la pianta. La reazione allergica puo' derivare da diverse cause, ad esempio le foglie delle ortiche, le primule e altre piante, molti alimenti come pesci, crostacei, fragole, noci, e i farmaci , come antibiotici, aspirina, vaccini. Questa generalmente dura da poche ore a qualche giorno e si cura con antistaminici prescritti dal medico</descrizione>
+		<capitolo>S98_ORTICARIA</capitolo>
+		<id>356</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'orticaria è una patologia dermatologica, ad eziologia variabile, caratterizzata dall'improvvisa comparsa di un'eruzione cutanea, più o meno pruriginosa, la cui lesione elementare è il pomfo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Orticaria</sinonimo>
+			<sinonimo>Urticaria</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/orticaria</wikiLink>
+	</voce>
+	<voce>
+		<entry>Otite</entry>
+		<descrizione>L'otite è un'infiammazione dell'orecchio.</descrizione>
+		<capitolo>H70_OTITE ESTERNA</capitolo>
+		<id>357</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il termine medico otite indica un'infiammazione a carico dell'orecchio, il cui decorso può essere acuto o cronico.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Otite</sinonimo>
+			<sinonimo>Otiti</sinonimo>
+			<sinonimo>Infezioni dell'orecchio</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/otite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Pancreatite</entry>
+		<descrizione>Infiammazione del pancreas che può essere acuta o cronica. Una delle cause più frequenti è l'alcolismo.</descrizione>
+		<capitolo>D99_ALTRA MALATTIA AL SISTEMA DIGERENTE</capitolo>
+		<id>358</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia infiammatoria del pancreas</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Pancreatite</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Pancreatite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Paralisi facciale</entry>
+		<descrizione>Blocco momentaneo o permanente di alcuni muscoli del viso</descrizione>
+		<capitolo>N91_PARALISI FACCIALE/PARALISI DI BELL</capitolo>
+		<id>359</id>
+		<descrizioniAggiuntive>
+			<descrizione>La paralisi del nervo del viso è un problema comune che comporta la paralisi di qualsiasi struttura innervata dal nervo facciale.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Paralisi facciale</sinonimo>
+			<sinonimo>Paralisi del nervo facciale</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Parotite</entry>
+		<descrizione>Infezione virale che si propaga per mezzo degli starnuti o della tosse, di solito inizia con gonfiore di una o più ghiandole parotidee.</descrizione>
+		<capitolo>D71_PAROTITE EPIDEMICA</capitolo>
+		<id>360</id>
+		<descrizioniAggiuntive>
+			<descrizione>La parotite epidemica, più conosciuta con il nome popolare di orecchioni, è una malattia infettiva acuta contagiosa</descrizione>
+			<descrizione>Infiammazione della parotide</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>orecchioni</sinonimo>
+			<sinonimo>parotite epidemica</sinonimo>
+			<sinonimo>parotite</sinonimo>
+			<sinonimo>orecchione</sinonimo>
+			<sinonimo>stranguglione</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Parotite_epidemica</wikiLink>
+	</voce>
+	<voce>
+		<entry>Perdita della memoria</entry>
+		<descrizione>Perdita momentanea della memoria, che non permette di ricordare completamente cio' che e' accaduto in passato</descrizione>
+		<capitolo>P20_DISTURBO DELLA MEMORIA</capitolo>
+		<id>361</id>
+	</voce>
+	<voce>
+		<entry>Perdita della vista</entry>
+		<descrizione>Progressivo peggioramento delle capacita' visive che puo' anche arrivare alla perdita completa della vista (cecita')</descrizione>
+		<capitolo>F94_CECITA'</capitolo>
+		<id>362</id>
+		<descrizioniAggiuntive>
+			<descrizione>La perdita di visione o la perdita visiva è l'assenza di visione, può accadere sia acutamente o cronicamente</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Cecità</sinonimo>
+			<sinonimo>Perdita della vista</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Pericardite</entry>
+		<descrizione>infiammazione del pericardio (membrana che riveste il cuore)</descrizione>
+		<capitolo>K84_ALTRA MALATTIA CARDIACA</capitolo>
+		<id>363</id>
+		<descrizioniAggiuntive>
+			<descrizione>La pericardite è una malattia infiammatoria che colpisce il pericardio, accompagnata da alterazione degli indici infiammatori, spesso dà dolore intenso, che aumenta in alcune posizioni o per inspirazioni profonde, a volte irradiato.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Pericardite</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/pericardite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Peritonite</entry>
+		<descrizione>Infiammazione della membrana peritoneale che racchiude gli organi dell'addome a causa di batteri. L'infiammazione è spesso dovuta alla perforazione della membrana a causa di una appendicite trascurata.</descrizione>
+		<capitolo>D99_ALTRA MALATTIA AL SISTEMA DIGERENTE</capitolo>
+		<id>364</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione del peritoneo</descrizione>
+			<descrizione>La peritonite è un'infiammazione della sierosa che riveste i visceri e la cavità peritoneale dovuta, in genere, a contaminazione batterica.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Peritonite</sinonimo>
+			<sinonimo>Infiammazione peritoneale</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/peritonite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Pertosse</entry>
+		<descrizione>Malattia per lo più infantile che si presenta con forte attacchi di tosse e febbre.</descrizione>
+		<capitolo>R71_TOSSE CANINA</capitolo>
+		<id>365</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia infettiva acuta, contagiosa ed epidemica, frequente nei bambini caratterizzata da un'infezione catarrale delle vie respiratorie con parossismi di tosse</descrizione>
+			<descrizione>La pertosse è una malattia infettiva contagiosa, epidemica ed endemica provocata dal batterio gram-negativo e cocco-bacillo Bordetella pertussis e causa un'infezione acuta delle vie respiratorie.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Pertosse</sinonimo>
+			<sinonimo>Tosse asinina</sinonimo>
+			<sinonimo>Tosse canina</sinonimo>
+			<sinonimo>Tosse convulsa</sinonimo>
+			<sinonimo>Tosse convulsiva</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/pertosse</wikiLink>
+	</voce>
+	<voce>
+		<entry>Piorrea</entry>
+		<descrizione>degenerazione della gengiva a causa dei batteri che rimangono in bocca per la scarsa pulizia dentariae tartaro. Causa abbassamento della gengiva e perdita dei denti.</descrizione>
+		<capitolo>D19_SINTOMO O DISTURBI RIFERITI A DENTI O GENGIVE</capitolo>
+		<id>366</id>
+		<descrizioniAggiuntive>
+			<descrizione>Sta ad indicare diverse patologie che interessano il parodonto, cioè quel complesso di tessuti (cemento radicolare, legamento parodontale, osso alveolare) che collegano i denti alle ossa mascellari.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Piorrea</sinonimo>
+			<sinonimo>Piorrea alveolare</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Piorrea</wikiLink>
+	</voce>
+	<voce>
+		<entry>Pleurite</entry>
+		<descrizione>infiammazione della pleura (membrana che ricopre i polmoni)</descrizione>
+		<capitolo>R82_PLEURITE/VERSAMENTO PLEURICO</capitolo>
+		<id>367</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione della pleura</descrizione>
+			<descrizione>La pleurite è un'infiammazione acuta o cronica della pleura.</descrizione>
+			<descrizione>Malattia dell'apparato respiratorio</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Pleurite</sinonimo>
+			<sinonimo>Pleuriti</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/pleurite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Polmonite</entry>
+		<descrizione>infiammazione dei polmoni che porta febbre, tosse, mal di testa, respirazione difficoltosa</descrizione>
+		<capitolo>R81_POLMONITE</capitolo>
+		<id>368</id>
+		<descrizioniAggiuntive>
+			<descrizione>La polmonite è una malattia dei polmoni e del sistema respiratorio caratterizzata dall'infiammazione degli alveoli polmonari, i quali si riempiono di liquido che ostacola la funzione respiratoria. </descrizione>
+			<descrizione>Infiammazione dei polmoni; causato da un virus o da una reazione allergica.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>polmonite</sinonimo>
+			<sinonimo>pneumonia</sinonimo>
+			<sinonimo>pneumonite</sinonimo>
+			<sinonimo>Polmoniti</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Polmonite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Presbiopia</entry>
+		<descrizione>Disturbo della vista che si manifesta nella maggior parte delle persone a partire  dalla mezza eta' o nella terza eta'; consiste nell'incapacita' di vedere bene da vicino.</descrizione>
+		<capitolo>F91_DIFETTO DI RIFRAZIONE</capitolo>
+		<id>369</id>
+		<descrizioniAggiuntive>
+			<descrizione>La presbiopia, è una condizione fisiologica dell'apparato visivo, non appartenente ai difetti di refrazione, non fa quindi parte delle ametropie</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>ipermetropia</sinonimo>
+			<sinonimo>presbiopia</sinonimo>
+			<sinonimo>presbitismo</sinonimo>
+			<sinonimo>Iperopia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Presbiopia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Prostatite</entry>
+		<descrizione>Infiammazione alla prostata.</descrizione>
+		<capitolo>Y73_PROSTATITE/VESCICULITE SEMINALE</capitolo>
+		<id>370</id>
+		<descrizioniAggiuntive>
+			<descrizione>Per prostatite si intende qualsiasi forma di infiammazione della ghiandola prostatica.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Prostatite</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/prostatite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Psoriasi</entry>
+		<descrizione>Malattia infiammatoria della pelle, non infettiva, solitamente di carattere cronico e recidivante che si manifestaza con papule e placche eritematose ben delimitate ricoperte di scaglie argentee. Le lesioni sono di varie dimensioni e la severita' puo' variare da pochi punti di desquamazione di tipo forforoso a dermatosi generali</descrizione>
+		<capitolo>S91_PSORIASI</capitolo>
+		<id>371</id>
+		<descrizioniAggiuntive>
+			<descrizione>La psoriasi è una malattia infiammatoria cronica della pelle, non infettiva né contagiosa, solitamente di carattere cronico e recidivante.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Psoriasi</sinonimo>
+			<sinonimo>Psoriasi a placche</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/psoriasi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Raffreddore</entry>
+		<descrizione>Malattia infettiva del naso estremamente comune in bambini ed adulti. Può portare a complicazioni quali la polmonite. Da distinguere rispetto al raffreddore allergico e all'influenza.</descrizione>
+		<capitolo>R74_INFEZIONE_ACUTA_VIE_RESPIRATORIE_SUPERIORI</capitolo>
+		<id>372</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia che colpisce le vie respiratorie</descrizione>
+			<descrizione>Il raffreddore comune, o più semplicemente raffreddore, è una rinofaringite acuta infettiva virale causata solitamente da Rhinovirus.</descrizione>
+			<descrizione>Rinite di origine virale.</descrizione>
+			<descrizione>Affezione infettiva, generalmente non grave, delle prime vie respiratorie</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Infreddatura</sinonimo>
+			<sinonimo>Raffreddore</sinonimo>
+			<sinonimo>Raffreddore comune</sinonimo>
+			<sinonimo>Comune raffreddore</sinonimo>
+			<sinonimo>Nasofaringite</sinonimo>
+			<sinonimo>Raffreddori</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/raffreddore_comune</wikiLink>
+	</voce>
+	<voce>
+		<entry>Raffreddore allergico</entry>
+		<descrizione>Infiammazione del muco dovuta alla presenza nell'aria di polveri o pollini. Quello causato da pollini è tipicamente stagionale. E' spesso accompagnato da congiuntiviti allergiche.</descrizione>
+		<capitolo>R97_RINITE_ALLERGICA</capitolo>
+		<id>373</id>
+		<descrizioniAggiuntive>
+			<descrizione>La rinite allergica è una patologia infiammatoria acuta e ricorrente a carico della mucosa nasale secondaria a una reazione acquisita a un antigene esogeno.</descrizione>
+			<descrizione>Malattia dell'apparato respiratorio</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Rinite allergica</sinonimo>
+			<sinonimo>Raffreddore allergico</sinonimo>
+			<sinonimo>Raffreddore da fieno</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Rinite_allergica</wikiLink>
+	</voce>
+	<voce>
+		<entry>Reflusso gastroesofageo</entry>
+		<descrizione>E' dato dal cattivo funzionamento della valvola che si trova fra l'esofago e lo stomaco. I sintomi sono poco conosciuti in quanto spesso si confondono con quelli di altre malattie; in generale, sono simili al bruciore di stomaco in quanto il cibo ingerito ed i succhi gastrici provenienti dallo stomaco risalgono verso l'esofago irritandolo provocandone l'infiammazione. Spesso più che una malattia è considerato un disturbo se gli episodi di reflusso si presentano maggiormente solo dopo aver ingerito cibo. Se, invece, sono molto frequenti l'esofago risente maggiormente dell'infiammazione e delle possibili ferite causate dagli acidi; in questo caso può essere considerato malattia e bisogna ricorrere all'uso di farmaci.</descrizione>
+		<capitolo>D84_MALATTIA DELL'ESOFAGO</capitolo>
+		<id>374</id>
+		<descrizioniAggiuntive>
+			<descrizione>La malattia da reflusso gastroesofageo, sigla MRGE, è una malattia di interesse gastroenterologico, causata da complicanze patologiche del reflusso gastroesofageo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Malattia da reflusso gastroesofageo</sinonimo>
+			<sinonimo>Esofagite da reflusso</sinonimo>
+			<sinonimo>Malattia da reflusso gastro-esofageo</sinonimo>
+			<sinonimo>Sindrome da reflusso gastroesofageo</sinonimo>
+			<sinonimo>Mrge</sinonimo>
+			<sinonimo>Reflusso gastroesofageo patologico</sinonimo>
+			<sinonimo>Gord</sinonimo>
+			<sinonimo>Reflusso esofageo</sinonimo>
+			<sinonimo>Reflusso gastroesofageo</sinonimo>
+			<sinonimo>Gastro-esofagea malattia da reflusso</sinonimo>
+			<sinonimo>Reflusso acido</sinonimo>
+			<sinonimo>Reflusso gastrico</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Malattia_da_reflusso_gastroesofageo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Renella</entry>
+		<descrizione>Micro-calcoli nei reni, tipo sabbiolina</descrizione>
+		<capitolo>U29_ALTRO SINTOMO O DISTURBO AL SISTEMA URINARIO</capitolo>
+		<id>375</id>
+	</voce>
+	<voce>
+		<entry>Rinite</entry>
+		<descrizione>Infiammazione del naso per infezione o allergia</descrizione>
+		<capitolo>R07_STARNUTI/CONGESTIONE NASALE</capitolo>
+		<id>376</id>
+		<descrizioniAggiuntive>
+			<descrizione>La rinite o coriza o congestione nasale è un termine medico che descrive l'irritazione e l'infiammazione della mucosa nasale.</descrizione>
+			<descrizione>Coriza è una parola che descrive i sintomi del raffreddore comune o allergico.</descrizione>
+			<descrizione>Sintomi del raffreddore comune o allergico</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Coriza</sinonimo>
+			<sinonimo>Corizza</sinonimo>
+			<sinonimo>Rinite</sinonimo>
+			<sinonimo>Riniti</sinonimo>
+			<sinonimo>Rinite allergica stagionale</sinonimo>
+			<sinonimo>Rinite vasomotoria</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/rinite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Rinite Allergica</entry>
+		<descrizione>Raffreddore stagionale</descrizione>
+		<capitolo>R97_RINITE_ALLERGICA</capitolo>
+		<id>377</id>
+		<descrizioniAggiuntive>
+			<descrizione>La rinite allergica è una patologia infiammatoria acuta e ricorrente a carico della mucosa nasale secondaria a una reazione acquisita a un antigene esogeno.</descrizione>
+			<descrizione>Malattia dell'apparato respiratorio</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Rinite allergica</sinonimo>
+			<sinonimo>Raffreddore allergico</sinonimo>
+			<sinonimo>Raffreddore da fieno</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Rinite_allergica</wikiLink>
+	</voce>
+	<voce>
+		<entry>Rosolia</entry>
+		<descrizione>Malattia virale e infettiva caratterizzata da macchioline rosse sulla pelle. Tipica dei bambini, è possibile vaccinarsi. Pericolosa per le donne in gravidanza.</descrizione>
+		<capitolo>A74_ROSOLIA</capitolo>
+		<id>378</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia esantematica infettiva benigna, tipica dell'infanzia</descrizione>
+			<descrizione>Con il termine rosolia si identifica una malattia infettiva che vede come agente eziologico un virus ad RNA del genere "Rubivirus" appartenente alla famiglia dei "Togaviridae".</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Rosolia</sinonimo>
+			<sinonimo>Rubeola</sinonimo>
+			<sinonimo>Epidemia di rosolia</sinonimo>
+			<sinonimo>Tre giorni il morbillo</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/rosolia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Scompenso congestizio</entry>
+		<descrizione>Insufficienza cardiaca congestizia</descrizione>
+		<capitolo>K77_SCOMPENSO CARDIACO</capitolo>
+		<id>379</id>
+	</voce>
+	<voce>
+		<entry>Scompenso ventricolare</entry>
+		<descrizione>Insufficienza ventricolare sinistra o destra</descrizione>
+		<capitolo>K77_SCOMPENSO CARDIACO</capitolo>
+		<id>380</id>
+	</voce>
+	<voce>
+		<entry>Sesta malattia</entry>
+		<descrizione>La sesta malattia (esantema critico o subitum) è una malattia infettiva che colpisce esclusivamente i bambini tra i 6 mesi ed i due anni di età.</descrizione>
+		<capitolo>A76_ALTRI_ESANTEMI_VIRALI</capitolo>
+		<id>381</id>
+		<descrizioniAggiuntive>
+			<descrizione>La sesta malattia è una malattia infettiva che colpisce esclusivamente i bambini tra i 6 mesi ed i due anni di età.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Sesta malattia</sinonimo>
+			<sinonimo>Esantema critico</sinonimo>
+			<sinonimo>Roseola infantum</sinonimo>
+			<sinonimo>Esantema subitum</sinonimo>
+			<sinonimo>Pseudorubella</sinonimo>
+			<sinonimo>Roseola infantilis</sinonimo>
+			<sinonimo>Roseola</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Sesta_malattia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Sifilide</entry>
+		<descrizione>Malattia infettiva a trasmissione sessuale</descrizione>
+		<capitolo>Y70_SIFILIDE(NELL'UOMO)</capitolo>
+		<id>382</id>
+		<descrizioniAggiuntive>
+			<descrizione>La sifilide, conosciuta anche come lue e con numerosi altri nomi, è una malattia infettiva a prevalente trasmissione sessuale.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Lue</sinonimo>
+			<sinonimo>Malfrancese</sinonimo>
+			<sinonimo>Sifilide</sinonimo>
+			<sinonimo>Mal francese</sinonimo>
+			<sinonimo>Morbo gallico</sinonimo>
+			<sinonimo>Sifilis</sinonimo>
+			<sinonimo>Acne sifilitica</sinonimo>
+			<sinonimo>Sifilide terziaria</sinonimo>
+			<sinonimo>Test di nelson</sinonimo>
+			<sinonimo>Luetico</sinonimo>
+			<sinonimo>Morbo celtico</sinonimo>
+			<sinonimo>Reazione di nelson-mayer</sinonimo>
+			<sinonimo>Lue venerea</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/sifilide</wikiLink>
+	</voce>
+	<voce>
+		<entry>Silicosi</entry>
+		<descrizione>Malattia dei polmoni che si contrae respirando polveri di pietre. Tipica malattia dei minatori.</descrizione>
+		<capitolo>R99_ALTRA_MALATTIA_RESPIRATORIA</capitolo>
+		<id>383</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia caratterizzata da bronchite cronica e insufficienza respiratoria dovuta all'inalazione protratta di polvere di silice</descrizione>
+			<descrizione>La silicosi è una pneumoconiosi causata dall'inalazione di polvere contenente biossido di silicio, allo stato cristallino, che esita in una fibrosi polmonare progressiva dose-dipendente.</descrizione>
+			<descrizione>Malattia dell'apparato respiratorio</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Silicosi</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/silicosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Sindrome</entry>
+		<descrizione>Un insieme di sintomi e segni clinici che puo' quindi essere espressione di una determinata malattia o di malattie di natura completamente diversa, senza un riferimento preciso alle sue cause e al meccanismo di comparsa. Nel linguaggio comune il termine viene spesso erroneamente associato alle malattie rare</descrizione>
+		<capitolo>A99_Malattia o condizione o sede non definita</capitolo>
+		<id>384</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il complesso dei sintomi che caratterizzano una determinata malattia</descrizione>
+			<descrizione>Con il termine sindrome si intende, in medicina, un insieme di sintomi e segni clinici che costituiscono le manifestazioni cliniche di una o diverse malattie, indipendentemente dall'eziologia che le contraddistingue.</descrizione>
+			<descrizione>Insieme di sintomi e segni clinici che si manifestano contemporaneamente e che costituiscono o il quadro tipico di una malattia la cui eziologia non è stata ancora individuata oppure quello complessivo di più patologie a genesi riconosciuta.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Sindrome</sinonimo>
+			<sinonimo>Sindromi</sinonimo>
+			<sinonimo>Sindrome clinica</sinonimo>
+			<sinonimo>Sindromi cliniche</sinonimo>
+			<sinonimo>Sindromologia</sinonimo>
+			<sinonimo>Sindromologo</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/sindrome</wikiLink>
+	</voce>
+	<voce>
+		<entry>Sindrome di Down</entry>
+		<descrizione>Nota malattia prodotta da anomalie genetiche che vede la persona che ne soffre in una condizione di Handicap sin dalla nascita.</descrizione>
+		<capitolo>A90_ANOMALIE CONGENITE NAC</capitolo>
+		<id>385</id>
+		<descrizioniAggiuntive>
+			<descrizione>La sindrome di Down, detta anche trisomia 21 o, in passato, mongoloidismo, è una condizione cromosomica causata dalla presenza di una terza copia del cromosoma 21.</descrizione>
+			<descrizione>Anomalia cromosomica nell'uomo</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Mongolismo</sinonimo>
+			<sinonimo>Sindrome di down</sinonimo>
+			<sinonimo>Trisomia 21</sinonimo>
+			<sinonimo>Idiozia mongoloide</sinonimo>
+			<sinonimo>Mongoloidismo</sinonimo>
+			<sinonimo>Sindrome di dawn</sinonimo>
+			<sinonimo>Sindrome di down familiare</sinonimo>
+			<sinonimo>Sindrome down</sinonimo>
+			<sinonimo>Trisonomia 21</sinonimo>
+			<sinonimo>La sindrome di down</sinonimo>
+			<sinonimo>Mongolianism</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/sindrome_di_Down</wikiLink>
+	</voce>
+	<voce>
+		<entry>Sindrome di apnea notturna</entry>
+		<descrizione>Malattia causata dall'aggravamento della roncopatia. Si manifesta con il continuo andare in apnea durante il sonno</descrizione>
+		<capitolo>R99_ALTRA_MALATTIA_RESPIRATORIA</capitolo>
+		<id>386</id>
+	</voce>
+	<voce>
+		<entry>Sinusite</entry>
+		<descrizione>Infiammazione delle vie respiratorie superiori come complicanza del raffreddore</descrizione>
+		<capitolo>R75_SINUSITE_ACUTA/CRONICA</capitolo>
+		<id>387</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione dei seni frontali o di quelli mascellari</descrizione>
+			<descrizione>La sinusite è un processo infiammatorio, acuto o cronico, delle mucose dei seni paranasali, spesso accompagnata da un processo infettivo primario o secondario.</descrizione>
+			<descrizione>Malattia dell'apparato respiratorio</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Sinusite</sinonimo>
+			<sinonimo>Sinusiti</sinonimo>
+			<sinonimo>Infezione del seno</sinonimo>
+			<sinonimo>Rinosinusite</sinonimo>
+			<sinonimo>Sinusite cronica</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/sinusite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Stanchezza Cronica</entry>
+		<descrizione>Sindrome da Stanchezza Cronica</descrizione>
+		<capitolo>A04_ASTENIA/STANCHEZZA_GENERALE</capitolo>
+		<id>388</id>
+	</voce>
+	<voce>
+		<entry>Sterilita'</entry>
+		<descrizione>Per i maschi denota l'impossibilita' di produrre spermatozoi in grado di fecondare ovuli femminile. Per le donne denota l'incapacita' di rimanere incinte</descrizione>
+		<capitolo>Y10_STERILITA'/IPOFERTILITA'</capitolo>
+		<id>389</id>
+		<descrizioniAggiuntive>
+			<descrizione>L’OMS definisce sterilità la situazione di una coppia in cui uno o entrambi i membri sono affetti da una condizione fisica permanente che non rende possibile il concepimento.</descrizione>
+			<descrizione>   </descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>sterilità</sinonimo>
+			<sinonimo>infecondità</sinonimo>
+			<sinonimo>Infertilità</sinonimo>
+			<sinonimo>Impotentia generandi</sinonimo>
+			<sinonimo>Sterile</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Sterilità</wikiLink>
+	</voce>
+	<voce>
+		<entry>Stiramento muscolare</entry>
+		<descrizione>uno stiramento muscolare avviene quando un muscolo si tende piu' del consentito</descrizione>
+		<capitolo>L19_SINTOMO_O_DISTURBO_A_MUSCOLO_NAC</capitolo>
+		<id>390</id>
+	</voce>
+	<voce>
+		<entry>Stomatite</entry>
+		<descrizione>Malattia che si manifesta con piaghette in bocca e febbre alta</descrizione>
+		<capitolo>D83_MALATTIA_DELLA_BOCCA/LINGUA/LABBRA</capitolo>
+		<id>391</id>
+		<descrizioniAggiuntive>
+			<descrizione>La stomatite è una malattia infiammatoria della mucosa del cavo orale.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Stomatite</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/stomatite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Tendinite</entry>
+		<descrizione>infiammazione ai tendini</descrizione>
+		<capitolo>L87_BORSITE/TENDINITE/SINOVITE_NAC</capitolo>
+		<id>392</id>
+		<descrizioniAggiuntive>
+			<descrizione>La tendinite o peritenonite è una tendinopatia.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Tendinite</sinonimo>
+			<sinonimo>Peritendinite</sinonimo>
+			<sinonimo>Tendiniti</sinonimo>
+			<sinonimo>Peritenonite</sinonimo>
+			<sinonimo>Tenonitis</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/tendinite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Tonsillite</entry>
+		<descrizione>Infiammazione alle tonsille.</descrizione>
+		<capitolo>R76_TONSILLITE_ACUTA</capitolo>
+		<id>393</id>
+		<descrizioniAggiuntive>
+			<descrizione>La tonsillite o faringotonsillite è un'infiammazione delle tonsille, sindrome in cui troviamo la flogosi della Faringe.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>tonsillite</sinonimo>
+			<sinonimo>amigdalite</sinonimo>
+			<sinonimo>angina</sinonimo>
+			<sinonimo>Faringotonsillite</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Tonsillite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Tromboflebite</entry>
+		<descrizione>occlusione delle vene o delle arterie a causa della formazione di un trombo di sangue</descrizione>
+		<capitolo>K94_FLEBITE_E_TROMBOFLEBITE</capitolo>
+		<id>394</id>
+		<descrizioniAggiuntive>
+			<descrizione>Con il termine tromboflebite ci si riferisce alla infiammazione di vene superficiali con conseguente trombosi.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Tromboflebite</sinonimo>
+			<sinonimo>Tromboflebiti</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Tromboflebite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Tubercolosi</entry>
+		<descrizione>malattia contagiosa ai polmoni che si manifesta con tosse, brividi, pallore, febbre, perdita di sangue dalla bocca, causata da batteri.</descrizione>
+		<capitolo>A70_TUBERCOLOSI</capitolo>
+		<id>395</id>
+		<descrizioniAggiuntive>
+			<descrizione>La tubercolosi o tisi o poriformalicosi, in sigla TBC, è una malattia infettiva causata da vari ceppi di micobatteri, in particolare dal Mycobacterium tuberculosis, chiamato anche Bacillo di Koch.</descrizione>
+			<descrizione> </descrizione>
+			<descrizione> </descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>tisi</sinonimo>
+			<sinonimo>tubercolosi polmonare</sinonimo>
+			<sinonimo>consunzione</sinonimo>
+			<sinonimo>etisia</sinonimo>
+			<sinonimo>mal sottile</sinonimo>
+			<sinonimo>tubercolosi</sinonimo>
+			<sinonimo>Infermità di petto</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Tubercolosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Ulcera</entry>
+		<descrizione>Lesione della pelle, lenta o difficoltosa o assente cicatrizzazione.</descrizione>
+		<capitolo>D85_ULCERA_DUODENALE</capitolo>
+		<id>396</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'ulcera è una lesione della pelle o di un tessuto epiteliale, a lenta, difficoltosa o assente cicatrizzazione.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>ulcera</sinonimo>
+			<sinonimo>ulcerazione</sinonimo>
+			<sinonimo>ulceramento</sinonimo>
+			<sinonimo>Ulcere</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Ulcera</wikiLink>
+	</voce>
+	<voce>
+		<entry>Ulcera gastrica</entry>
+		<descrizione>Perforazione della parete dello stomaco</descrizione>
+		<capitolo>D86_ALTRA_ULCERA_PEPTICA</capitolo>
+		<id>397</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'ulcera gastrica è una lesione della parete dello stomaco. Può variare da una semplice erosione della mucosa fino alla completa perforazione della parete.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ulcera gastrica</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Ulcera_gastrica</wikiLink>
+	</voce>
+	<voce>
+		<entry>Unghie incarnate</entry>
+		<descrizione>Succede quando le unghie nel crescere si conficcano nella carne del dito. Di solito si tratta delle unghie dei piedi</descrizione>
+		<capitolo>S94_UNGHIA_INCARNITA</capitolo>
+		<id>398</id>
+	</voce>
+	<voce>
+		<entry>Uretrite</entry>
+		<descrizione>Infiammazione dell'uretra a causa di batteri o funghi. Colpisce più spesso gli uomini, a differenza della cistite che è un disturbo tipicamente femminile.</descrizione>
+		<capitolo>U72_URETRITE</capitolo>
+		<id>399</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'uretrite è l'infiammazione dell'uretra, ovvero della struttura anatomica che permette il passaggio dell'urina dalla vescica all'esterno.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Uretrite</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/uretrite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Ustione</entry>
+		<descrizione>L'ustione della pelle e una lesione della pelle causata da qualcosa di molto caldo. Si puo' ottenere o stando esposti ai raggi solari o a contatto di una fonte di calore forte. In base alla gravità l'ustione può essere di diversi gradi.</descrizione>
+		<capitolo>S14_BRUCIATURE/USTIONI</capitolo>
+		<id>400</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'ustione è una lesione dei tessuti tegumentari causata dall'esposizione del tessuto stesso a fonti termiche, a sostanze chimiche, a sorgenti elettriche o a radiazioni.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Bruciatura</sinonimo>
+			<sinonimo>Scottamento</sinonimo>
+			<sinonimo>Scottatura</sinonimo>
+			<sinonimo>Strinatura</sinonimo>
+			<sinonimo>Ustione</sinonimo>
+			<sinonimo>Ustioni</sinonimo>
+			<sinonimo>Secondo grado masterizzare</sinonimo>
+			<sinonimo>Ustione di terzo grado</sinonimo>
+			<sinonimo>Ustioni di terzo grado</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/ustione</wikiLink>
+	</voce>
+	<voce>
+		<entry>Ustione della pelle</entry>
+		<descrizione>L'ustione della pelle si puo' ottenere o stando esposti ai raggi solari o a contatto di una fonte di calore forte. In base alla gravità l'ustione può essere di diversi gradi.</descrizione>
+		<capitolo>S14_BRUCIATURE/USTIONI</capitolo>
+		<id>401</id>
+	</voce>
+	<voce>
+		<entry>Vaiolo</entry>
+		<descrizione>Malattia virale contagiosa e talvolta mortale, debellata nella fine degli anni '70 grazie ad un vaccino. Si manifesta con febbre altissima e pustole sulla pelle.</descrizione>
+		<capitolo>A77_ALTRA_MALATTIA_VIRALE_NAC</capitolo>
+		<id>402</id>
+		<descrizioniAggiuntive>
+			<descrizione>Grave malattia infettiva di origine virale, contagiosa ed epidemica, caratterizzata da febbre alta ed eruzione di vescicole che evolvono in pustole, ormai debellata nella specie umana.</descrizione>
+			<descrizione>Il vaiolo è stata una malattia infettiva causata da due varianti del virus Variola, la Variola maior e la Variola minor.</descrizione>
+			<descrizione>Malattia infettiva causata da due varianti del virus Variola</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>vaiolo</sinonimo>
+			<sinonimo>Variola major</sinonimo>
+			<sinonimo>Variola vera</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Vaiolo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Varicella</entry>
+		<descrizione>Malattia infettiva molto contagiosa, che si manifesta con una forte eruzione cutanea, su tutto il corpo, come dei piccoli foruncolini che causano prurito, oltre alla presenza di febbre, debolezza e mal di testa. E' una malattia tipica dell'infanzia, che pero' puo' presentarsi anche in eta' adulta. Dura in genere da una settimana a 10 giorni.Il vaiolo e' una forma piu' forte di varicella.</descrizione>
+		<capitolo>A72_VARICELLA</capitolo>
+		<id>403</id>
+		<descrizioniAggiuntive>
+			<descrizione>Malattia infettiva esantematica di origine virale che colpisce soprattutto i bambini</descrizione>
+			<descrizione>La varicella è una malattia esantematica altamente contagiosa ed epidemica causata da un'infezione primaria con il Virus varicella-zoster, un virus a DNA appartenente alla famiglia Herpesviridae, sottofamiglia Alphaherpesvirinae, genere Varicellovirus.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Varicella</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/varicella</wikiLink>
+	</voce>
+	<voce>
+		<entry>Vene varicose</entry>
+		<descrizione>Le vene sono varicose quando emergono dalla superficie della pelle. Tipicamente si hanno sulle braccia e sulle gambe.</descrizione>
+		<capitolo>K95_VARICI_VENOSE_ARTI_INFERIORI</capitolo>
+		<id>404</id>
+		<descrizioniAggiuntive>
+			<descrizione>Vena dilatata</descrizione>
+			<descrizione>Per varicosi o malattia varicosa si intende una dilatazione patologica permanente di una vena associata ad una modificazione di tipo regressivo delle pareti venose.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Varice</sinonimo>
+			<sinonimo>Vena varicosa</sinonimo>
+			<sinonimo>Varicosi</sinonimo>
+			<sinonimo>Varici</sinonimo>
+			<sinonimo>Vene varicose</sinonimo>
+			<sinonimo>Flebectasia</sinonimo>
+			<sinonimo>Venectasia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Varicosi</wikiLink>
+	</voce>
+</patologie>

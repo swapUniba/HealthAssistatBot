@@ -1,0 +1,13 @@
+#set($newline="
+")
+#if($diseasesResults)
+Dall'analisi dei sintomi inseriti (#foreach($ps in $parsedSymptoms)*$ps.name.toLowerCase()*#if($velocityCount < $parsedSymptoms.size()), #end#end) le patologie potenzialmente correlate sono (in parentesi è indicato il grado di correlazione): 
+#foreach($disease in $diseases.keySet()) - *$disease.name.toLowerCase()* ($diseases.get($disease)%): $disease.descriptions.get(0) #if($disease.wikipedia)[$disease.wikipedia]($disease.wikipedia)#end $newline#end
+#end
+
+#if($recommendation)
+Possibili sintomi correlati:
+#foreach($symptom in $recommendedSymptoms) - *$symptom.name.toLowerCase()*#if($symptom.descriptions.size() > 0): $symptom.descriptions.get(0)#end $newline#end
+
+#end
+Seleziona altri sintomi da cui sei affetto dall’elenco in basso (o descrivine altri). Altrimenti, puoi chiedere un nuovo consulto premendo su 'Nuova consultazione'.

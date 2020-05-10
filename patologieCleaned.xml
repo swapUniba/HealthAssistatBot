@@ -1,0 +1,847 @@
+<patologie>
+	<voce>
+		<entry>Abbassamento dell'utero</entry>
+		<descrizione>Discesa dell'utero nel canale vaginale. Si manifesta quando si verifica un indebolimento della muscolatura e dei legamenti che sostengono l'organo, il quale, di conseguenza, tende a scivolare verso il basso.</descrizione>
+		<capitolo>X87_Prolasso utero-vaginale</capitolo>
+	</voce>
+	<voce>
+		<entry>Abbassamento della vescica</entry>
+		<descrizione>Discesa verso il basso e talvolta fuori dall'introito vaginale della vescica</descrizione>
+		<capitolo>X87_Prolasso utero-vaginale</capitolo>
+	</voce>
+	<voce>
+		<entry>Aborto</entry>
+		<descrizione>Interruzione prematura di una gravidanza</descrizione>
+		<capitolo>W82_ABORTO SPONTANEO</capitolo>
+	</voce>
+	<voce>
+		<entry>Aborto incompleto</entry>
+		<descrizione>Espulsione solo di parte del prodotto del concepimento</descrizione>
+		<capitolo>W82_ABORTO SPONTANEO</capitolo>
+	</voce>
+	<voce>
+		<entry>Abrasione</entry>
+		<descrizione>Leggera escoriazione della pelle o delle mucose, o  lesione della parte piu' esterna della pelle, provocata da un trauma, o da uno sfregamento con un oggetto che colpisce di striscio la superficie interessata</descrizione>
+		<capitolo>S17_Abrasione/graffio/vescica</capitolo>
+	</voce>
+	<voce>
+		<entry>Abrasione della cornea</entry>
+		<descrizione>Lesione di una porzione della superficie corneale con perdita di tessuto superficiale</descrizione>
+		<capitolo>F79_Altra lesione traumatica dell'occhio</capitolo>
+	</voce>
+	<voce>
+		<entry>Abrasioni al volto</entry>
+		<descrizione>Leggera escoriazione della pelle del viso</descrizione>
+		<capitolo>S17_Abrasione/graffio/vescica</capitolo>
+	</voce>
+	<voce>
+		<entry>Abuso di alcohol / alcol</entry>
+		<descrizione>Condizione di chi avverte la necessita' irrefrenabile e frequente di assumere bibite alcoliche malgrado i danni che tale assunzione comporta</descrizione>
+		<capitolo>P15_Abuso alcolico cronico</capitolo>
+	</voce>
+	<voce>
+		<entry>Abuso di droga</entry>
+		<descrizione>Condizione di chi avverte la necessita' irrefrenabile e frequente di assumere droga  (stupefacenti) malgrado i danni che tale assunzione comporta</descrizione>
+		<capitolo>P19_Abuso di droga</capitolo>
+	</voce>
+	<voce>
+		<entry>Abuso sessuale</entry>
+		<descrizione>Maltrattamento fisico nei confronti di una persona (il piu' delle volte una donna o un bambino) non in grado di scegliere con costringimento ad attivita' sessuali.</descrizione>
+		<capitolo>Z25_Aggressione/evento traumatico</capitolo>
+	</voce>
+	<voce>
+		<entry>Acidosi</entry>
+		<descrizione>Condizione patologica  in cui siano prodotte o introdotte in misura superiore alla norma sostanze acide, oppure siano sottratte sostanze alcaline, cosi' che il pH organico tende all? acidita'</descrizione>
+		<capitolo>T99_Altro dist. endocrino/metabolico/nutriz.</capitolo>
+	</voce>
+	<voce>
+		<entry>Acidosi respiratoria</entry>
+		<descrizione>Situazione patologica in cui arriva poco ossigeno ai polmoni e diminuisce il pH nel sangue</descrizione>
+		<capitolo>T99_Altro dist. endocrino/metabolico/nutriz.</capitolo>
+	</voce>
+	<voce>
+		<entry>Acne</entry>
+		<descrizione>Malattia molto diffusa, specialmente tra gli adolescenti, per la quale la pelle, soprattutto del viso, si copre di brufoli</descrizione>
+		<capitolo>S96_ACNE</capitolo>
+	</voce>
+	<voce>
+		<entry>Acufene</entry>
+		<descrizione>Disturbo della capacita' uditiva e consiste nella percezione di rumori, suoni fastidiosi, talvolta sottili fischi o ronzii. Si tratta di rumori creati all?interno del corpo o percezioni di rumori esterni che in realta' non esistono</descrizione>
+		<capitolo>H03_Acufene/tintinnio/ronzio all?orecchio</capitolo>
+	</voce>
+	<voce>
+		<entry>Addensamento</entry>
+		<descrizione>Ispessimento di un organo o di un tessuto</descrizione>
+		<capitolo>R81_Polmonite</capitolo>
+	</voce>
+	<voce>
+		<entry>Adenocarcinoma intestinale</entry>
+		<descrizione>Tumore&#160;maligno localizzato nell'intestino che prende origine dall'epitelio ghiandolare.</descrizione>
+		<capitolo>D75_ Neoplasia maligna del colon/retto</capitolo>
+	</voce>
+	<voce>
+		<entry>Adenocarcinoma polmonare</entry>
+		<descrizione>Tumore&#160;maligno localizzato nei pomoni che prende origine dall'epitelio ghiandolare.</descrizione>
+		<capitolo>R84_Neoplasia maligna bronchiale/polmonare</capitolo>
+	</voce>
+	<voce>
+		<entry>Adenoidi</entry>
+		<descrizione>Piccole masse di tessuto linfatico situate nella parte alta della gola o piu' esattamente la' dove le vie nasali sboccano nella gola stessa. Svolgono una complessa funzione di difesa. Piu' che come parte anatomiche sono riconosciute come un disturbo o patologia, in particolare quando le adenoidi sono molto voluminose, poiche' rappresentano un serio ostacolo  alla respirazione.</descrizione>
+		<capitolo>R90_Ipertrofia di tonsille/adenoidi</capitolo>
+	</voce>
+	<voce>
+		<entry>Afasia</entry>
+		<descrizione>Non riuscire a spiegarsi ne' attraverso le parole, ne' attraverso la scrittura o i segni o non riuscire a capire ne' una persona che parla ne' un testo scritto</descrizione>
+		<capitolo>N19_Disordine della parola</capitolo>
+	</voce>
+	<voce>
+		<entry>Afte</entry>
+		<descrizione>Piccole ulcere dolorose solitamente all'interno della bocca causate da una rottura della mucosa</descrizione>
+		<capitolo>D83_MALATTIA_DELLA_BOCCA/LINGUA/LABBRA</capitolo>
+	</voce>
+	<voce>
+		<entry>Aids</entry>
+		<descrizione>La Sindrome da immunodeficienza acquisita, rappresenta lo stadio clinico terminale dell?infezione da parte del virus dell?immunodeficienza umana (Hiv)</descrizione>
+		<capitolo>B90_Infezione HIV/AIDS</capitolo>
+	</voce>
+	<voce>
+		<entry>Allergia</entry>
+		<descrizione>Reazione spropositata a qualche sostanza (e.g. pollini, cloro). Si concretizza in ripetute sequenze di starnuti intensi, gocciolamento del naso, chiusura della gola a volte con asma, innalzamento della temperatura corporea, arrossamento e prurito agli occhi (congiuntivite). Esistono anche manifestazioni cutanee delle allergie con la comparsa di dermatiti.</descrizione>
+		<capitolo>A92_Allergia/ reazione allergica NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Allergia locale</entry>
+		<descrizione>Allergia con reazione localizzata solo su una certa parte del corpo</descrizione>
+		<capitolo>S88_Dermatite da contatto/allergia</capitolo>
+	</voce>
+	<voce>
+		<entry>Alluce valvo</entry>
+		<descrizione>Patologia a carico del piede, caratterizzata da una deformita' dell'alluce che appare con la falange deformata, formante un angolo verso l'estero</descrizione>
+		<capitolo>L17_Sintomo o disturbo di piede/dito di piede</capitolo>
+	</voce>
+	<voce>
+		<entry>Alopecia</entry>
+		<descrizione>Processo di diminuzione della qualita' (colore, spessore) e della quantita' di capelli o la loro scomparsa. E' un tipo di perdita dei capelli a chiazze</descrizione>
+		<capitolo>P29_Altro sintomo o disturbo psicologico</capitolo>
+	</voce>
+	<voce>
+		<entry>Alzheimer</entry>
+		<descrizione>Malattia che colpisce le persone oltre i 60 anni di eta'. E' una malattia che distrugge le cellule cerebrali portando il paziente da una forma lieve di perdita di memoria alla totale perdita di autosufficienza</descrizione>
+		<capitolo>P70_Demenza</capitolo>
+	</voce>
+	<voce>
+		<entry>Anacusia</entry>
+		<descrizione>Patologia che colpisce gli organi dell'udito e che porta alla perdita totale o parziale (unilaterale) della funzione uditiva</descrizione>
+		<capitolo>H28_Limitazione/disabilita' uditiva (H)</capitolo>
+	</voce>
+	<voce>
+		<entry>Anemia</entry>
+		<descrizione>Mancanza di globuli rossi che determina debolezza e colore meno intenso del sangue</descrizione>
+		<capitolo>B82_Altra anemia/non specificata</capitolo>
+	</voce>
+	<voce>
+		<entry>Aneurisma</entry>
+		<descrizione>Un aneurisma &#232; una dilatazione progressiva di un segmento di un'arteria, che &#232; stata causata da un anomalia della parete del vaso sanguigno.</descrizione>
+		<capitolo>K99_Altra malattia cardiovascolare</capitolo>
+	</voce>
+	<voce>
+		<entry>Angina pectoris</entry>
+		<descrizione>Forte dolore al cuore e a volte anche al braccio sinistro</descrizione>
+		<capitolo>K74_Cardiopatia ischemica con angina</capitolo>
+	</voce>
+	<voce>
+		<entry>Angioma</entry>
+		<descrizione>formazione di natura benigna, causata da un anomalo sviluppo dei vasi sanguigni, che si presentano dilatati.  La dilatazione del vaso sanguigno d&#224; luogo alla formazione di quello che viene comunemente chiamato un &#8220;cul de sac&#8221;, nel quale il flusso di sangue ristagna. la voglia o macchia di vino, ad esempio, &#232; un angioma della pelle (di forma e grandezza diverse), presente alla nascita.</descrizione>
+		<capitolo>S81_Emangioma/linfangioma</capitolo>
+	</voce>
+	<voce>
+		<entry>Anoressia</entry>
+		<descrizione>Astensione volontaria dal cibo che pu&#242; portate alla totale mancanza. Malattia psicologica molto grave che colpisce principalmente gli adolescenti.</descrizione>
+		<capitolo>T03_Perdita dell?appetito</capitolo>
+	</voce>
+	<voce>
+		<entry>Appendicite</entry>
+		<descrizione>infiammazione dell'appendice, che e' una piccola protuberanza dell'intestino, delle dimensioni di un dito. se non curata in tempo puo' degenerare in peritonite.</descrizione>
+		<capitolo>D88_Appendicite</capitolo>
+	</voce>
+	<voce>
+		<entry>Appendicopatia</entry>
+		<descrizione>Qualsiasi patologia legata all'appendice cecale. La malattia piu' comune e' l?appendicite, l?infiammazione dell?appendice</descrizione>
+		<capitolo>D88_Appendicite</capitolo>
+	</voce>
+	<voce>
+		<entry>Aritmia</entry>
+		<descrizione>Battiti del cuore non regolari</descrizione>
+		<capitolo>K80_Aritmia cardiaca NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Artereosclerosi</entry>
+		<descrizione>Malattia pre lo piu' presente negli anziani. Provoca la perdita della memoria</descrizione>
+		<capitolo>K92_ARTERIOSCLEROSI/MALATTIA_VASCOLARE_PERIFERICA</capitolo>
+	</voce>
+	<voce>
+		<entry>Arteriosclerosi</entry>
+		<descrizione>Malattia pre lo piu' presente negli anziani. Provoca la perdita della memoria</descrizione>
+		<capitolo>K92_Arteriosclerosi/mal.vascolare periferica</capitolo>
+	</voce>
+	<voce>
+		<entry>Artrite</entry>
+		<descrizione>Infiammazione e dolore alle articolazioni. Ci sono vari tipi di artriti: quella reumatoide, quella gottosa e quella chiamata osteoartrite. Spesso frequente in et&#224; avanzata.</descrizione>
+		<capitolo>L87_Borsite/tendinite/sinovite NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Artrite acuta</entry>
+		<descrizione>Infiammazione delle articolazioni nella fase piu' pungente e dolorosa</descrizione>
+		<capitolo>L87_Borsite/tendinite/sinovite NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Artrite gottosa</entry>
+		<descrizione>Infiammazione delle articolazioni dovuta alla gotta</descrizione>
+		<capitolo>L87_Borsite/tendinite/sinovite NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Artrosi</entry>
+		<descrizione>malattia delle articolazioni, colpisce prevalentamente gli anziani</descrizione>
+		<capitolo>L91_Altra artrosi</capitolo>
+	</voce>
+	<voce>
+		<entry>Ascesso</entry>
+		<descrizione>Zona gonfia a causa di un'infezione (es.gengiva)</descrizione>
+		<capitolo>A99_Malattia o condizione o sede non definita</capitolo>
+	</voce>
+	<voce>
+		<entry>Ascesso dentale</entry>
+		<descrizione>Gofiore della gengiva dovuto a un'infezione</descrizione>
+		<capitolo>D82_Malattia di denti o gengive</capitolo>
+	</voce>
+	<voce>
+		<entry>Ascesso perianale</entry>
+		<descrizione>Infezione con rigonfiamento vicino all'ano</descrizione>
+		<capitolo>D95_Ragade anale/ascesso perianale</capitolo>
+	</voce>
+	<voce>
+		<entry>Asma</entry>
+		<descrizione>Fatica nel respirare, senso di chiusura della gola, senso di parzialita' nel funzionamento dei polmoni</descrizione>
+		<capitolo>R96_Asma</capitolo>
+	</voce>
+	<voce>
+		<entry>Astigmatismo</entry>
+		<descrizione>L'astigmatismo e' il piu' comune problema visivo. E' quasi sempre causato da una forma irregolare della cornea.</descrizione>
+		<capitolo>F28_LIMITAZIONE_FUNZIONALE/DISABILITA'_OCULARE</capitolo>
+	</voce>
+	<voce>
+		<entry>Blocco intestinale</entry>
+		<descrizione>Non riuscire a defecare e sentire la pancia dura</descrizione>
+		<capitolo>D99_Altra malattia del sistema digerente</capitolo>
+	</voce>
+	<voce>
+		<entry>Borsite</entry>
+		<descrizione>Infiammazione di una borsa (sacca) mucosa o sierosa</descrizione>
+		<capitolo>L87_Borsite/tendinite/sinovite NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Bronchite</entry>
+		<descrizione>La bronchite &#232; un'infiammazione dei bronchi &#232; pu&#242; essere causata da virus o batteri.</descrizione>
+		<capitolo>R78_Bronchite acuta/bronchiolite</capitolo>
+	</voce>
+	<voce>
+		<entry>Broncopolmonite</entry>
+		<descrizione>infiammazione dell'apparato respiratorio</descrizione>
+		<capitolo>R81_Polmonite</capitolo>
+	</voce>
+	<voce>
+		<entry>Bulimia</entry>
+		<descrizione>Disturbo del comportamento alimentare, ingerire cibo in maniera compulsiva, senza controllo.</descrizione>
+		<capitolo>P86_Anoressia nervosa/bulimia</capitolo>
+	</voce>
+	<voce>
+		<entry>Calcoli Renali</entry>
+		<descrizione>Un calcolo renale e' un corpo solido che si forma all'interno del rene.</descrizione>
+		<capitolo>U95_CALCOLOSI_URINARIA</capitolo>
+	</voce>
+	<voce>
+		<entry>Cancrena</entry>
+		<descrizione>Una parte del corpo muore perche' non riceve piu' nutrimento e ossigeno</descrizione>
+		<capitolo>K92_Arteriosclerosi/mal.vascolare periferica</capitolo>
+	</voce>
+	<voce>
+		<entry>Cancro</entry>
+		<descrizione>Degenerazione cellulare che pu&#242; situarsi in svariate parti e organi corporei che impedisce all'organo intaccato di funzionare correttamente fino alla distruzione dell'organo stesso .E' spesso mortale e le cure non sono ancora risolutive.Si interviene con la rimozione chirurgica delle parti ammalate, o con chemio e radioterapia.</descrizione>
+		<capitolo>B74_ALTRA_NEOPLASIA_MALIGNA_EMATOLOGICA</capitolo>
+	</voce>
+	<voce>
+		<entry>Candidosi</entry>
+		<descrizione>La candidosi &#232; la pi&#249; frequente infezione micotica (provocata cio&#232; da funghi) che colpisce l'apparato genitale.</descrizione>
+		<capitolo>A78_Altra malattia infettiva/NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Carie</entry>
+		<descrizione>malattia provocata da un batterio che attacca i denti, rovinandoli dall'esterno. quando raggiunge il nervo provoca dolori molto forti. Una volta che la carie ha attaccato un dente, esso non puo' essere curato; la carie va asportata dal dentista.</descrizione>
+		<capitolo>D19_SINTOMO_O_DISTURBI_RIFERITI_A_DENTI_O_GENGIVE</capitolo>
+	</voce>
+	<voce>
+		<entry>Cataratta congenita</entry>
+		<descrizione>La cataratta congenita e' una pellicola opaca che si forma sulla superfice del cristallino, e che offusca la vista. Congenita significa che si tratta di malattie ereditaria.</descrizione>
+		<capitolo>F92_CATARATTA</capitolo>
+	</voce>
+	<voce>
+		<entry>Cecita'</entry>
+		<descrizione>Mancanza della vista</descrizione>
+		<capitolo>F94_Cecita'</capitolo>
+	</voce>
+	<voce>
+		<entry>Celiachia</entry>
+		<descrizione>La celiachia e' l'incapacita' di assimilare il glutine contenuto nei cereali</descrizione>
+		<capitolo>D99_Altra malattia del sistema digerente</capitolo>
+	</voce>
+	<voce>
+		<entry>Cellulite</entry>
+		<descrizione>La cellulite &#232; un problema diffuso soprattutto nel mondo femminile. La presenza della cellulite su diverse parti del corpo non dipende dal peso di una persona ma &#232; un'alterazione del tessuto cellulare sottocutaneo e pu&#242; raggiungere diversi stadi.</descrizione>
+		<capitolo>S76_Altra malattia infettiva della pelle</capitolo>
+	</voce>
+	<voce>
+		<entry>Cistite</entry>
+		<descrizione>Infiammazione della vescica che colpisce soprattutto le donne.</descrizione>
+		<capitolo>U71_Cistite/altra infezione urinaria</capitolo>
+	</voce>
+	<voce>
+		<entry>Colite</entry>
+		<descrizione>Infiammazione del colon spesso dovuta ad intolleranze alimentari(ad esempio, da latticini)</descrizione>
+		<capitolo>D99_ALTRA_MALATTIA_AL_SISTEMA_DIGERENTE</capitolo>
+	</voce>
+	<voce>
+		<entry>Colpo della strega</entry>
+		<descrizione>Dolore acuto alla schiena, in basso verso il sedere, in genere dopo qualche movimento brusco o sforzo.</descrizione>
+		<capitolo>L84_Sindrome dorso lombare senza irradiazione</capitolo>
+	</voce>
+	<voce>
+		<entry>Congestione</entry>
+		<descrizione>Aumento esagerato di sangue in una parte del corpo</descrizione>
+		<capitolo>D87_Disordine gastrico funzionale</capitolo>
+	</voce>
+	<voce>
+		<entry>Congiuntivite</entry>
+		<descrizione>infiammazione agli occhi</descrizione>
+		<capitolo>F70_Congiuntivite infettiva</capitolo>
+	</voce>
+	<voce>
+		<entry>Contusione</entry>
+		<descrizione>Ematoma dovuto a una botta, senza tagli o ferite</descrizione>
+		<capitolo>A80_Trauma/lesione traumatica NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Contusione costale</entry>
+		<descrizione>Ematoma dovuto a una botta, senza tagli o ferite, alle costole</descrizione>
+		<capitolo>L81_Lesione traumatica muscoloscheletrica NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Contusione cranica</entry>
+		<descrizione>Ematoma dovuto a una botta, senza tagli o ferite, alla testa</descrizione>
+		<capitolo>N80_Altra lesione traumatica della testa</capitolo>
+	</voce>
+	<voce>
+		<entry>Contusione escoriata</entry>
+		<descrizione>Ematoma, dovuto a una botta, con lesione superficiale della pelle</descrizione>
+		<capitolo>A80_Trauma/lesione traumatica NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Contusione palmare</entry>
+		<descrizione>Ematoma dovuto a una botta al palmo delle mani</descrizione>
+		<capitolo>L81_Lesione traumatica muscoloscheletrica NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Contusione quadricipite</entry>
+		<descrizione>Ematoma dovuto a una botta, sul quadricipite</descrizione>
+		<capitolo>L81_Lesione traumatica muscoloscheletrica NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Contusione sacrale</entry>
+		<descrizione>Ematoma dovuto a una botta, all'osso sacro</descrizione>
+		<capitolo>L81_Lesione traumatica muscoloscheletrica NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Couperose</entry>
+		<descrizione>Zone rosse sugli zigomi e sul naso dovute alla rottura o alla dilatazione dei capillari superficiali</descrizione>
+		<capitolo>S99_Altra malattia della pelle</capitolo>
+	</voce>
+	<voce>
+		<entry>Crisi di asma bronchiale</entry>
+		<descrizione>Momenti in cui si fa molta fatica a respirare</descrizione>
+		<capitolo>R96_Asma</capitolo>
+	</voce>
+	<voce>
+		<entry>Crisi emorroidaria</entry>
+		<descrizione>Deterioramento o una qualunque alterazione dell'emorroidi interne</descrizione>
+		<capitolo>K96_Emorroidi</capitolo>
+	</voce>
+	<voce>
+		<entry>Daltonismo</entry>
+		<descrizione>Disturbo alla vista per cui una persona non riesce a distinguere i colori; in particolare, confonde il rosso e il verde</descrizione>
+		<capitolo>F99_Altra malattia di occhio/annessi</capitolo>
+	</voce>
+	<voce>
+		<entry>Denti bucati</entry>
+		<descrizione>Avere carie sui denti</descrizione>
+		<capitolo>D82_Malattia di denti o gengive</capitolo>
+	</voce>
+	<voce>
+		<entry>Depressione</entry>
+		<descrizione>La depressione &#232; una patologia dell'umore in grado di diminuire il tono dell'umore e l' abilit&#224; della persone ad adattarsi alla vita sociale</descrizione>
+		<capitolo>P76_Depressione</capitolo>
+	</voce>
+	<voce>
+		<entry>Dermatite</entry>
+		<descrizione>Manifestazione cutanea infiammatoria, eritematosa con vescicole essudative oppure desquamative, determinata da vari fattori.</descrizione>
+		<capitolo>S88_Dermatite da contatto/allergia</capitolo>
+	</voce>
+	<voce>
+		<entry>Diabete</entry>
+		<descrizione>problema nell'assimilazione degli zuccheri che provoca un innalzamento eccessivo degli zuccheri nel sangue</descrizione>
+		<capitolo>T89_Diabete insulino dipendente</capitolo>
+	</voce>
+	<voce>
+		<entry>Difficolta respiratorie</entry>
+		<descrizione>Difficolta' nel respirare normalmente, spesso provocata da qualche problema ai polmoni o ai bronchi</descrizione>
+		<capitolo>R02_RESPIRO_CORTO,DISPNEA</capitolo>
+	</voce>
+	<voce>
+		<entry>Discalculia</entry>
+		<descrizione>La discalculia &#232; una difficolt&#224; nell'apprendimento del calcolo, che si manifesta nella scrittura dei numeri, nel riconoscimento dei simboli numerici e nell risoluzioni problematiche.</descrizione>
+		<capitolo>P24_Problema specifico dell?apprendimento</capitolo>
+	</voce>
+	<voce>
+		<entry>Disgrafia</entry>
+		<descrizione>Difficolt&#224; ad imparare a scrivere.</descrizione>
+		<capitolo>P24_Problema specifico dell?apprendimento</capitolo>
+	</voce>
+	<voce>
+		<entry>Dislessia</entry>
+		<descrizione>Ridotta capacit&#224; di leggere, spesso da lesione del lobo parietale dominante.</descrizione>
+		<capitolo>P24_Problema specifico dell?apprendimento</capitolo>
+	</voce>
+	<voce>
+		<entry>Distacco della retina</entry>
+		<descrizione>Malattia che colpisce l'occhio spesso provocata da un trauma o da troppo stress che provoca lo stacco della retina dalla parete dell'occhio, e quindi la perdita parziale o totale della vista</descrizione>
+		<capitolo>F82_Distacco di retina</capitolo>
+	</voce>
+	<voce>
+		<entry>Distorsione</entry>
+		<descrizione>Trauma alle articolazioni. Tipica &#232; la distorsione alla caviglia.</descrizione>
+		<capitolo>L79_Distorsione/stiramento di articolazione NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Duodenite</entry>
+		<descrizione>Infiammazione del duodeno.</descrizione>
+		<capitolo>D99_Altra malattia del sistema digerente</capitolo>
+	</voce>
+	<voce>
+		<entry>Epatite</entry>
+		<descrizione>L'epatite &#232; una malattia del fegato. Esistono diversi tipi di epatite: epatite A, epatite B, epatite C, epatite D.</descrizione>
+		<capitolo>D72_Epatite virale</capitolo>
+	</voce>
+	<voce>
+		<entry>Epilessia</entry>
+		<descrizione>Ricorrenti e improvvise crisi epilettiche. Forte tremore esteso a tutto il corpo, eccessiva produzione di saliva.</descrizione>
+		<capitolo>N88_Epilessia</capitolo>
+	</voce>
+	<voce>
+		<entry>Ernia del disco</entry>
+		<descrizione>Fuoriuscita del disco dalla sua posizione normale. Provoca prima mal di schiena, poi sciatica con dolori in tutta la gamba fino a sotto il piede. Per curare questa malattia esistono cure a base di cortisone; in alternativa si rende necessario un intervento chirurgico.</descrizione>
+		<capitolo>L84_Sindrome dorso lombare senza irradiazione</capitolo>
+	</voce>
+	<voce>
+		<entry>Esaurimento nervoso</entry>
+		<descrizione>Espressione che indica una serie di patologie di tipo psicologico collegate a vari sintomi</descrizione>
+		<capitolo>P76_Depressione</capitolo>
+	</voce>
+	<voce>
+		<entry>Esofagite</entry>
+		<descrizione>Disturbo dell'appartato digerente</descrizione>
+		<capitolo>D84_Malattia dell?esofago</capitolo>
+	</voce>
+	<voce>
+		<entry>Flebite</entry>
+		<descrizione>Malattia delle gambe, provocata o dallo stare troppo in piedi, o da pavimenti troppo caldi</descrizione>
+		<capitolo>K94_FLEBITE_E_TROMBOFLEBITE</capitolo>
+	</voce>
+	<voce>
+		<entry>Focolaio</entry>
+		<descrizione>Punto dove inizia qualcosa (ad esmpio un'infezione) e dal quale puo' propagarsi</descrizione>
+		<capitolo>A78_ALTRA MALATTIA INFETTIVA/NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Forfora</entry>
+		<descrizione>Denota lo staccarsi di piccole parti di pelli dal cuoio capelluto. Provoca prurito</descrizione>
+		<capitolo>S86_DERMATITE_SEBORROICA</capitolo>
+	</voce>
+	<voce>
+		<entry>Frattura</entry>
+		<descrizione>Rottura, parziale o totale, di un osso</descrizione>
+		<capitolo>L72_FRATTURA_DI_RADIO/ULNA</capitolo>
+	</voce>
+	<voce>
+		<entry>Gastrite</entry>
+		<descrizione>La gastrite e' un dolore che colpisce lo stomaco provocando bruciore</descrizione>
+		<capitolo>D87_DISORDINE GASTRICO FUNZIONALE</capitolo>
+	</voce>
+	<voce>
+		<entry>Gengivite</entry>
+		<descrizione>Infiammazione delle gengive con arrossamento e gonfiore dei tessuti che possono anche sanguinare.</descrizione>
+		<capitolo>D82_MALATTIA DEI DENTI E GENGIVE</capitolo>
+	</voce>
+	<voce>
+		<entry>Glaucoma</entry>
+		<descrizione>Malattia al nervo ottico, &#232; degenerativa e causa danni permanenti se non curata in tempo</descrizione>
+		<capitolo>F93_GLAUCOMA</capitolo>
+	</voce>
+	<voce>
+		<entry>Gonorrea</entry>
+		<descrizione>Malattia a trasmissione sessuale.</descrizione>
+		<capitolo>Y71_GONORREA (NELL'UOMO)</capitolo>
+	</voce>
+	<voce>
+		<entry>Herpes</entry>
+		<descrizione>Rossore e rigonfinamento di una parte delle labbra. Inizialmente si manifesta con un leggero pizzicore e un senso di calore su un punto arrossato del labbro per svilupparsi poi come un piccolo rigonfiamento, delle piccole vescicole che in qualche giorno si asciugano.</descrizione>
+		<capitolo>S70_HERPES ZOSTER</capitolo>
+	</voce>
+	<voce>
+		<entry>Infarto</entry>
+		<descrizione>Improvviso arresto del funzionamento del cuore che puo' provocare la morte. Il sintomo principale e' un dolore al petto o al braccio che precede l'attacco</descrizione>
+		<capitolo>A29_ALTRO SINTOMO O DISTURBO GENERALE</capitolo>
+	</voce>
+	<voce>
+		<entry>Influenza</entry>
+		<descrizione>Ci si sente deboli con la temperatura alta spesso si accompagna a raffreddore. Di solito si guarisce in pochi giorni, ma a volte la febbre puo' protrarsi anche per due settimane. L'influenza si cura con medicinali di automedicazione (aspirine o medicine contenenti paracetamolo), ma a volte si rende necessaria una cura antibiotica.</descrizione>
+		<capitolo>R80_INFLUENZA</capitolo>
+	</voce>
+	<voce>
+		<entry>Iperidrosi</entry>
+		<descrizione>Eccesso di sudore prodotto dalle ghiandole sudoripare (o sudorali).</descrizione>
+		<capitolo>A09_PROBLEMA DA SUDORAZIONE</capitolo>
+	</voce>
+	<voce>
+		<entry>Ischemia</entry>
+		<descrizione>chiusura di una vena</descrizione>
+		<capitolo>A29_ALTRO SINTOMO O DISTURBO GENERALE</capitolo>
+	</voce>
+	<voce>
+		<entry>Labirintite</entry>
+		<descrizione>malattia che provoca perdita dell'equilibrio e senso di vertigini; se e' di origine virale, con la somministrazione di antibiotici e' possibile arrivare alla guarigione completa, processo che puo' richiedere anche molte settimane</descrizione>
+		<capitolo>H82_SINDROME VERTIGINOSA</capitolo>
+	</voce>
+	<voce>
+		<entry>Laringite</entry>
+		<descrizione>Infiammazione batterica o virale della laringe.</descrizione>
+		<capitolo>R77_LARINGITE/TRACHEITE ACUTA</capitolo>
+	</voce>
+	<voce>
+		<entry>Leucemia</entry>
+		<descrizione>Malattia maligna che aggredisce il midollo osseo riducendo drasticamente la formazione di globuli rossi, bianchi e piastrine.</descrizione>
+		<capitolo>B73_LEUCEMIA</capitolo>
+	</voce>
+	<voce>
+		<entry>Litiasi della colecisti</entry>
+		<descrizione>Avere i calcoli alla colecisti</descrizione>
+		<capitolo>D98_COLECISTITE, COLELITIASI</capitolo>
+	</voce>
+	<voce>
+		<entry>Litiasi renale</entry>
+		<descrizione>Avere i calcoli ai reni</descrizione>
+		<capitolo>U95_CALCOLOSI URINARIA</capitolo>
+	</voce>
+	<voce>
+		<entry>Lombagia</entry>
+		<descrizione>infiammazione alla zona lombare</descrizione>
+		<capitolo>L03_SINTOMO_O_DISTURBO_ALLA_REGIONE_LOMBO_SACRALE</capitolo>
+	</voce>
+	<voce>
+		<entry>Lussazione</entry>
+		<descrizione>Lesione ad un'articolazione in cui, a differenza di quanto avviene nella distorsione, si ha un distaccamento dei rapporti articolari</descrizione>
+		<capitolo>L80_LUSSAZIONE_E_SUBLUSSAZIONE</capitolo>
+	</voce>
+	<voce>
+		<entry>Mal di mare</entry>
+		<descrizione>Stato di malessere causato dal navigare con forte rollio (p.es. con mare agitato o onda al traverso). I sintomi sono simili a quelli dell'avvelenamento: nausea fino al vomito, senso di squilibrio talvolta fino alla vertigine. Deriva dallo sfasamento tra l'informazione sensoriale visiva e quella dell'equilibrio (fornita dal labirinto situato nell'orecchio).</descrizione>
+		<capitolo>N17_VERTIGINE/CAPOGIRO</capitolo>
+	</voce>
+	<voce>
+		<entry>Malaria</entry>
+		<descrizione>Malattia infettiva dovuta a parassiti portati da un particolare tipo di zanzara.</descrizione>
+		<capitolo>A73_MALARIA</capitolo>
+	</voce>
+	<voce>
+		<entry>Malattia del bacio</entry>
+		<descrizione>Malattia infettiva che si contrae attraverso la saliva. Pu&#242; essere asintomatica o avere un gran numero di sintomi, dalla febbre alta all'ingrossamento dei linfonodi. Pu&#242; portare a una forma cronica di stanchezza.</descrizione>
+		<capitolo>A75_MONONUCLEOSI_INFETTIVA</capitolo>
+	</voce>
+	<voce>
+		<entry>Miopia</entry>
+		<descrizione>Disturbo alla vista che provoca difficolt&#224; nella messa a fuoco di oggetti lontani.</descrizione>
+		<capitolo>F91_DIFETTO DI RIFRAZIONE</capitolo>
+	</voce>
+	<voce>
+		<entry>Morbillo</entry>
+		<descrizione>Malattia infettiva e contagiosa dello stesso ceppo (ma estremamente meno pericolosa) di vaiolo e peste. E' caratterizzata da macchie sulla pelle ma anche da tosse, febbre e raffreddore.</descrizione>
+		<capitolo>A71_MORBILLO</capitolo>
+	</voce>
+	<voce>
+		<entry>Nistagmo</entry>
+		<descrizione>Il nistagmo e' una malattia dell'occhio che provoca un continuo movimento della pupilla.</descrizione>
+		<capitolo>F14_MOVIMENTI ANORMALI DELL'OCCHIO</capitolo>
+	</voce>
+	<voce>
+		<entry>Orchite</entry>
+		<descrizione>Consiste nell'infiammazione di uno o di entrambi i testicoli, parte dell'apparato genitale maschile.</descrizione>
+		<capitolo>Y74_ORCHITE/EPIDIDIMITE</capitolo>
+	</voce>
+	<voce>
+		<entry>Orecchioni</entry>
+		<descrizione>E' una malattia infettiva che si manifesta con un forte dolore alle orecchie, nonche' con gonfiore delle ghiandole parotidi e febbre alta. La malattia colpisce in genere in eta' infantile e in alcuni casi puo' essere causa della perdita di udito. Puo' colpire anche gli adulti, causando per esempio negli uomini gravi problemi di fertilita'.</descrizione>
+		<capitolo>D71_PAROTITE EPIDEMICA</capitolo>
+	</voce>
+	<voce>
+		<entry>Orticaria</entry>
+		<descrizione>e' un tipo di eruzione cutanea localizzata o generalizzata che si presenta con delle placche di varia forma e grandezza accompagnate da rossore e un forte prurito. Il nome deriva da ortica, poiche' ha le stesse manifestazioni di quando la pelle viene a contatto con la pianta. La reazione allergica puo' derivare da diverse cause, ad esempio le foglie delle ortiche, le primule e altre piante, molti alimenti come pesci, crostacei, fragole, noci, e i farmaci , come antibiotici, aspirina, vaccini. Questa generalmente dura da poche ore a qualche giorno e si cura con antistaminici prescritti dal medico</descrizione>
+		<capitolo>S98_ORTICARIA</capitolo>
+	</voce>
+	<voce>
+		<entry>Otite</entry>
+		<descrizione>L'otite &#232; un'infiammazione dell'orecchio.</descrizione>
+		<capitolo>H70_OTITE ESTERNA</capitolo>
+	</voce>
+	<voce>
+		<entry>Pancreatite</entry>
+		<descrizione>Infiammazione del pancreas che pu&#242; essere acuta o cronica. Una delle cause pi&#249; frequenti &#232; l'alcolismo.</descrizione>
+		<capitolo>D99_ALTRA MALATTIA AL SISTEMA DIGERENTE</capitolo>
+	</voce>
+	<voce>
+		<entry>Paralisi facciale</entry>
+		<descrizione>Blocco momentaneo o permanente di alcuni muscoli del viso</descrizione>
+		<capitolo>N91_PARALISI FACCIALE/PARALISI DI BELL</capitolo>
+	</voce>
+	<voce>
+		<entry>Parotite</entry>
+		<descrizione>Infezione virale che si propaga per mezzo degli starnuti o della tosse, di solito inizia con gonfiore di una o pi&#249; ghiandole parotidee.</descrizione>
+		<capitolo>D71_PAROTITE EPIDEMICA</capitolo>
+	</voce>
+	<voce>
+		<entry>Perdita della memoria</entry>
+		<descrizione>Perdita momentanea della memoria, che non permette di ricordare completamente cio' che e' accaduto in passato</descrizione>
+		<capitolo>P20_DISTURBO DELLA MEMORIA</capitolo>
+	</voce>
+	<voce>
+		<entry>Perdita della vista</entry>
+		<descrizione>Progressivo peggioramento delle capacita' visive che puo' anche arrivare alla perdita completa della vista (cecita')</descrizione>
+		<capitolo>F94_CECITA'</capitolo>
+	</voce>
+	<voce>
+		<entry>Pericardite</entry>
+		<descrizione>infiammazione del pericardio (membrana che riveste il cuore)</descrizione>
+		<capitolo>K84_ALTRA MALATTIA CARDIACA</capitolo>
+	</voce>
+	<voce>
+		<entry>Peritonite</entry>
+		<descrizione>Infiammazione della membrana peritoneale che racchiude gli organi dell'addome a causa di batteri. L'infiammazione &#232; spesso dovuta alla perforazione della membrana a causa di una appendicite trascurata.</descrizione>
+		<capitolo>D99_ALTRA MALATTIA AL SISTEMA DIGERENTE</capitolo>
+	</voce>
+	<voce>
+		<entry>Pertosse</entry>
+		<descrizione>Malattia per lo pi&#249; infantile che si presenta con forte attacchi di tosse e febbre.</descrizione>
+		<capitolo>R71_TOSSE CANINA</capitolo>
+	</voce>
+	<voce>
+		<entry>Piorrea</entry>
+		<descrizione>degenerazione della gengiva a causa dei batteri che rimangono in bocca per la scarsa pulizia dentariae tartaro. Causa abbassamento della gengiva e perdita dei denti.</descrizione>
+		<capitolo>D19_SINTOMO O DISTURBI RIFERITI A DENTI O GENGIVE</capitolo>
+	</voce>
+	<voce>
+		<entry>Pleurite</entry>
+		<descrizione>infiammazione della pleura (membrana che ricopre i polmoni)</descrizione>
+		<capitolo>R82_PLEURITE/VERSAMENTO PLEURICO</capitolo>
+	</voce>
+	<voce>
+		<entry>Polmonite</entry>
+		<descrizione>infiammazione dei polmoni che porta febbre, tosse, mal di testa, respirazione difficoltosa</descrizione>
+		<capitolo>R81_POLMONITE</capitolo>
+	</voce>
+	<voce>
+		<entry>Presbiopia</entry>
+		<descrizione>Disturbo della vista che si manifesta nella maggior parte delle persone a partire  dalla mezza eta' o nella terza eta'; consiste nell'incapacita' di vedere bene da vicino.</descrizione>
+		<capitolo>F91_DIFETTO DI RIFRAZIONE</capitolo>
+	</voce>
+	<voce>
+		<entry>Prostatite</entry>
+		<descrizione>Infiammazione alla prostata.</descrizione>
+		<capitolo>Y73_PROSTATITE/VESCICULITE SEMINALE</capitolo>
+	</voce>
+	<voce>
+		<entry>Psoriasi</entry>
+		<descrizione>Malattia infiammatoria della pelle, non infettiva, solitamente di carattere cronico e recidivante che si manifestaza con papule e placche eritematose ben delimitate ricoperte di scaglie argentee. Le lesioni sono di varie dimensioni e la severita' puo' variare da pochi punti di desquamazione di tipo forforoso a dermatosi generali</descrizione>
+		<capitolo>S91_PSORIASI</capitolo>
+	</voce>
+	<voce>
+		<entry>Raffreddore</entry>
+		<descrizione>Malattia infettiva del naso estremamente comune in bambini ed adulti. Pu&#242; portare a complicazioni quali la polmonite. Da distinguere rispetto al raffreddore allergico e all'influenza.</descrizione>
+		<capitolo>R74_INFEZIONE_ACUTA_VIE_RESPIRATORIE_SUPERIORI</capitolo>
+	</voce>
+	<voce>
+		<entry>Raffreddore allergico</entry>
+		<descrizione>Infiammazione del muco dovuta alla presenza nell'aria di polveri o pollini. Quello causato da pollini &#232; tipicamente stagionale. E' spesso accompagnato da congiuntiviti allergiche.</descrizione>
+		<capitolo>R97_RINITE_ALLERGICA</capitolo>
+	</voce>
+	<voce>
+		<entry>Reflusso gastroesofageo</entry>
+		<descrizione>E' dato dal cattivo funzionamento della valvola che si trova fra l'esofago e lo stomaco. I sintomi sono poco conosciuti in quanto spesso si confondono con quelli di altre malattie; in generale, sono simili al bruciore di stomaco in quanto il cibo ingerito ed i succhi gastrici provenienti dallo stomaco risalgono verso l'esofago irritandolo provocandone l'infiammazione. Spesso pi&#249; che una malattia &#232; considerato un disturbo se gli episodi di reflusso si presentano maggiormente solo dopo aver ingerito cibo. Se, invece, sono molto frequenti l'esofago risente maggiormente dell'infiammazione e delle possibili ferite causate dagli acidi; in questo caso pu&#242; essere considerato malattia e bisogna ricorrere all'uso di farmaci.</descrizione>
+		<capitolo>D84_MALATTIA DELL'ESOFAGO</capitolo>
+	</voce>
+	<voce>
+		<entry>Renella</entry>
+		<descrizione>Micro-calcoli nei reni, tipo sabbiolina</descrizione>
+		<capitolo>U29_ALTRO SINTOMO O DISTURBO AL SISTEMA URINARIO</capitolo>
+	</voce>
+	<voce>
+		<entry>Rinite</entry>
+		<descrizione>Infiammazione del naso per infezione o allergia</descrizione>
+		<capitolo>R07_STARNUTI/CONGESTIONE NASALE</capitolo>
+	</voce>
+	<voce>
+		<entry>Rinite Allergica</entry>
+		<descrizione>Raffreddore stagionale</descrizione>
+		<capitolo>R97_RINITE_ALLERGICA</capitolo>
+	</voce>
+	<voce>
+		<entry>Rosolia</entry>
+		<descrizione>Malattia virale e infettiva caratterizzata da macchioline rosse sulla pelle. Tipica dei bambini, &#232; possibile vaccinarsi. Pericolosa per le donne in gravidanza.</descrizione>
+		<capitolo>A74_ROSOLIA</capitolo>
+	</voce>
+	<voce>
+		<entry>Scompenso congestizio</entry>
+		<descrizione>Insufficienza cardiaca congestizia</descrizione>
+		<capitolo>K77_SCOMPENSO CARDIACO</capitolo>
+	</voce>
+	<voce>
+		<entry>Scompenso ventricolare</entry>
+		<descrizione>Insufficienza ventricolare sinistra o destra</descrizione>
+		<capitolo>K77_SCOMPENSO CARDIACO</capitolo>
+	</voce>
+	<voce>
+		<entry>Sesta malattia</entry>
+		<descrizione>La sesta malattia (esantema critico o subitum) &#232; una malattia infettiva che colpisce esclusivamente i bambini tra i 6 mesi ed i due anni di et&#224;.</descrizione>
+		<capitolo>A76_ALTRI_ESANTEMI_VIRALI</capitolo>
+	</voce>
+	<voce>
+		<entry>Sifilide</entry>
+		<descrizione>Malattia infettiva a trasmissione sessuale</descrizione>
+		<capitolo>Y70_SIFILIDE(NELL'UOMO)</capitolo>
+	</voce>
+	<voce>
+		<entry>Silicosi</entry>
+		<descrizione>Malattia dei polmoni che si contrae respirando polveri di pietre. Tipica malattia dei minatori.</descrizione>
+		<capitolo>R99_ALTRA_MALATTIA_RESPIRATORIA</capitolo>
+	</voce>
+	<voce>
+		<entry>Sindrome</entry>
+		<descrizione>Un insieme di sintomi e segni clinici che puo' quindi essere espressione di una determinata malattia o di malattie di natura completamente diversa, senza un riferimento preciso alle sue cause e al meccanismo di comparsa. Nel linguaggio comune il termine viene spesso erroneamente associato alle malattie rare</descrizione>
+		<capitolo>A99_Malattia o condizione o sede non definita</capitolo>
+	</voce>
+	<voce>
+		<entry>Sindrome di Down</entry>
+		<descrizione>Nota malattia prodotta da anomalie genetiche che vede la persona che ne soffre in una condizione di Handicap sin dalla nascita.</descrizione>
+		<capitolo>A90_ANOMALIE CONGENITE NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Sindrome di apnea notturna</entry>
+		<descrizione>Malattia causata dall'aggravamento della roncopatia. Si manifesta con il continuo andare in apnea durante il sonno</descrizione>
+		<capitolo>R99_ALTRA_MALATTIA_RESPIRATORIA</capitolo>
+	</voce>
+	<voce>
+		<entry>Sinusite</entry>
+		<descrizione>Infiammazione delle vie respiratorie superiori come complicanza del raffreddore</descrizione>
+		<capitolo>R75_SINUSITE_ACUTA/CRONICA</capitolo>
+	</voce>
+	<voce>
+		<entry>Stanchezza Cronica</entry>
+		<descrizione>Sindrome da Stanchezza Cronica</descrizione>
+		<capitolo>A04_ASTENIA/STANCHEZZA_GENERALE</capitolo>
+	</voce>
+	<voce>
+		<entry>Sterilita'</entry>
+		<descrizione>Per i maschi denota l'impossibilita' di produrre spermatozoi in grado di fecondare ovuli femminile. Per le donne denota l'incapacita' di rimanere incinte</descrizione>
+		<capitolo>Y10_STERILITA'/IPOFERTILITA'</capitolo>
+	</voce>
+	<voce>
+		<entry>Stiramento muscolare</entry>
+		<descrizione>uno stiramento muscolare avviene quando un muscolo si tende piu' del consentito</descrizione>
+		<capitolo>L19_SINTOMO_O_DISTURBO_A_MUSCOLO_NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Stomatite</entry>
+		<descrizione>Malattia che si manifesta con piaghette in bocca e febbre alta</descrizione>
+		<capitolo>D83_MALATTIA_DELLA_BOCCA/LINGUA/LABBRA</capitolo>
+	</voce>
+	<voce>
+		<entry>Tendinite</entry>
+		<descrizione>infiammazione ai tendini</descrizione>
+		<capitolo>L87_BORSITE/TENDINITE/SINOVITE_NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Tonsillite</entry>
+		<descrizione>Infiammazione alle tonsille.</descrizione>
+		<capitolo>R76_TONSILLITE_ACUTA</capitolo>
+	</voce>
+	<voce>
+		<entry>Tromboflebite</entry>
+		<descrizione>occlusione delle vene o delle arterie a causa della formazione di un trombo di sangue</descrizione>
+		<capitolo>K94_FLEBITE_E_TROMBOFLEBITE</capitolo>
+	</voce>
+	<voce>
+		<entry>Tubercolosi</entry>
+		<descrizione>malattia contagiosa ai polmoni che si manifesta con tosse, brividi, pallore, febbre, perdita di sangue dalla bocca, causata da batteri.</descrizione>
+		<capitolo>A70_TUBERCOLOSI</capitolo>
+	</voce>
+	<voce>
+		<entry>Ulcera</entry>
+		<descrizione>Lesione della pelle, lenta o difficoltosa o assente cicatrizzazione.</descrizione>
+		<capitolo>D85_ULCERA_DUODENALE</capitolo>
+	</voce>
+	<voce>
+		<entry>Ulcera gastrica</entry>
+		<descrizione>Perforazione della parete dello stomaco</descrizione>
+		<capitolo>D86_ALTRA_ULCERA_PEPTICA</capitolo>
+	</voce>
+	<voce>
+		<entry>Unghie incarnate</entry>
+		<descrizione>Succede quando le unghie nel crescere si conficcano nella carne del dito. Di solito si tratta delle unghie dei piedi</descrizione>
+		<capitolo>S94_UNGHIA_INCARNITA</capitolo>
+	</voce>
+	<voce>
+		<entry>Uretrite</entry>
+		<descrizione>Infiammazione dell'uretra a causa di batteri o funghi. Colpisce pi&#249; spesso gli uomini, a differenza della cistite che &#232; un disturbo tipicamente femminile.</descrizione>
+		<capitolo>U72_URETRITE</capitolo>
+	</voce>
+	<voce>
+		<entry>Ustione</entry>
+		<descrizione>L'ustione della pelle e una lesione della pelle causata da qualcosa di molto caldo. Si puo' ottenere o stando esposti ai raggi solari o a contatto di una fonte di calore forte. In base alla gravit&#224; l'ustione pu&#242; essere di diversi gradi.</descrizione>
+		<capitolo>S14_BRUCIATURE/USTIONI</capitolo>
+	</voce>
+	<voce>
+		<entry>Ustione della pelle</entry>
+		<descrizione>L'ustione della pelle si puo' ottenere o stando esposti ai raggi solari o a contatto di una fonte di calore forte. In base alla gravit&#224; l'ustione pu&#242; essere di diversi gradi.</descrizione>
+		<capitolo>S14_BRUCIATURE/USTIONI</capitolo>
+	</voce>
+	<voce>
+		<entry>Vaiolo</entry>
+		<descrizione>Malattia virale contagiosa e talvolta mortale, debellata nella fine degli anni '70 grazie ad un vaccino. Si manifesta con febbre altissima e pustole sulla pelle.</descrizione>
+		<capitolo>A77_ALTRA_MALATTIA_VIRALE_NAC</capitolo>
+	</voce>
+	<voce>
+		<entry>Varicella</entry>
+		<descrizione>Malattia infettiva molto contagiosa, che si manifesta con una forte eruzione cutanea, su tutto il corpo, come dei piccoli foruncolini che causano prurito, oltre alla presenza di febbre, debolezza e mal di testa. E' una malattia tipica dell'infanzia, che pero' puo' presentarsi anche in eta' adulta. Dura in genere da una settimana a 10 giorni.Il vaiolo e' una forma piu' forte di varicella.</descrizione>
+		<capitolo>A72_VARICELLA</capitolo>
+	</voce>
+	<voce>
+		<entry>Vene varicose</entry>
+		<descrizione>Le vene sono varicose quando emergono dalla superficie della pelle. Tipicamente si hanno sulle braccia e sulle gambe.</descrizione>
+		<capitolo>K95_VARICI_VENOSE_ARTI_INFERIORI</capitolo>
+	</voce>
+</patologie>

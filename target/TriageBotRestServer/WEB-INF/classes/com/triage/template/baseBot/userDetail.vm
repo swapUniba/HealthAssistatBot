@@ -1,0 +1,14 @@
+#set($newline="
+")
+#if($desc)In questa sezione puoi salvare e modificare le tue informazioni personali.#end
+
+Dettagli utente:
+*Nome*: #if($user.firstname)$user.firstname#else Non inserito#end
+
+*Cognome*: #if($user.lastname)$user.lastname#else Non inserito#end 
+
+*Sesso*: #if($user.sex)$user.sex#else Non inserito#end 
+
+*Data di nascita*: #if($user.birth)$user.birth#else Non inserita#end 
+
+*Provincia residenza*: #if($province)$province#else Non inserita#end

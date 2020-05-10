@@ -1,0 +1,11 @@
+Dettagli terapia: *$therapy.name*
+*Dosaggio*: $therapy.dosage
+## *Orari notifica*: $therapy.getHoursToString() **
+*Fine terapia*: #if($therapy.endTime)$dateTool.format('dd-MM-yyyy', $therapy.endTime)#else Non definita#end
+
+#if($therapy.startTime)*Inizio terapia*: $dateTool.format('dd-MM-yyyy', $therapy.startTime)#end
+
+*Notifiche*:
+#set( $newline="
+")
+#foreach($ic in $italianCrons) - $ic$newline#end

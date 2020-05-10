@@ -1,0 +1,4 @@
+#set( $newline="
+")
+Dettagli esame: $newline Nome: *$exam.name* $newline Risultato: *$exam.result* $newline Soglia minima: *$exam.min* $newline Soglia massima: #if ($exam.max==0) *Infinito* #else *$exam.max*#end $newline#if($diff!="") Scostamento dal $diff: *$difference* $newline#end Unità di misura: *$exam.unit* $newline
+E' possibile modificare i valori dell'esame premendo il corrispondente bottone.

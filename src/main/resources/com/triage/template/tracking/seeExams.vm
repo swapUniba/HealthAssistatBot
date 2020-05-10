@@ -1,0 +1,4 @@
+#set( $newline="
+")
+Non mi è molto chiaro a quale esami ti stia riferendo, ti prego di essere più preciso
+#foreach($exam in $exams)$velocityCount.  *$exam * $newline#end$newline

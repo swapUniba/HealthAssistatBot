@@ -1,0 +1,9 @@
+#set($newline="
+")
+#set($tab="   ")
+#if($results)
+Dall'analisi del tuo stato di salute potresti aver bisogno di consultare uno specialista nelle seguenti aree mediche (in parentesi è indicato il livello di accuratezza dell'area medica): 
+#foreach($ma in $medical_area) - *$ma.name.replace("-", " ")* (#set($prob = $ma.score * 100 )$math.round($prob)%) $newline#end
+
+Vuoi che ti suggerisca uno specialista nella tua zona? Se si scegli un'area medica altrimenti digita un nuovo stato di salute
+#end

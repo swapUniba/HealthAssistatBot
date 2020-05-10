@@ -1,0 +1,7 @@
+#set( $newline="
+")
+Le terapie inserite sono:
+#foreach($t in $therapies)$velocityCount. *$t.name* #set($idxEmoji = $velocityCount - 1)$therapiesEmoji.get($idxEmoji) $newline#end
+_$active indica le terapie ancora in corso, $inactive indica le terapie terminate_
+
+Puoi scegliere il nome di una terapia per osservarne i dettagli

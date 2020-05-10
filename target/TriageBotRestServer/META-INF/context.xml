@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context crossContext="true" reloadable="true" swallowOutput="true">
+    <!-- override="true" swallowOutput="true" useNaming="true" -->
+    <!-- <WatchedResource>WEB-INF/web.xml</WatchedResource>
+    <Manager pathname=""/> -->
+    <!-- maxTotal: Maximum number of database connections in pool. Make sure you
+         configure your mysqld max_connections large enough to handle
+         all of your db connections. Set to -1 for no limit.
+         -->
+
+    <!-- maxIdle: Maximum number of idle database connections to retain in pool.
+         Set to -1 for no limit.  See also the DBCP documentation on this
+         and the minEvictableIdleTimeMillis configuration parameter.
+         -->
+
+    <!-- maxWaitMillis: Maximum time to wait for a database connection to become available
+         in ms, in this example 10 seconds. An customexceptions is thrown if
+         this timeout is exceeded.  Set to -1 to wait indefinitely.
+         -->
+
+    <!-- username and password: MySQL username and password for database connections  -->
+
+    <!-- driverClassName: Class name for the old mm.mysql JDBC driver is
+         org.gjt.mm.mysql.Driver - we recommend using Connector/J though.
+         Class name for the official MySQL Connector/J driver is com.mysql.jdbc.Driver.
+         -->
+
+    <!-- url: The JDBC connection url for connecting to your MySQL database.
+         -->
+
+  <Resource name="jdbc/TriageBot_2" auth="Container" type="javax.sql.DataSource"
+     maxTotal="100" maxIdle="50" maxWaitMillis="10000"
+     username="triagebot_2" password="triageb0t" driverClassName="com.mysql.jdbc.Driver"
+     testOnBorrow="true" removeAbandonedTimeout="30" removeAbandonedOnBorrow="true" 
+     removeAbandonedOnMaintenance="true" logAbandoned="true" closeMethod="close"
+     url="jdbc:mysql://localhost:3306/triagebot_2"
+     connectionProperties="useUnicode=true;characterEncoding=UTF-8;useSSL=false;"
+  />
+  
+  <Resource name="jdbc/MediciItalia" auth="Container" type="javax.sql.DataSource"
+     maxTotal="10" maxIdle="10" maxWaitMillis="10000"
+     username="triagebot_2" password="triageb0t" driverClassName="com.mysql.jdbc.Driver"
+     testOnBorrow="true" removeAbandonedTimeout="30" removeAbandonedOnBorrow="true" 
+     removeAbandonedOnMaintenance="true" logAbandoned="true" closeMethod="close"
+     url="jdbc:mysql://localhost:3306/mediciitalia_2"
+     connectionProperties="useUnicode=true;characterEncoding=UTF-8;useSSL=false;"
+  />
+
+</Context>

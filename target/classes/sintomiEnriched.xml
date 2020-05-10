@@ -1,0 +1,2651 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sintomi>
+	<voce>
+		<entry>Abbassamento della voce</entry>
+		<descrizione>Abbassamento del timbro vocale. Succede quando non si riesce a far uscire la voce in modo naturale, producendo suoni tenui e rochi, o addirittura si arriva ad essere completamente afoni</descrizione>
+		<capitolo>R23_SINTOMO O DISTURBO DELLA VOCE</capitolo>
+		<id>0</id>
+	</voce>
+	<voce>
+		<entry>Abbassamento di pressione</entry>
+		<descrizione>Abbassamento del livello della pressione del sangue rispetto alla norma.</descrizione>
+		<capitolo>K88_IPOTENSIONE ORTOSTATICA</capitolo>
+		<id>1</id>
+	</voce>
+	<voce>
+		<entry>Abbassamento di udito</entry>
+		<descrizione>Sentire di meno da uno o entrambe le orecchie</descrizione>
+		<capitolo>H86_Sordita'</capitolo>
+		<id>2</id>
+	</voce>
+	<voce>
+		<entry>Accellerazione dei battiti</entry>
+		<descrizione>Il cuore batte troppo veloce</descrizione>
+		<capitolo>K04_Palpitazioni/percezione di battiti cardiaci</capitolo>
+		<id>3</id>
+	</voce>
+	<voce>
+		<entry>Acidita'</entry>
+		<descrizione>Fastidiosa sensazione di bruciore, di acido, che insorge nello stomaco e, con ondate piu' o meno intense, tende a risalire in alto verso il collo. L'aumento dell'acidita' puo' essere dovuto a molte cause: la prima sono i pasti troppo abbondanti, ma lo stesso effetto hanno l'abuso di caffe', alcol e tabacco. Esistono poi situazioni legate a caratteristiche individuali (la reazione a particolari cibi o allo stress) o all'assunzione di determinati farmaci.</descrizione>
+		<capitolo>D03_BRUCIORE DI STOMACO/PIROSI</capitolo>
+		<id>4</id>
+		<sinonimi>
+			<sinonimo>Acidità</sinonimo>
+			<sinonimo>Bruciore di stomaco</sinonimo>
+			<sinonimo>Pirosi</sinonimo>
+			<sinonimo>Acidità di stomaco</sinonimo>
+			<sinonimo>Bruciore retrosternale</sinonimo>
+			<sinonimo>Indigestione acida</sinonimo>
+			<sinonimo>Indigestione acido</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Acidita' di stomaco</entry>
+		<descrizione>Acidita' localizzata alla bocca dello stomaco, bruciori e fastidi. Sensazione sgradevole di acidita' alla gola/bocca.</descrizione>
+		<capitolo>D03_BRUCIORE DI STOMACO/PIROSI</capitolo>
+		<id>5</id>
+		<descrizioniAggiuntive>
+			<descrizione>La pirosi, definita anche bruciore retrosternale, è un sintomo dolorifico urente localizzato posteriormente allo sterno, che può indicare una disfunzione dell'apparato digerente, in particolare dello stomaco.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Acidità</sinonimo>
+			<sinonimo>Bruciore di stomaco</sinonimo>
+			<sinonimo>Pirosi</sinonimo>
+			<sinonimo>Acidità di stomaco</sinonimo>
+			<sinonimo>Bruciore retrosternale</sinonimo>
+			<sinonimo>Indigestione acida</sinonimo>
+			<sinonimo>Indigestione acido</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/pirosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Acido lattico</entry>
+		<descrizione>Dolore alle articolazioni che si presenta qualche tempo dopo aver fatto uno sforzo eccessivo</descrizione>
+		<capitolo>L20_SINTOMO_O_DISTURBO_AD_ARTICOLAZIONE_NAC</capitolo>
+		<id>6</id>
+	</voce>
+	<voce>
+		<entry>Addome globoso</entry>
+		<descrizione>Addome con una quantita' di grasso eccessiva</descrizione>
+		<capitolo>D25_Distensione addominale</capitolo>
+		<id>7</id>
+	</voce>
+	<voce>
+		<entry>Addome gonfio</entry>
+		<descrizione>Aria nella pancia o nello stomaco</descrizione>
+		<capitolo>D08_Flatulenza/meteorismo/eruttazione</capitolo>
+		<id>8</id>
+	</voce>
+	<voce>
+		<entry>Addominalgia</entry>
+		<descrizione>Sentire dolore all'addome</descrizione>
+		<capitolo>D01_Dolore addominale generale/crampi</capitolo>
+		<id>9</id>
+	</voce>
+	<voce>
+		<entry>Afasia fluente</entry>
+		<descrizione>Parlare usando molte parole che pero' non formano una frase sensata. Le afasie fluenti sono causate da lesioni parietali temporali dell'emisfero sinistro del cervello</descrizione>
+		<capitolo>N19_Disordine della parola</capitolo>
+		<id>10</id>
+		<descrizioniAggiuntive>
+			<descrizione>Afasia caratterizzata da un linguaggio fluente ma senza senso e da una grave compromissione della capacità di capire parole pronunciate o scritte</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Afasia di wernicke</sinonimo>
+			<sinonimo>Afasia fluente</sinonimo>
+			<sinonimo>Afasia ricettiva</sinonimo>
+			<sinonimo>Afasia sensoriale</sinonimo>
+			<sinonimo>Impressionante afasia</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Afasia motoria</entry>
+		<descrizione>Perdita della capacita' di parlare e scrivere</descrizione>
+		<capitolo>N19_Disordine della parola</capitolo>
+		<id>11</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'afasia motoria conosciuta anche con il nome di afasia di Broca consiste nella perdita della capacità di ogni emissione di linguaggio, sia esso parlato o scritto.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Afasia motoria</sinonimo>
+			<sinonimo>Afasia di broca</sinonimo>
+			<sinonimo>Afasia atassica</sinonimo>
+			<sinonimo>Afasia espressiva</sinonimo>
+			<sinonimo>Nonfluent afasia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Afasia_motoria</wikiLink>
+	</voce>
+	<voce>
+		<entry>Affanno</entry>
+		<descrizione>Sensazione di fare troppa fatica, difficolta' a respirare in modo regolare, con battito cardiaco accellerato</descrizione>
+		<capitolo>R02_Respiro corto/dispnea</capitolo>
+		<id>12</id>
+		<sinonimi>
+			<sinonimo>Rantolo</sinonimo>
+			<sinonimo>Affanno</sinonimo>
+			<sinonimo>Anelito</sinonimo>
+			<sinonimo>Rantolio</sinonimo>
+			<sinonimo>Respiro sibilante</sinonimo>
+			<sinonimo>Mancanza di respiro</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Affaticamento</entry>
+		<descrizione>Essere stanchi per un'attivita' fisica o mentale</descrizione>
+		<capitolo>A04_Astenia/stanchezza generale</capitolo>
+		<id>13</id>
+		<descrizioniAggiuntive>
+			<descrizione>Stato che deriva da uno sforzo fisico o intellettuale troppo intenso o prolungato</descrizione>
+			<descrizione>Per affaticamento in campo medico, si intende un insieme di sintomi avvertiti dalla persona, essi possono variare dalla letargia ad una sensazione di bruciore e può essere fisico o mentale.</descrizione>
+			<descrizione>Sensazione di stanchezza</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Affaticamento</sinonimo>
+			<sinonimo>Estenuazione</sinonimo>
+			<sinonimo>Fatica</sinonimo>
+			<sinonimo>Fiacca</sinonimo>
+			<sinonimo>Fiacchezza</sinonimo>
+			<sinonimo>Stanchezza</sinonimo>
+			<sinonimo>Stracca</sinonimo>
+			<sinonimo>Letargo</sinonimo>
+			<sinonimo>Sfinitezza</sinonimo>
+			<sinonimo>Letargico</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/affaticamento</wikiLink>
+	</voce>
+	<voce>
+		<entry>Afonia</entry>
+		<descrizione>Perdita completa della voce, per paralisi delle corde vocali o loro ablazione chirurgica. Nell’uso comune si riferisce alla perdita anche parziale della voce.</descrizione>
+		<capitolo>R23_Sintomo o disturbo della voce</capitolo>
+		<id>14</id>
+	</voce>
+	<voce>
+		<entry>Afta</entry>
+		<descrizione>E' una piccola ulcera dolorosa che si manifesta all'interno della cavità orale causata da una rottura della mucosa. Viene anche detta stomatite aftosa e ulcera aftosa, soprattutto se la ferita è multipla. Le afte spesso iniziano con bruciore o pizzicore sulla parte dove si forma la futura afta.</descrizione>
+		<capitolo>D83_MALATTIA_DELLA_BOCCA/LINGUA/LABBRA</capitolo>
+		<id>15</id>
+		<descrizioniAggiuntive>
+			<descrizione>Viene definita afta una dolorosa ulcera all'interno della cavità orale causata da una rottura della mucosa.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Afta</sinonimo>
+			<sinonimo>Stomatite aftosa</sinonimo>
+			<sinonimo>Ulcera aftosa</sinonimo>
+			<sinonimo>Stomatite aftosa ricorrente</sinonimo>
+			<sinonimo>Aftosi del cavo orale</sinonimo>
+			<sinonimo>Mal di cancro</sinonimo>
+			<sinonimo>Afte</sinonimo>
+			<sinonimo>Ulcere aftose</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Afta</wikiLink>
+	</voce>
+	<voce>
+		<entry>Agitazione</entry>
+		<descrizione>Stato spiacevole di eccitazione estrema, aumento della tensione ed irritabilita'. L' agitazione  puo' causare confusione, iperattivita' ed ostilita'.</descrizione>
+		<capitolo>N04_Gambe senza riposo</capitolo>
+		<id>16</id>
+	</voce>
+	<voce>
+		<entry>Agitazione in ebbrezza</entry>
+		<descrizione>Agitazione dovuta ad ubriachezza</descrizione>
+		<capitolo>P16_Abuso alcolico acuto</capitolo>
+		<id>17</id>
+	</voce>
+	<voce>
+		<entry>Agitazione psicomotoria</entry>
+		<descrizione>Non riuscire a stare fermi o zitti</descrizione>
+		<capitolo>P01_Sensazione di nervosismo/ansieta'/tensione</capitolo>
+		<id>18</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'agitazione psicomotoria è una serie di moti involontari e senza scopo che derivano dalla tensione mentale e dall'ansia di un individuo</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Agitazione psicomotoria</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Agitazione recidiva</entry>
+		<descrizione>Agitazione che torna spesso</descrizione>
+		<capitolo>P01_Sensazione di nervosismo/ansieta'/tensione</capitolo>
+		<id>19</id>
+	</voce>
+	<voce>
+		<entry>Algia</entry>
+		<descrizione>Sinonimo di dolore; sovente si trova questo termine come secondo membro (suffisso) di parole composte che indicano dove il dolore  e localizzato</descrizione>
+		<capitolo>A01_DOLORE_GENERALE_O_IN_SITI_MULTIPLI</capitolo>
+		<id>20</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il dolore rappresenta il mezzo con cui l'organismo segnala un danno tessutale.</descrizione>
+			<descrizione>Mezzo con cui l'organismo segnala un danno tessutale</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Dolore</sinonimo>
+			<sinonimo>Dolori</sinonimo>
+			<sinonimo>Dolorose</sinonimo>
+			<sinonimo>Algia</sinonimo>
+			<sinonimo>Dolore idiopatico</sinonimo>
+			<sinonimo>Sensazione dolorosa</sinonimo>
+			<sinonimo>Sensibilità al dolore</sinonimo>
+			<sinonimo>Dolore acuto</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/dolore</wikiLink>
+	</voce>
+	<voce>
+		<entry>Algia acuta</entry>
+		<descrizione>Dolore acuto/forte, solitamente ben localizzato</descrizione>
+		<capitolo>A01_DOLORE_GENERALE_O_IN_SITI_MULTIPLI</capitolo>
+		<id>21</id>
+	</voce>
+	<voce>
+		<entry>Algia addominale</entry>
+		<descrizione>Dolore acuto/forte a livello di stomaco/pancia (tra il torace e il bacino)</descrizione>
+		<capitolo>D01_Dolore addominale generale/crampi</capitolo>
+		<id>22</id>
+	</voce>
+	<voce>
+		<entry>Algia del piede</entry>
+		<descrizione>Dolore acuto/forte al piede</descrizione>
+		<capitolo>L17_Sintomo o disturbo di piede/dito di piede</capitolo>
+		<id>23</id>
+	</voce>
+	<voce>
+		<entry>Algia della spalla</entry>
+		<descrizione>Dolore acuto/forte alla spalla</descrizione>
+		<capitolo>L08_Sintomo o disturbo di spalla</capitolo>
+		<id>24</id>
+	</voce>
+	<voce>
+		<entry>Algia testicolare</entry>
+		<descrizione>Dolore acuto/forte ai testicoli</descrizione>
+		<capitolo>Y02_Dolore del testicolo/scroto</capitolo>
+		<id>25</id>
+	</voce>
+	<voce>
+		<entry>Algie pelviche</entry>
+		<descrizione>Dolore acuto/forte al bacino</descrizione>
+		<capitolo>X01_Dolore genitale nella donna</capitolo>
+		<id>26</id>
+	</voce>
+	<voce>
+		<entry>Alimentazione irregolare</entry>
+		<descrizione>Mangiare male oppure a orari sempre diversi</descrizione>
+		<capitolo>P05_Problema di alimentazione dell’adulto</capitolo>
+		<id>27</id>
+	</voce>
+	<voce>
+		<entry>Alito cattivo</entry>
+		<descrizione>Nell'uso comune e' usato come sinonimo di Alitosi, ma in realta' e' un disturbo che si manifesta con l'emissione di aria maleodorante con il respiro e la fonazione, quindi ha origine nel cavo naso-bucco-faringeo, e non si sente a bocca chiusa.</descrizione>
+		<capitolo>D20_Sintomo o disturbo bocca/lingua/labbra</capitolo>
+		<id>28</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'alitosi è l'odore sgradevole dell'alito causato da patologie respiratorie o metaboliche.</descrizione>
+			<descrizione>Odore sgradevole dell'alito</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Alitosi</sinonimo>
+			<sinonimo>Alito cattivo</sinonimo>
+			<sinonimo>Alito pesante</sinonimo>
+			<sinonimo>Fiatella</sinonimo>
+			<sinonimo>Bromopnea</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/alitosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Alterazione della voce</entry>
+		<descrizione>Modifica di altezza, intensità o timbro della voce.</descrizione>
+		<capitolo>R23_SINTOMO_O_DISTURBO_DELLA_VOCE</capitolo>
+		<id>29</id>
+	</voce>
+	<voce>
+		<entry>Alterazione mestruale</entry>
+		<descrizione>Cambiamento del ciclo mestruale</descrizione>
+		<capitolo>X07_Mestruazioni irregolari/frequenti</capitolo>
+		<id>30</id>
+	</voce>
+	<voce>
+		<entry>Amenorrea</entry>
+		<descrizione>Assenza di mestruazioni</descrizione>
+		<capitolo>X05_Mestruazioni assenti/scarse</capitolo>
+		<id>31</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'amenorrea è l'assenza di mestruazioni.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Amenorrea</sinonimo>
+			<sinonimo>Amenorree</sinonimo>
+			<sinonimo>Amenia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/amenorrea</wikiLink>
+	</voce>
+	<voce>
+		<entry>Amnesia</entry>
+		<descrizione>Perdere completamente o in parte la memoria. La persona affetta da amnesia puo' essere incapace di ricordare eventi della sua vita recente, o in casi gravi anche eventi remoti</descrizione>
+		<capitolo>P20_Disturbo della memoria</capitolo>
+		<id>32</id>
+		<descrizioniAggiuntive>
+			<descrizione>Perdita parziale o totale della memoria</descrizione>
+			<descrizione>Nel linguaggio medico, l'amnesia è un disturbo della memoria a lungo termine episodica.</descrizione>
+			<descrizione>Disturbo della memoria a lungo termine episodica</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Amnesia</sinonimo>
+			<sinonimo>Amnesia anterograda</sinonimo>
+			<sinonimo>Amnesia retrograda</sinonimo>
+			<sinonimo>Perdita di memoria</sinonimo>
+			<sinonimo>A breve termine perdita di memoria</sinonimo>
+			<sinonimo>Amnesici</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/amnesia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Amnesia retrograda</entry>
+		<descrizione>Non ricordare fatti successi prima del trauma o del disturbo che ha causato la perdita della memoria</descrizione>
+		<capitolo>P20_Disturbo della memoria</capitolo>
+		<id>33</id>
+		<descrizioniAggiuntive>
+			<descrizione>Perdita di memoria per eventi immediatamente precedenti un trauma</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Amnesia</sinonimo>
+			<sinonimo>Amnesia retrograda</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Amnesia transitoria</entry>
+		<descrizione>Perdere la memoria per un determinato periodo di tempo</descrizione>
+		<capitolo>P20_Disturbo della memoria</capitolo>
+		<id>34</id>
+	</voce>
+	<voce>
+		<entry>Angoscia</entry>
+		<descrizione>Forte stato d'ansia e preoccupazione</descrizione>
+		<capitolo>P01_Sensazione di nervosismo/ansieta'/tensione</capitolo>
+		<id>35</id>
+		<descrizioniAggiuntive>
+			<descrizione>Una forte sensazione di ansia</descrizione>
+			<descrizione>L'angoscia è uno stato psichico cosciente di un individuo caratterizzato da un sentimento intenso di ansia e apprensione.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Affanno</sinonimo>
+			<sinonimo>Angoscia</sinonimo>
+			<sinonimo>Angustia</sinonimo>
+			<sinonimo>Cruccio</sinonimo>
+			<sinonimo>Patema</sinonimo>
+			<sinonimo>Pensiero</sinonimo>
+			<sinonimo>Preoccupazione</sinonimo>
+			<sinonimo>Inquietudine</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Angoscia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Apatia</entry>
+		<descrizione>Sentirsi senza interesse per la vita, per i sentimenti</descrizione>
+		<capitolo>P03_Sensazione di depressione</capitolo>
+		<id>36</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'essere distaccato e indifferente</descrizione>
+			<descrizione>Riduzione dei comportamenti finalizzati, dovuta a mancanza di motivazione.</descrizione>
+			<descrizione> Stato di indifferenza verso il mondo circostante.</descrizione>
+			
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Apatia</sinonimo>
+			<sinonimo>Indifferenza</sinonimo>
+			<sinonimo>Abulia</sinonimo>
+			<sinonimo>Disamore</sinonimo>
+			<sinonimo>Disinteresse</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Apatia_(psicologia)</wikiLink>
+	</voce>
+	<voce>
+		<entry>Apnea</entry>
+		<descrizione>Situazione momentanea in cui non si riesce a respirare</descrizione>
+		<capitolo>R04_Altro problema respiratorio</capitolo>
+		<id>37</id>
+		<descrizioniAggiuntive>
+			<descrizione>Mancanza di respiro</descrizione>
+			<descrizione>L'apnea è l'assenza di respirazione esterna o una pausa della respirazione superiore ai 15 secondi.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Apnea</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/apnea</wikiLink>
+	</voce>
+	<voce>
+		<entry>Apnea notturna</entry>
+		<descrizione>Mentre si dorme ci sono dei momenti in cui manca il respiro</descrizione>
+		<capitolo>R04_Altro problema respiratorio</capitolo>
+		<id>38</id>
+		<descrizioniAggiuntive>
+			<descrizione>Con sindrome da apnea notturna si intende l’insieme degli episodi che causano una disfunzione o alterazione respiratoria durante il sonno, che può comportare una notevole o innaturale sonnolenza durante il giorno.</descrizione>
+			<descrizione>Apnea notturna</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Sindrome delle apnee nel sonno</sinonimo>
+			<sinonimo>Apnea del sonno</sinonimo>
+			<sinonimo>Apnea nell sonno</sinonimo>
+			<sinonimo>Apnea notturna</sinonimo>
+			<sinonimo>Apnea nel sonno</sinonimo>
+			<sinonimo>Apnee notturne</sinonimo>
+			<sinonimo>Sindrome da apnea notturna</sinonimo>
+			<sinonimo>Apnee nel sonno</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Sindrome_delle_apnee_nel_sonno</wikiLink>
+	</voce>
+	<voce>
+		<entry>Aprassia</entry>
+		<descrizione>Non riuscire a fare movimenti volontari, in assenza di paralisi o disturbi del sistema nervoso</descrizione>
+		<capitolo>P24_Problema specifico dell’apprendimento</capitolo>
+		<id>39</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'aprassia è un disturbo neuropsicologico del movimento volontario, definito come l'incapacità di compiere gesti coordinati e diretti a un determinato fine, sebbene siano mantenute inalterate la volontà del soggetto e la sua capacità motoria.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Aprassia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Aprassia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Arrossamento degli occhi</entry>
+		<descrizione>Irritazione degli occhi a volte collegato ad una lacrimazione</descrizione>
+		<capitolo>F02_Occhio rosso</capitolo>
+		<id>40</id>
+	</voce>
+	<voce>
+		<entry>Artralgia</entry>
+		<descrizione>Dolore alle articolazioni</descrizione>
+		<capitolo>L20_Sintomo o disturbo ad una articolazione NAC</capitolo>
+		<id>41</id>
+		<descrizioniAggiuntive>
+			<descrizione>Lartralgia è un termine a cui si riferisce qualunque dolore che colpisce un'articolazione e il tessuto ad essa circostante.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Artralgia</sinonimo>
+			<sinonimo>Artralgie</sinonimo>
+			<sinonimo>Dolori alle articolazioni</sinonimo>
+			<sinonimo>Dolore alle articolazioni</sinonimo>
+			<sinonimo>Dolori articolari</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/artralgia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Artralgia acuta</entry>
+		<descrizione>Forte, pungente dolore alle articolazioni</descrizione>
+		<capitolo>L20_Sintomo o disturbo ad una articolazione NAC</capitolo>
+		<id>42</id>
+	</voce>
+	<voce>
+		<entry>Artralgia post-traumatica</entry>
+		<descrizione>Dolore alle articolazioni in seguito ad un urto, una botta</descrizione>
+		<capitolo>L20_Sintomo o disturbo ad una articolazione NAC</capitolo>
+		<id>43</id>
+	</voce>
+	<voce>
+		<entry>Artralgie diffuse</entry>
+		<descrizione>Dolore alle articolazioni in molte zone del corpo</descrizione>
+		<capitolo>L20_Sintomo o disturbo ad una articolazione NAC</capitolo>
+		<id>44</id>
+	</voce>
+	<voce>
+		<entry>Ascite</entry>
+		<descrizione>Raccolta di liquido nella cavita' del peritoneo</descrizione>
+		<capitolo>D29_Altro sintomo/ disturbo apparato digerente</capitolo>
+		<id>45</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione che provoca versamento di liquido nella cavità peritoneale</descrizione>
+			<descrizione>Per ascite si intende la raccolta di liquido nella cavità peritoneale.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ascite</sinonimo>
+			<sinonimo>Idroperitoneo</sinonimo>
+			<sinonimo>Idrogastria</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Ascite</wikiLink>
+	</voce>
+	<voce>
+		<entry>Asfissia</entry>
+		<descrizione>Difficolta' o arresto del respiro</descrizione>
+		<capitolo>R29_Altro sintomo dsturbo sistema respiratorio.</capitolo>
+		<id>46</id>
+		<descrizioniAggiuntive>
+			<descrizione>Ridotto apporto di ossigeno ai tessuti dovuto o ad alterazione dell'aria o a patologie dell'apparato respiratorio.</descrizione>
+			<descrizione>L'asfissia è la condizione nella quale l'assenza o la scarsità di ossigeno impedisce una respirazione normale.</descrizione>
+			<descrizione>Essere privati di ossigeno.</descrizione>
+			<descrizione>Sentirsi soffocare.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Asfissia</sinonimo>
+			<sinonimo>Soffocamento</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Asfissia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Astenia</entry>
+		<descrizione>Senso di debolezza</descrizione>
+		<capitolo>A04_Astenia/stanchezza generale</capitolo>
+		<id>47</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'astenia consiste nella riduzione della forza muscolare.</descrizione>
+			<descrizione>Anomala perdita di forza</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Astenia</sinonimo>
+			<sinonimo>Astheny</sinonimo>
+			<sinonimo>Bolsaggine</sinonimo>
+			<sinonimo>Cascaggine</sinonimo>
+			<sinonimo>Fiacchezza</sinonimo>
+			<sinonimo>Gracilità</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Astenia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Astenia marcata</entry>
+		<descrizione>Forte senso di debolezza</descrizione>
+		<capitolo>A04_Astenia/stanchezza generale</capitolo>
+		<id>48</id>
+	</voce>
+	<voce>
+		<entry>Attacchi di ansia</entry>
+		<descrizione>Momenti di forte ansia, difficile da controllare</descrizione>
+		<capitolo>P01_Sensazione di nervosismo/ansieta'/tensione</capitolo>
+		<id>49</id>
+	</voce>
+	<voce>
+		<entry>Attacchi di pianto</entry>
+		<descrizione>Forti crisi di pianto</descrizione>
+		<capitolo>P03_ Sensazione di depressione</capitolo>
+		<id>50</id>
+	</voce>
+	<voce>
+		<entry>Attacchi di rabbia</entry>
+		<descrizione>Rabbia difficile da controllare</descrizione>
+		<capitolo>P04_Sentimento/comport. irritabile/collerico</capitolo>
+		<id>51</id>
+	</voce>
+	<voce>
+		<entry>Attachi di sudorazione</entry>
+		<descrizione>Momenti di forte sudorazione</descrizione>
+		<capitolo>A09_Problema di sudorazione</capitolo>
+		<id>52</id>
+	</voce>
+	<voce>
+		<entry>Aumento della frequenza cardiaca</entry>
+		<descrizione>Il cuore batte troppo veloce</descrizione>
+		<capitolo>K04_Palpitazioni/percezione di battiti cardiaci</capitolo>
+		<id>53</id>
+	</voce>
+	<voce>
+		<entry>Aumento pressorio momentaneo</entry>
+		<descrizione>Momentaneo aumento della pressione</descrizione>
+		<capitolo>K85_Pressione arteriosa elevata</capitolo>
+		<id>54</id>
+	</voce>
+	<voce>
+		<entry>Aura</entry>
+		<descrizione>Sensazione o movimenti che si hanno prima di crisi soprattutto epilettiche che presentano sintomi di massima intensita'</descrizione>
+		<capitolo>N89_Emicrania</capitolo>
+		<id>55</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'aura, in medicina, definisce un insieme di sintomi di tipo neurologico caratterizzati da uno scotoma scintillante che precedono un attacco di emicrania o una crisi epilettica, causati da un'onda di depressione corticale.</descrizione>
+			<descrizione>Insieme di sintomi di tipo neurologico che precedono un attacco di emicrania</descrizione>
+			<descrizione>Insieme di sintomi di tipo neurologico</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Aura</sinonimo>
+			<sinonimo>Scotoma scintillante</sinonimo>
+			<sinonimo>Emicrania con aura prolungata</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/aura</wikiLink>
+	</voce>
+	<voce>
+		<entry>Bocca con difasia</entry>
+		<descrizione>Non riuscire a parlare bene a causa di un danno al cervello</descrizione>
+		<capitolo>N19_Disordine della parola</capitolo>
+		<id>56</id>
+	</voce>
+	<voce>
+		<entry>Bocca infiammata</entry>
+		<descrizione>Avere la bocca arrossata e dolente</descrizione>
+		<capitolo>D20_Sintomo o disturbo bocca/lingua/labbra</capitolo>
+		<id>57</id>
+	</voce>
+	<voce>
+		<entry>Bolle</entry>
+		<descrizione>Presenza di vesciche sulla pelle, sacche più o meno piccole sotto la pelle piene di liquido. Possono essere dovute a bruciature, allergie ed altro.</descrizione>
+		<capitolo>S05_Gonfiore/protuberanza generalizzata</capitolo>
+		<id>58</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione cutanea con pus</descrizione>
+			<descrizione>Il foruncolo è una piodermite, cioè un'infezione da batteri piogeni, che coinvolge un follicolo pilifero ed il tessuto perifollicolare circostante che tende ad autoguarire.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Carboncello</sinonimo>
+			<sinonimo>Fignolo</sinonimo>
+			<sinonimo>Foruncolo</sinonimo>
+			<sinonimo>Bruffolo</sinonimo>
+			<sinonimo>Foruncoli</sinonimo>
+			<sinonimo>Bolle</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/foruncolo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Borse sotto gli occhi</entry>
+		<descrizione>Rigonfiamento della parte sotto l'occhio, spesso dovuto a stanchezza</descrizione>
+		<capitolo>F29_ALTRO_SINTOMO_O_DISTURBO_AGLI_OCCHI</capitolo>
+		<id>59</id>
+	</voce>
+	<voce>
+		<entry>Brachialgia</entry>
+		<descrizione>Dolore al braccio causato da un'irritazione dei nervi</descrizione>
+		<capitolo>L09_Sintomo o disturbo di braccio</capitolo>
+		<id>60</id>
+	</voce>
+	<voce>
+		<entry>Brividi</entry>
+		<descrizione>Stati di freddo che si manifestano con rapide contrazioni muscolari involontarie e che si presentano quando la temperatura corporea si abbassa. I brividi possono presentarsi anche in caso di febbre: la temperatura corporea si abbassa e tutte le temperature al di sotto di questa sono avvertite come stati di freddo e quindi provocano i brividi.</descrizione>
+		<capitolo>A02_Brividi</capitolo>
+		<id>61</id>
+		<descrizioniAggiuntive>
+			<descrizione>I brividi sono rapide contrazioni muscolari asincrone provocate da impulsi cerebrali involontari riflessi.</descrizione>
+			<descrizione>Una sensazione di freddo che segna spesso l'inizio di un'infezione e lo sviluppo di una febbre.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Brivido</sinonimo>
+			<sinonimo>Brividi</sinonimo>
+			<sinonimo>Fremito</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Brivido</wikiLink>
+	</voce>
+	<voce>
+		<entry>Brividi di freddo</entry>
+		<descrizione>Tremare dal freddo</descrizione>
+		<capitolo>A02_Brividi</capitolo>
+		<id>62</id>
+	</voce>
+	<voce>
+		<entry>Bruciore</entry>
+		<descrizione>Sensazione di dolore dovuta ad una bruciatura o ad un'infiammazione ad un organo</descrizione>
+		<capitolo>A29_Altro sintomo o disturbo generale</capitolo>
+		<id>63</id>
+		<descrizioniAggiuntive>
+			<descrizione>Calore intenso provocato dalla febbre o da forti infiammazioni</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Bruciore</sinonimo>
+			<sinonimo>Irritazione</sinonimo>
+			<sinonimo>Bruciatura</sinonimo>
+			<sinonimo>Pizzicore</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Bruciore</wikiLink>
+	</voce>
+	<voce>
+		<entry>Bruciore di stomaco</entry>
+		<descrizione>forte dolore all'altezza dello stomaco causato spesso da alimentazione irregolare, o dalla presenza di Helicobacter pylori. Tipico in chi soffre di gastrite, reflusso gastroesofageo, e in persone psicosomatiche</descrizione>
+		<capitolo>D03_ Bruciore di stomaco/pirosi</capitolo>
+		<id>64</id>
+		<descrizioniAggiuntive>
+			<descrizione>La pirosi, definita anche bruciore retrosternale, è un sintomo dolorifico urente localizzato posteriormente allo sterno, che può indicare una disfunzione dell'apparato digerente, in particolare dello stomaco.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Acidità</sinonimo>
+			<sinonimo>Bruciore di stomaco</sinonimo>
+			<sinonimo>Pirosi</sinonimo>
+			<sinonimo>Acidità di stomaco</sinonimo>
+			<sinonimo>Bruciore retrosternale</sinonimo>
+			<sinonimo>Indigestione acida</sinonimo>
+			<sinonimo>Indigestione acido</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/pirosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Brufoli</entry>
+		<descrizione>I brufoli sono delle eruzioni della pelle. Quelli sulla faccia sono i piu' frequenti e fastidiosi. Si presentano soprattutto nei giovani adolescenti e post-adolescenti</descrizione>
+		<capitolo>S96_Acne</capitolo>
+		<id>65</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'acne è una malattia della pelle ad evoluzione benigna, caratterizzata da un processo infiammatorio del follicolo pilifero e della ghiandola sebacea annessa, chiamata in linguaggio comune "brufolo" o "foruncolo".</descrizione>
+			<descrizione>Una piccola infiammazione della pelle; una pustola o papule; sintomo comune in acne</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Acne</sinonimo>
+			<sinonimo>Acne endogena</sinonimo>
+			<sinonimo>Acne giovanile</sinonimo>
+			<sinonimo>Acne nodulo cistica</sinonimo>
+			<sinonimo>Acne papulo-pustolosa</sinonimo>
+			<sinonimo>Brufoli</sinonimo>
+			<sinonimo>Brufolo</sinonimo>
+			<sinonimo>Pustola</sinonimo>
+			<sinonimo>Foruncolo</sinonimo>
+			<sinonimo>Foruncoloso</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Acne</wikiLink>
+	</voce>
+	<voce>
+		<entry>Caduta dei capelli</entry>
+		<descrizione>Perdita di capelli con comparsa di chiazze di calvizie</descrizione>
+		<capitolo>S23_Perdita di capelli/calvizia</capitolo>
+		<id>66</id>
+	</voce>
+	<voce>
+		<entry>Callo</entry>
+		<descrizione>Ingrossamento e indurimento di una zona della pelle, dovuto a troppa usura</descrizione>
+		<capitolo>S20_Callo/callosita'</capitolo>
+		<id>67</id>
+		<descrizioniAggiuntive>
+			<descrizione>Un'area di pelle dura a causa di un attrito continuo (come la pianta del piede).</descrizione>
+			<descrizione>Il callo è una forma di ipercheratosi, di aspetto tendenzialmente rotondeggiante, che si sviluppa su una specifica area della cute che tende così a diventare relativamente più spessa e dura in risposta ad uno stimolo meccanico ripetuto, ad esempio a reiterata frizione, pressione o irritazione.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Callo</sinonimo>
+			<sinonimo>Durone</sinonimo>
+			<sinonimo>Incallimento</sinonimo>
+			<sinonimo>Calli</sinonimo>
+			<sinonimo>Occhio di pernice</sinonimo>
+			<sinonimo>Tiloma</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Callo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Calo di pressione</entry>
+		<descrizione>Abbassamento momentaneo della pressione arteriosa</descrizione>
+		<capitolo>K88_Ipotensione posturale</capitolo>
+		<id>68</id>
+	</voce>
+	<voce>
+		<entry>Cardiopalmo</entry>
+		<descrizione>Palpitazione del cuore</descrizione>
+		<capitolo>K04_Palpitazioni/percezione di battiti cardiaci</capitolo>
+		<id>69</id>
+		<descrizioniAggiuntive>
+			<descrizione>Anormale accelerazione dei battiti del cuore</descrizione>
+			<descrizione>Il cardiopalmo è la percezione accentuata del proprio battito cardiaco, percezione che normalmente non avviene.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Cardiopalma</sinonimo>
+			<sinonimo>Cardiopalmo</sinonimo>
+			<sinonimo>Palpitazione</sinonimo>
+			<sinonimo>Palpitazioni</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/cardiopalmo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Cardiopalmo aritmico</entry>
+		<descrizione>Palpitazione irregolare del cuore</descrizione>
+		<capitolo>K05_Altri battiti cardiaci irregolari</capitolo>
+		<id>70</id>
+	</voce>
+	<voce>
+		<entry>Cardiopalmo ricorrente</entry>
+		<descrizione>Frequente palpitazione del cuore</descrizione>
+		<capitolo>K04_Palpitazioni/percezione di battiti cardiaci</capitolo>
+		<id>71</id>
+	</voce>
+	<voce>
+		<entry>Cardiopalmo tachicardico</entry>
+		<descrizione>Palpitazione accellerata del cuore</descrizione>
+		<capitolo>K04_Palpitazioni/percezione di battiti cardiaci</capitolo>
+		<id>72</id>
+	</voce>
+	<voce>
+		<entry>Catarro</entry>
+		<descrizione>Sostanza mucosa più o meno densa correlata a raffreddori, influenze e allergie.</descrizione>
+		<capitolo>R25_Espettorato/sputo anormale</capitolo>
+		<id>73</id>
+		<descrizioniAggiuntive>
+			<descrizione>Secrezione di mucina, prodotta da infiammazione delle mucose delle vie respiratorie.</descrizione>
+			<descrizione>L'espettorato, conosciuto più comunemente come catarro è il materiale secreto dalle mucose respiratorie (naso, cavo orale, trachea e bronchi), talvolta emesso all'esterno tramite la tosse grassa</descrizione>
+			<descrizione>Lo sputo è un getto di saliva, catarro o altre sostanze espulse dalla bocca.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Catarro</sinonimo>
+			<sinonimo>Scesa</sinonimo>
+			<sinonimo>Sputo</sinonimo>
+			<sinonimo>Espettorato</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Espettorato</wikiLink>
+	</voce>
+	<voce>
+		<entry>Cefalea</entry>
+		<descrizione>Dolore alla testa.</descrizione>
+		<capitolo>N01_CEFALEA</capitolo>
+		<id>74</id>
+		<descrizioniAggiuntive>
+			<descrizione>Per mal di testa o cefalea si intende il dolore provato in qualsiasi parte della zona della testa o del collo.</descrizione>
+			<descrizione>Disturbo doloroso della testa</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Cefalalgia</sinonimo>
+			<sinonimo>Cefalea</sinonimo>
+			<sinonimo>Cefalgia</sinonimo>
+			<sinonimo>Emicrania</sinonimo>
+			<sinonimo>Mal di testa</sinonimo>
+			<sinonimo>Dolore di testa</sinonimo>
+			<sinonimo>Cefalee</sinonimo>
+			<sinonimo>Cefalea primaria</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/cefalea</wikiLink>
+	</voce>
+	<voce>
+		<entry>Cefalea frontale</entry>
+		<descrizione>Mal di testa a livello della fronte</descrizione>
+		<capitolo>N01_Mal di testa</capitolo>
+		<id>75</id>
+	</voce>
+	<voce>
+		<entry>Cefalea ingravescente</entry>
+		<descrizione>Mal di testa che diventa sempre piu' forte</descrizione>
+		<capitolo>N01_Mal di testa</capitolo>
+		<id>76</id>
+	</voce>
+	<voce>
+		<entry>Comparsa di chiazze</entry>
+		<descrizione>Avere macchie sulla pelle</descrizione>
+		<capitolo>S29_Altro sintomo o disturbo della pelle</capitolo>
+		<id>77</id>
+	</voce>
+	<voce>
+		<entry>Congestione nasale</entry>
+		<descrizione>Sensazione di naso chiuso</descrizione>
+		<capitolo>R07_Starnuti/congestione nasale</capitolo>
+		<id>78</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'atto di respirazione pesante con il naso (come quando il naso è congestionato)</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Congestione nasale</sinonimo>
+			<sinonimo>Naso intasato</sinonimo>
+			<sinonimo>Ostruzione nasale</sinonimo>
+			<sinonimo>Respirare rumorosamente</sinonimo>
+			<sinonimo>Sniffle</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Contrazioni</entry>
+		<descrizione>Avere i muscoli tesi/non rilassati</descrizione>
+		<capitolo>L19_Sintomo o disturbo muscolare NAC</capitolo>
+		<id>79</id>
+	</voce>
+	<voce>
+		<entry>Convulsione/i</entry>
+		<descrizione>Tremori, contrazioni, movimenti involontari del corpo</descrizione>
+		<capitolo>N07_Convulsioni/crisi comiziale</capitolo>
+		<id>80</id>
+		<descrizioniAggiuntive>
+			<descrizione>La convulsione è una contrazione involontaria di alcuni muscoli volontari.</descrizione>
+			<descrizione>Un attacco improvviso e incontrollabile</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Convulsione</sinonimo>
+			<sinonimo>Convulsioni</sinonimo>
+			<sinonimo>Accesso</sinonimo>
+			<sinonimo>Crisi</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Convulsione</wikiLink>
+	</voce>
+	<voce>
+		<entry>Coprostasi</entry>
+		<descrizione>Ritenzione delle feci nell'intestino per un periodo di tempo esagerato</descrizione>
+		<capitolo>D12_Stipsi</capitolo>
+		<id>81</id>
+		<descrizioniAggiuntive>
+			<descrizione>La costipazione, o stitichezza, è uno stato organico caratterizzato dalla durezza e dalla secchezza delle feci, che ne rende difficile l'espulsione.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Coprostasi</sinonimo>
+			<sinonimo>Coprostàsi</sinonimo>
+			<sinonimo>Fecalomi</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Coprostasi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Coxalgia benigna</entry>
+		<descrizione>Dolore all'anca passeggero</descrizione>
+		<capitolo>L13_Sintomo o disturbo di anca</capitolo>
+		<id>82</id>
+	</voce>
+	<voce>
+		<entry>Crampi</entry>
+		<descrizione>contrazione muscolare dolorosa e di breve durata</descrizione>
+		<capitolo>L19_Sintomo o disturbo muscolare NAC</capitolo>
+		<id>83</id>
+		<descrizioniAggiuntive>
+			<descrizione>I crampi sono dolori muscolari improvvisi e violenti causati dalla contrazione involontaria di uno o più muscoli.</descrizione>
+			<descrizione>Lo spasmo è una contrazione improvvisa e involontaria di un muscolo, di un organo cavo o di un orifizio.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Crampo</sinonimo>
+			<sinonimo>Spasmo</sinonimo>
+			<sinonimo>Crampi</sinonimo>
+			<sinonimo>Antispasmodico</sinonimo>
+			<sinonimo>Spasmi</sinonimo>
+			<sinonimo>Spasmo muscolare</sinonimo>
+			<sinonimo>Crampi muscolari</sinonimo>
+			<sinonimo>Crampo muscolare</sinonimo>
+			<sinonimo>Spasmi muscolari</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/crampo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Crampi allo stomaco</entry>
+		<descrizione>Improvvisi e acuti dolori allo stomaco</descrizione>
+		<capitolo>D02_Dolore addominale epigastrico</capitolo>
+		<id>84</id>
+	</voce>
+	<voce>
+		<entry>Crisi di ansia</entry>
+		<descrizione>Momenti di forte agitazione, difficile da controllare</descrizione>
+		<capitolo>P74_Disturbo ansioso/stato ansioso</capitolo>
+		<id>85</id>
+	</voce>
+	<voce>
+		<entry>Crisi di panico</entry>
+		<descrizione>Momenti di paura e panico talmente forti da non riuscirsi a controllare</descrizione>
+		<capitolo>P74_Disturbo ansioso/stato ansioso</capitolo>
+		<id>86</id>
+	</voce>
+	<voce>
+		<entry>Crisi di vertigini</entry>
+		<descrizione>Avere paura del vuoto</descrizione>
+		<capitolo>H82_Sindrome vertiginosa</capitolo>
+		<id>87</id>
+	</voce>
+	<voce>
+		<entry>Crisi dolorosa</entry>
+		<descrizione>Sentire un dolore molto forte</descrizione>
+		<capitolo>A01_DOLORE_GENERALE_O_IN_SITI_MULTIPLI</capitolo>
+		<id>88</id>
+	</voce>
+	<voce>
+		<entry>Crisi ipertensiva</entry>
+		<descrizione>Momento in cui la pressione sanguigna e' molto alta</descrizione>
+		<capitolo>K85_Pressione arteriosa elevata</capitolo>
+		<id>89</id>
+		<descrizioniAggiuntive>
+			<descrizione>Forte ipertensione che danneggia i rivestimenti interni dei vasi sanguigni il cuore la milza i reni e il cervello</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ipertensione maligna</sinonimo>
+			<sinonimo>Crisi ipertensiva</sinonimo>
+			<sinonimo>Emergenza ipertensiva</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Cuore in gola</entry>
+		<descrizione>Avere il cuore che batte forte</descrizione>
+		<capitolo>K04_Palpitazioni/percezione di battiti cardiaci</capitolo>
+		<id>90</id>
+	</voce>
+	<voce>
+		<entry>Debolezza</entry>
+		<descrizione>Mancanza di forze fisiche</descrizione>
+		<capitolo>A04_Astenia/stanchezza generale</capitolo>
+		<id>91</id>
+		<descrizioniAggiuntive>
+			<descrizione>Essere debole nella salute o nel corpo (soprattutto dalla vecchiaia)</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Debilitazione</sinonimo>
+			<sinonimo>Fragilità</sinonimo>
+			<sinonimo>Gracilità</sinonimo>
+			<sinonimo>Infermità</sinonimo>
+			<sinonimo>Mollezza</sinonimo>
+			<sinonimo>Tenuità</sinonimo>
+			<sinonimo>Debolezza</sinonimo>
+			<sinonimo>Vulnerabilità</sinonimo>
+			<sinonimo>Frailness</sinonimo>
+			<sinonimo>Valetudinarianism</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Deficit visivo</entry>
+		<descrizione>Incapacita' di vedere bene</descrizione>
+		<capitolo>F28_ Limit. funzionale/disabilita' oculare (F)</capitolo>
+		<id>92</id>
+	</voce>
+	<voce>
+		<entry>Delirio</entry>
+		<descrizione>Parlare e muoversi in maniera disconnessa, senza senso. Stato mentale confusionale, a volte dovuto a febbre alta</descrizione>
+		<capitolo>P29_Altro sintomo o disturbo psicologico</capitolo>
+		<id>93</id>
+		<descrizioniAggiuntive>
+			<descrizione>In psichiatria, il termine delirio o stato confusionale acuto, è una sindrome clinica caratterizzata da transitoria ed in genere reversibile confusione mentale che si associa ad un importante disorientamento spaziale e temporale, inattenzione e pensiero disorganizzato.</descrizione>
+			<descrizione>Stato mentale di grave turbamento e agitazione</descrizione>
+			<descrizione> </descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Delirio</sinonimo>
+			<sinonimo>Delirium</sinonimo>
+			<sinonimo>Stato confusionale acuto</sinonimo>
+			<sinonimo>Frenesia</sinonimo>
+			<sinonimo>Smania</sinonimo>
+			<sinonimo>Vaneggiamento</sinonimo>
+			<sinonimo>Farneticamento</sinonimo>
+			<sinonimo>Farneticazione</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Delirio</wikiLink>
+	</voce>
+	<voce>
+		<entry>Diarrea</entry>
+		<descrizione>Eccessiva defecazione. Può essere sintomo di virus intestinale, congestione, ecc.</descrizione>
+		<capitolo>D11_Diarrea</capitolo>
+		<id>94</id>
+		<descrizioniAggiuntive>
+			<descrizione>La diarrea è un disturbo della defecazione caratterizzato da un aumento dell'emissione di una quantità giornaliera di feci superiore ai 200 g con diminuzione della loro consistenza e da un aumento della frequenza di scarica dell'alvo intestinale.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Cacaiola</sinonimo>
+			<sinonimo>Cacarella</sinonimo>
+			<sinonimo>Cacherella</sinonimo>
+			<sinonimo>Diarrea</sinonimo>
+			<sinonimo>Sciolta</sinonimo>
+			<sinonimo>Squacquera</sinonimo>
+			<sinonimo>Diarree</sinonimo>
+			<sinonimo>Cagarella</sinonimo>
+			<sinonimo>Cagotto</sinonimo>
+			<sinonimo>Squaraus</sinonimo>
+			<sinonimo>Scioltezza delle viscere</sinonimo>
+			<sinonimo>Malattie diarroiche</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/diarrea</wikiLink>
+	</voce>
+	<voce>
+		<entry>Difficolta' respiratoria</entry>
+		<descrizione>Difficolta' nel respirare normalmente, spesso provocata da qualche problema ai polmoni o ai bronchi</descrizione>
+		<capitolo>R28_Limitazione funzionale/disabilita' respiratoria</capitolo>
+		<id>95</id>
+	</voce>
+	<voce>
+		<entry>Dismenorrea</entry>
+		<descrizione>Mestruazione preceduta o accompagnata da dolore</descrizione>
+		<capitolo>X02_Dolore mestruale</capitolo>
+		<id>96</id>
+		<descrizioniAggiuntive>
+			<descrizione>La dismenorrea o mestruazione dolorosa è un'alterazione mestruale, accompagnata da disturbi generali o locali e da dolori, che interessano in genere la regione pelvica e l'addome.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Dismenorrea</sinonimo>
+			<sinonimo>Mestruazione dolorosa</sinonimo>
+			<sinonimo>Crampi mestruali</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/dismenorrea</wikiLink>
+	</voce>
+	<voce>
+		<entry>Disorientamento</entry>
+		<descrizione>Non sapere dove ci si trova</descrizione>
+		<capitolo>P29_Altro sintomo o disturbo psicologico</capitolo>
+		<id>97</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il disorientamento si definisce come la perdita di conscio mentale relativo alla percezione spazio-temporale</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Disorientamento</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Disorientamento</wikiLink>
+	</voce>
+	<voce>
+		<entry>Dispnea</entry>
+		<descrizione>Difficolta' di respiro e affanno</descrizione>
+		<capitolo>R02_Respiro corto/dispnea</capitolo>
+		<id>98</id>
+		<descrizioniAggiuntive>
+			<descrizione>La dispnea, o fame d'aria, è il sintomo di una respirazione difficoltosa.</descrizione>
+			<descrizione>Epressione con cui è indicata la dispnea</descrizione>
+			<descrizione>Malattia dell'apparato respiratorio</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Dispnea</sinonimo>
+			<sinonimo>Dispnea da sforzo</sinonimo>
+			<sinonimo>Fame d'aria</sinonimo>
+			<sinonimo>Mancanza di respiro</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/dispnea</wikiLink>
+	</voce>
+	<voce>
+		<entry>Disturbi alimentari</entry>
+		<descrizione>Mangiare troppo o troppo poco. Alterazione dei comportamenti legati all'alimentazione come la perdita di peso in tempi molto brevi o l'obesità</descrizione>
+		<capitolo>T04_Problema di aliment. bambino/lattante</capitolo>
+		<id>99</id>
+		<descrizioniAggiuntive>
+			<descrizione>I disturbi del comportamento alimentare, o disturbi alimentari psicogeni sono tutte quelle problematiche, di pertinenza principalmente psichiatrica, che concernono il rapporto tra gli individui e il cibo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Disturbi del comportamento alimentare</sinonimo>
+			<sinonimo>Disturbi alimentari psicogeni</sinonimo>
+			<sinonimo>Disturbi alimentari</sinonimo>
+			<sinonimo>Disordine alimentare</sinonimo>
+			<sinonimo>Disturbi dell'alimentazione</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Disturbi_del_comportamento_alimentare</wikiLink>
+	</voce>
+	<voce>
+		<entry>Disuria</entry>
+		<descrizione>Difficolta' ad urinare per infiammzione o ostruzione delle vie urinarie</descrizione>
+		<capitolo>U01_Disuria/minzione dolorosa</capitolo>
+		<id>100</id>
+		<descrizioniAggiuntive>
+			<descrizione>La disuria consiste nell'emissione di urine con difficoltà, non necessariamente accompagnata da dolore; in questo caso sarebbe più corretto parlare di stranguria.</descrizione>
+			<descrizione>Sintomo</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Disuria</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Disuria</wikiLink>
+	</voce>
+	<voce>
+		<entry>Dolenzia</entry>
+		<descrizione>Dolore continuo e diffuso ma non forte, pungente</descrizione>
+		<capitolo>A01_DOLORE_GENERALE_O_IN_SITI_MULTIPLI</capitolo>
+		<id>101</id>
+		<descrizioniAggiuntive>
+			<descrizione>Un dolore persistente (generalmente poco intenso)</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Dolenzia</sinonimo>
+			<sinonimo>Indolenzimento</sinonimo>
+			<sinonimo>Dolore</sinonimo>
+			<sinonimo>Dolorante</sinonimo>
+			<sinonimo>Male</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Dolore acuto</entry>
+		<descrizione>Avere molto male e ben localizzato</descrizione>
+		<capitolo>A01_DOLORE_GENERALE_O_IN_SITI_MULTIPLI</capitolo>
+		<id>102</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il dolore rappresenta il mezzo con cui l'organismo segnala un danno tessutale.</descrizione>
+			<descrizione>Mezzo con cui l'organismo segnala un danno tessutale</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Dolore</sinonimo>
+			<sinonimo>Dolori</sinonimo>
+			<sinonimo>Dolorose</sinonimo>
+			<sinonimo>Algia</sinonimo>
+			<sinonimo>Dolore idiopatico</sinonimo>
+			<sinonimo>Sensazione dolorosa</sinonimo>
+			<sinonimo>Sensibilità al dolore</sinonimo>
+			<sinonimo>Dolore acuto</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/dolore</wikiLink>
+	</voce>
+	<voce>
+		<entry>Dolore alla milza</entry>
+		<descrizione>Sentire forte dolore in direzione del fianco sinistro, proprio sulla milza. Succede spesso dopo aver fatto una corsa</descrizione>
+		<capitolo>B29_Altro sint. o disturbo del sangue o org. linf.</capitolo>
+		<id>103</id>
+	</voce>
+	<voce>
+		<entry>Dolore ischio crurale</entry>
+		<descrizione>Dolore localizzato al di sotto del gluteo</descrizione>
+		<capitolo>L20_Sintomo o disturbo ad una articolazione NAC</capitolo>
+		<id>104</id>
+	</voce>
+	<voce>
+		<entry>Dolore muscolare</entry>
+		<descrizione>Dolore a uno o più muscoli del corpo.</descrizione>
+		<capitolo>L18_Dolore muscolare</capitolo>
+		<id>105</id>
+		<descrizioniAggiuntive>
+			<descrizione>La mialgìa è un dolore localizzato in uno o in più muscoli.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Mialgia</sinonimo>
+			<sinonimo>Dolore del muscolo</sinonimo>
+			<sinonimo>Dolore muscolare</sinonimo>
+			<sinonimo>Mialgie</sinonimo>
+			<sinonimo>Dolori muscolari</sinonimo>
+			<sinonimo>Myodynia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/mialgia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Dorsolombalgia atraumatica</entry>
+		<descrizione>Dolore al dorso non dovuto a una botta</descrizione>
+		<capitolo>L02_Sintomo o disturbo del dorso</capitolo>
+		<id>106</id>
+	</voce>
+	<voce>
+		<entry>Durone</entry>
+		<descrizione>Piccole zona di pelle ispessita (dura)sulle dita del piede, in genere provocate da una calzatura stretta</descrizione>
+		<capitolo>S20_Callo/callosita'</capitolo>
+		<id>107</id>
+		<descrizioniAggiuntive>
+			<descrizione>Un'area di pelle dura a causa di un attrito continuo (come la pianta del piede).</descrizione>
+			<descrizione>Il callo è una forma di ipercheratosi, di aspetto tendenzialmente rotondeggiante, che si sviluppa su una specifica area della cute che tende così a diventare relativamente più spessa e dura in risposta ad uno stimolo meccanico ripetuto, ad esempio a reiterata frizione, pressione o irritazione.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Callo</sinonimo>
+			<sinonimo>Durone</sinonimo>
+			<sinonimo>Incallimento</sinonimo>
+			<sinonimo>Calli</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Callo</wikiLink>	
+	</voce>
+	<voce>
+		<entry>Ecchimosi</entry>
+		<descrizione>Piccola macchia di sangue sottopelle</descrizione>
+		<capitolo>S16_Contusione/ecchimosi</capitolo>
+		<id>108</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'ecchimosi, comunemente chiamato "blu" o livido, è un tipo di ematoma derivante da un trauma contusivo.</descrizione>
+			<descrizione>L'area viola o nera e blu che si ottiene da un livido.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ecchimosi</sinonimo>
+			<sinonimo>Lividura</sinonimo>
+			<sinonimo>Livido</sinonimo>
+			<sinonimo>Lesione</sinonimo>
+			<sinonimo>Danno</sinonimo>
+			<sinonimo>Ferita</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Ecchimosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Edema declivo</entry>
+		<descrizione>Rigonfiamento nelle parti piu' basse (es.gambe)</descrizione>
+		<capitolo>K07_Caviglie gonfie/edema</capitolo>
+		<id>109</id>
+	</voce>
+	<voce>
+		<entry>Ematoma</entry>
+		<descrizione>Macchia sulla pelle il cui colore puo' variare: in particolare, all'inizio e' blu scuro violaceo, poi si schiarisce fino a scomparire. Compare di solito in conseguanza di botte.</descrizione>
+		<capitolo>S16_Contusione/ecchimosi</capitolo>
+		<id>110</id>
+		<descrizioniAggiuntive>
+			<descrizione>Per ematoma si intende una raccolta di sangue fuoriuscito dal sistema circolatorio e localizzata in un tessuto o in una cavità dell'organismo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ematoma</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/ematoma</wikiLink>
+	</voce>
+	<voce>
+		<entry>Emorragia</entry>
+		<descrizione>Perdita, fuoriuscita di una grande quantita' di sangue</descrizione>
+		<capitolo>A10_Sanguinamento/emorragia NAC</capitolo>
+		<id>111</id>
+		<descrizioniAggiuntive>
+			<descrizione>Fuoriuscita di sangue da vene, arterie o capillari</descrizione>
+			<descrizione>L'emorragia è la perdita di sangue dai vasi.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Emorragia</sinonimo>
+			<sinonimo>Sanguinamento</sinonimo>
+			<sinonimo>Emorragie</sinonimo>
+			<sinonimo>Dissanguamento</sinonimo>
+			<sinonimo>Emorragia cronica</sinonimo>
+			<sinonimo>Emorragica</sinonimo>
+			<sinonimo>Perdita di sangue</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/emorragia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Emorragia cerebrale</entry>
+		<descrizione>Fuoriuscita di una grande quantita' di sangue nel cervello</descrizione>
+		<capitolo>K90_Accidente vascolare cerebrale/stroke</capitolo>
+		<id>112</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'emorragia cerebrale è una sindrome neurologica acuta dovuta alla rottura di un vaso arterioso cerebrale e al conseguente stravaso di sangue nel cervello.</descrizione>
+			<descrizione>Sanguinamento da un vascello sanguigno rotto nel cervello</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Emorragia cerebrale</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Emorragia_cerebrale</wikiLink>
+	</voce>
+	<voce>
+		<entry>Emorragia gengivale</entry>
+		<descrizione>Fuoriuscita di una grande quantita' di sangue dalle gengive</descrizione>
+		<capitolo>D82_Malattia di denti o gengive</capitolo>
+		<id>113</id>
+	</voce>
+	<voce>
+		<entry>Emorragia nasale</entry>
+		<descrizione>Fuoriuscita di una grande quantita' di sangue dal naso</descrizione>
+		<capitolo>R06_Sangue dal naso/epistassi</capitolo>
+		<id>114</id>
+		<descrizioniAggiuntive>
+			<descrizione>Emorragia nasale</descrizione>
+			<descrizione>L'epistassi o rinorragia è un'emorragia originatasi all'interno delle fosse nasali.</descrizione>
+			<descrizione>Emorragia che ha origine nelle fosse nasali</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Epistassi</sinonimo>
+			<sinonimo>Rinorragia</sinonimo>
+			<sinonimo>Sangue al naso</sinonimo>
+			<sinonimo>Emorragia nasale</sinonimo>
+			<sinonimo>Sanguinamento del naso</sinonimo>
+			<sinonimo>Sangue dal naso</sinonimo>
+			<sinonimo>Sanguinamento dal naso</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/epistassi</wikiLink>
+	</voce>
+	<voce>
+		<entry>EmotivitÃ </entry>
+		<descrizione>E' uno stato relativo all'emozione. (capacità emotiva)</descrizione>
+		<capitolo>P29_ALTRO_SINTOMO_O_DISTURBO_PSICOLOGICO</capitolo>
+		<id>115</id>
+	</voce>
+	<voce>
+		<entry>Epigastralgia</entry>
+		<descrizione>Dolore alla bocca dello stomaco</descrizione>
+		<capitolo>D02_Dolore addominale epigastrico</capitolo>
+		<id>116</id>
+	</voce>
+	<voce>
+		<entry>Epigastralgia in colelitiasi</entry>
+		<descrizione>Dolore a livello della zona centrale dell'addome dovuto a calcoli</descrizione>
+		<capitolo>D02_Dolore addominale epigastrico</capitolo>
+		<id>117</id>
+	</voce>
+	<voce>
+		<entry>Episodi di cardiopalmo riferiti</entry>
+		<descrizione>Episodi di palpitazione del cuore</descrizione>
+		<capitolo>K80_Aritmia cardiaca NAC</capitolo>
+		<id>118</id>
+	</voce>
+	<voce>
+		<entry>Episodi di epistassi</entry>
+		<descrizione>Episodi di perdita di sangue dal naso</descrizione>
+		<capitolo>R06_Sangue dal naso/epistassi</capitolo>
+		<id>119</id>
+	</voce>
+	<voce>
+		<entry>Episodio di cianosi</entry>
+		<descrizione>Il colorito della pelle diventa bluastro per mancanza di ossigeno</descrizione>
+		<capitolo>S08_Cambiamento di colore della pelle</capitolo>
+		<id>120</id>
+	</voce>
+	<voce>
+		<entry>Episodio di colangite acuta</entry>
+		<descrizione>Episodi di infiammazione delle vie biliari</descrizione>
+		<capitolo>D99_Altra malattia del sistema digerente</capitolo>
+		<id>121</id>
+	</voce>
+	<voce>
+		<entry>Episodio di reflusso</entry>
+		<descrizione>Il succo gastrico sale dallo stomaco verso l'alto</descrizione>
+		<capitolo>D29_Altro sintomo/ disturbo apparato digerente</capitolo>
+		<id>122</id>
+	</voce>
+	<voce>
+		<entry>Episodio ipotensivo</entry>
+		<descrizione>Abbassamento improvviso della pressione</descrizione>
+		<capitolo>K88_Ipotensione posturale</capitolo>
+		<id>123</id>
+	</voce>
+	<voce>
+		<entry>Episodio sincopale</entry>
+		<descrizione>Improvvisa e totale perdita di conoscenza momentanea</descrizione>
+		<capitolo>A06_Lipotimia/sincope</capitolo>
+		<id>124</id>
+	</voce>
+	<voce>
+		<entry>Eritema areolare</entry>
+		<descrizione>Eritema di piccola superficie tondeggiante</descrizione>
+		<capitolo>S06_Eruzione localizzata</capitolo>
+		<id>125</id>
+	</voce>
+	<voce>
+		<entry>Eritema diffuso</entry>
+		<descrizione>Eritema in vaste zone del corpo</descrizione>
+		<capitolo>S07_Eruzione generalizzata</capitolo>
+		<id>126</id>
+	</voce>
+	<voce>
+		<entry>Eritema solare</entry>
+		<descrizione>Irritazione cutanea e arrossamento della pelle che si manifestano in seguito ad una prolungata esposizione ai raggi solari senza un'adeguata protezione.</descrizione>
+		<capitolo>S80_Cheratosi attinica/eritema solare</capitolo>
+		<id>127</id>
+		<descrizioniAggiuntive>
+			<descrizione>Rossore della pelle causato dall'esposizione ai raggi del sole</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Abbronzatura</sinonimo>
+			<sinonimo>Eritema solare</sinonimo>
+			<sinonimo>Abbronzamento</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Eritema_solare</wikiLink>
+	</voce>
+	<voce>
+		<entry>Eruttazione eccessiva</entry>
+		<descrizione>Emissione eccessiva di gas provenienti dallo stomaco</descrizione>
+		<capitolo>D08_Flatulenza/meteorismo/eruttazione</capitolo>
+		<id>128</id>
+	</voce>
+	<voce>
+		<entry>Essere afoni</entry>
+		<descrizione>Incapacita' di emettere suoni con le proprie corde vocali.</descrizione>
+		<capitolo>R23_Sintomo o disturbo della voce</capitolo>
+		<id>129</id>
+	</voce>
+	<voce>
+		<entry>Essere continuamente nervosi</entry>
+		<descrizione>Continua sensazione di stress e nervosismo, dovuta magari a particolari circostanze dell'ambiente in cui viviamo, a problemi familiari, di lavoro, ecc. che magari ci provoca anche insonnia, scarso appetito e diminuzione del peso corporeo</descrizione>
+		<capitolo>P01_SENSAZIONE_DI_NERVOSISMO/ANSIETA'/TENSIONE</capitolo>
+		<id>130</id>
+	</voce>
+	<voce>
+		<entry>Fattore di stress</entry>
+		<descrizione>Qualcosa che causa stress/preoccupazione</descrizione>
+		<capitolo>P02_Reazione da stress acuto</capitolo>
+		<id>131</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il termine inglese stressor si riferisce a stimoli di diversa natura che portano l'organismo e la psiche allo stress.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Stressor</sinonimo>
+			<sinonimo>Fattore di stress</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Stressor</wikiLink>
+	</voce>
+	<voce>
+		<entry>Fattori di rischio</entry>
+		<descrizione>Qualcosa che puo' causare o contribuire a causare una malattia</descrizione>
+		<capitolo>A23_Fattore di rischio NAC</capitolo>
+		<id>132</id>
+		<descrizioniAggiuntive>
+			<descrizione>Un fattore di rischio è una specifica condizione che risulta statisticamente associata ad una malattia e che pertanto si ritiene possa concorrere alla sua patogenesi, favorirne lo sviluppo o accelerarne il decorso.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Fattore di rischio</sinonimo>
+			<sinonimo>Fattori di rischio</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Fattore_di_rischio</wikiLink>
+	</voce>
+	<voce>
+		<entry>Febbre</entry>
+		<descrizione>Innalzamento della temperatura corporea oltre i 37 gradi</descrizione>
+		<capitolo>A03_Febbre</capitolo>
+		<id>133</id>
+		<descrizioniAggiuntive>
+			<descrizione>Temperatura alta del corpo</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Febbre</sinonimo>
+			<sinonimo>Piressia</sinonimo>
+			<sinonimo>Febbrone</sinonimo>
+			<sinonimo>Iperpiressia</sinonimo>
+			<sinonimo>Ipertermia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Febbre</wikiLink>
+	</voce>
+	<voce>
+		<entry>Febbre persistente</entry>
+		<descrizione>Temperatura alta del corpo per lungo tempo</descrizione>
+		<capitolo>A03_Febbre</capitolo>
+		<id>134</id>
+	</voce>
+	<voce>
+		<entry>Febbre serotina</entry>
+		<descrizione>Febbre che si manifesta la sera</descrizione>
+		<capitolo>A03_Febbre</capitolo>
+		<id>135</id>
+	</voce>
+	<voce>
+		<entry>Feci scure</entry>
+		<descrizione>Presenza di sangue nelle feci</descrizione>
+		<capitolo>D15_Melena</capitolo>
+		<id>136</id>
+	</voce>
+	<voce>
+		<entry>Fischio all'orecchio</entry>
+		<descrizione>Si sente un fischio continuo all'orecchio</descrizione>
+		<capitolo>H03_Acufene/tintinnio/ronzio all’orecchio</capitolo>
+		<id>137</id>
+	</voce>
+	<voce>
+		<entry>Formicolio</entry>
+		<descrizione>Sensazione di intorpidimento e solletico in varie parti del corpo, dovuta a problemi circolatori</descrizione>
+		<capitolo>N05_FORMICOLIO_ALLE_DITA/PIEDI/ARTI</capitolo>
+		<id>138</id>
+		<sinonimi>
+			<sinonimo>Formicolio</sinonimo>
+			<sinonimo>Solletico</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Foruncoli</entry>
+		<descrizione>Piccoli punti rossi sulla pelle, in particolare sul viso</descrizione>
+		<capitolo>S10_FORUNCOLO/CARBONCHIO</capitolo>
+		<id>139</id>
+		<descrizioniAggiuntive>
+			<descrizione>Infiammazione cutanea con pus</descrizione>
+			<descrizione>Il foruncolo è una piodermite, cioè un'infezione da batteri piogeni, che coinvolge un follicolo pilifero ed il tessuto perifollicolare circostante che tende ad autoguarire.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Carboncello</sinonimo>
+			<sinonimo>Fignolo</sinonimo>
+			<sinonimo>Foruncolo</sinonimo>
+			<sinonimo>Bruffolo</sinonimo>
+			<sinonimo>Foruncoli</sinonimo>
+			<sinonimo>Bolle</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/foruncolo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Ghiandole gonfie</entry>
+		<descrizione>Generalmente si vuole descrivere con questo termine l’ingrossamento dei nodi linfatici, o ghiandole del collo, su entrambi i lati della gola. Tecnicamente, invece, il termine si riferisce anche all’ingrossamento di una qualsiasi delle ghiandole linfatiche, come quelle localizzate sotto le ascelle o nell’inguine</descrizione>
+		<capitolo>B02_LINFOGHIANDOLA(E) INGROSSATA(E)/DOLOROSA(E)</capitolo>
+		<id>140</id>
+	</voce>
+	<voce>
+		<entry>Goccia al naso</entry>
+		<descrizione>Fuoriuscita incontrollata e regolare di muco dal naso. Di solito e' connessa ad un raffreddore</descrizione>
+		<capitolo>R07_STARNUTI/CONGESTIONE NASALE</capitolo>
+		<id>141</id>
+	</voce>
+	<voce>
+		<entry>Gonalgia acuta</entry>
+		<descrizione>Forte dolore al ginocchio</descrizione>
+		<capitolo>L15_SINTOMO O DISTURBO AL GINOCCHIO</capitolo>
+		<id>142</id>
+	</voce>
+	<voce>
+		<entry>Gonfiore</entry>
+		<descrizione>Ingrossamento, rigonfiamento di una parte del corpo che provoca una sensazione di fastidio o di dolore vero e proprio</descrizione>
+		<capitolo>A08_GONFIORE</capitolo>
+		<id>143</id>
+		<descrizioniAggiuntive>
+			<descrizione>Un aumento del volume dei tessuti causato dalla presenza di edema e/o ematoma.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Gonfiore</sinonimo>
+			<sinonimo>Tumefazione</sinonimo>
+			<sinonimo>Bitorzo</sinonimo>
+			<sinonimo>Bitorzolo</sinonimo>
+			<sinonimo>Bozza</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Idee suicide</entry>
+		<descrizione>Pensieri di volersi togliere la vita</descrizione>
+		<capitolo>P29_ALTRO SINTOMO O DISTURBO PSICOLOGICO</capitolo>
+		<id>144</id>
+	</voce>
+	<voce>
+		<entry>Impotenza sessuale</entry>
+		<descrizione>Incapacita' ad avere un rapporto sessuale per mancata o insufficiente erezione o a fecondare l'ovulo per difetto degli spermatozoi</descrizione>
+		<capitolo>Y07_IMPOTENZA SESSUALE NAC</capitolo>
+		<id>145</id>
+		<descrizioniAggiuntive>
+			<descrizione>La disfunzione erettile, chiamata in passato impotenza, viene definita “l'incapacità del soggetto di sesso maschile a raggiungere e/o mantenere un'erezione sufficiente a condurre un rapporto soddisfacente”.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Disfunzione erettile</sinonimo>
+			<sinonimo>Impotenza sessuale</sinonimo>
+			<sinonimo>Impotenza</sinonimo>
+			<sinonimo>Impotentia coeundi</sinonimo>
+			<sinonimo>Ed</sinonimo>
+			<sinonimo>Erecticle disfunzione maschile</sinonimo>
+			<sinonimo>Impotente</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/disfunzione_erettile</wikiLink>
+	</voce>
+	<voce>
+		<entry>Incontinenza</entry>
+		<descrizione>Non riuscire a trattenere feci e urina. Incapacita' di controllare la fuoriuscita dell'urina e delle feci.</descrizione>
+		<capitolo>U04_INCONTINENZA_URINARIA</capitolo>
+		<id>146</id>
+	</voce>
+	<voce>
+		<entry>Indolenzimento dei muscoli</entry>
+		<descrizione>Si verifica quando si perde sensibilita' del muscolo o non si riesce a comandarlo in modo appropriato</descrizione>
+		<capitolo>L18_DOLORE A MUSCOLO</capitolo>
+		<id>147</id>
+	</voce>
+	<voce>
+		<entry>Ingrossamento del seno</entry>
+		<descrizione>Nelle donne si presenta all'incirca una settimana prima del ciclo, ed è  soprattutto un sintomo precoce di gravidanza, evidente già dalle prime settimane.</descrizione>
+		<capitolo>X19_TUMEFAZIONE/MASSA_AL_SENO</capitolo>
+		<id>148</id>
+	</voce>
+	<voce>
+		<entry>Ingrossamento di linfonodi</entry>
+		<descrizione>Ingrossamento delle ghiandole nel collo, sotto le ascelle o all'inguine. Indicano un'infezione in atto: si riscontrano in malattie come la mononucleosi (o malattia del bacio), la rosolia, la varicella.</descrizione>
+		<capitolo>B02_LINFOGHIANDOLA(E)_INGROSSATA(E)/DOLOROSA(E)</capitolo>
+		<id>149</id>
+	</voce>
+	<voce>
+		<entry>Insonnia</entry>
+		<descrizione>Difficolta' regolare a prendere sonno.</descrizione>
+		<capitolo>P06_DISTURBO DEL SONNO</capitolo>
+		<id>150</id>
+		<descrizioniAggiuntive>
+			<descrizione>Difficoltà a prendere sonno.</descrizione>
+			<descrizione>L'insonnia è un disturbo del sonno caratterizzato dall'incapacità di prendere sonno nonostante ce ne sia il reale bisogno fisiologico.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Insonnia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Insonnia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Irritazione</entry>
+		<descrizione>Infiammazione causata maggiormente da forme di allergia, ad agenti chimici o altri stimoli (calore o raggi ultravioletti. E' classica l'irritazione alla zona genitale nella femmina, il più delle volte causata da sostanze irritanti quali bagno-schiuma, sapone, shampoo; altre volte sono in causa la scarsa igiene (soprattutto nei bambini).</descrizione>
+		<capitolo>A29_ALTRO SINTOMO O DISTURBO GENERALE</capitolo>
+		<id>151</id>
+		<descrizioniAggiuntive>
+			<descrizione>Uno stato infiammatorio delle mucose o della pelle.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Irritazione</sinonimo>
+			<sinonimo>Irritante</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Irritazione</wikiLink>
+	</voce>
+	<voce>
+		<entry>Itterizia / ittero</entry>
+		<descrizione>Eccessivo accumulo di bilirubina nel sangue con conseguente colorazione giallo-bruna della pelle, delle mucose e degli occhi</descrizione>
+		<capitolo>D13_ITTERO</capitolo>
+		<id>152</id>
+		<descrizioniAggiuntive>
+			<descrizione>Colorazione giallastra della cute e delle mucose per deposito abnorme di pigmenti biliari</descrizione>
+			<descrizione>Si definisce ittero la colorazione giallastra della pelle, delle sclere e delle mucose causata dall'eccessivo innalzamento dei livelli di bilirubina nel sangue.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ittero</sinonimo>
+			<sinonimo>Itterizia</sinonimo>
+			<sinonimo>Morbo regio</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Ittero</wikiLink>		
+	</voce>
+	<voce>
+		<entry>Ittero ostruttivo</entry>
+		<descrizione>Eccessivo accumuli di bilirubina nel sangue con conseguente colorazione giallo-bruna della pelle, delle mucose e degli occhi dovuta a ostruzione delle vie biliari</descrizione>
+		<capitolo>D13_ITTERO</capitolo>
+		<id>153</id>
+	</voce>
+	<voce>
+		<entry>Lacrimazione degli occhi</entry>
+		<descrizione>Continua e incontrollata fuoriuscita di lacrime dagli occhi. Dovuta principlamente ad un irritazione degli occhi.</descrizione>
+		<capitolo>F03_SECREZIONE_CONGIUNTIVALE</capitolo>
+		<id>154</id>
+	</voce>
+	<voce>
+		<entry>Lapsus</entry>
+		<descrizione>dimenticanze improvvise, piccole sbadataggini che ci fanno cadere in enormi gaffe, spesso motivate dalla frenesia della vita, lo stress, le troppe cose da fare, ma  se frequenti potrebbero essere dei sintomi pericolosi da parte del nostro inconscio.</descrizione>
+		<capitolo>P20_DISTURBO_DELLA_MEMORIA</capitolo>
+		<id>155</id>
+	</voce>
+	<voce>
+		<entry>Lesioni cutanee</entry>
+		<descrizione>secchezza e screpolatura dell'epidermide, in particolare su mani e braccia, fomazione di lesioni simili a nei</descrizione>
+		<capitolo>S19_ALTRA_LESIONE_TRAUMATICA_DELLA_PELLE</capitolo>
+		<id>156</id>
+		<descrizioniAggiuntive>
+			<descrizione>Le lesioni cutanee comprendono qualsiasi anomalia che si verifica sulla pelle, da una piccola escoriazione a una ferita profonda.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Lesioni elementari della cute</sinonimo>
+			<sinonimo>Abrasione</sinonimo>
+			<sinonimo>Escoriazione</sinonimo>
+			<sinonimo>Graffio</sinonimo>
+			<sinonimo>Lesioni cutanee</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Lombalgia / lombaggine</entry>
+		<descrizione>Dolore alla zona lombare</descrizione>
+		<capitolo>L84_SINDROME DORSO LOMBARE SENZA IRRADIAZIONE</capitolo>
+		<id>157</id>
+		<descrizioniAggiuntive>
+			<descrizione>Dolore reumatico della regione lombare</descrizione>
+			<descrizione>La lombalgia, più comunemente detta mal di schiena, è un disturbo comune che coinvolge i muscoli e le ossa della schiena.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Lombaggine</sinonimo>
+			<sinonimo>Lombalgia</sinonimo>
+			<sinonimo>Colpo della strega</sinonimo>
+			<sinonimo>Lombalgie</sinonimo>
+			<sinonimo>Mal di schiena</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Lombalgia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Lombalgia acuta</entry>
+		<descrizione>Forte dolore alla zona lombare</descrizione>
+		<capitolo>L84_SINDROME DORSO LOMBARE SENZA IRRADIAZIONE</capitolo>
+		<id>158</id>
+	</voce>
+	<voce>
+		<entry>Lombalgia postraumatica</entry>
+		<descrizione>Dolore alla zona lombare in seguito a botta/caduta</descrizione>
+		<capitolo>L84_SINDROME DORSO LOMBARE SENZA IRRADIAZIONE</capitolo>
+		<id>159</id>
+	</voce>
+	<voce>
+		<entry>Macchia</entry>
+		<descrizione>Area sulla pelle circoscritta, che mostra un'alterazione del colorito, di dimensioni e forma variabili, a limiti netti o sfumati, che non scompare alla pressione. Quelle scure dipendono da un eccesso di melanina.</descrizione>
+		<capitolo>S04_GONFIORE/PROTUBERANZA CUTANEA LOCALIZZATA</capitolo>
+		<id>160</id>
+		<descrizioniAggiuntive>
+			<descrizione>Un segno o un difetto su una parte del corpo</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Macchia</sinonimo>
+			<sinonimo>Difetto</sinonimo>
+			<sinonimo>Imperfezione</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Mal di denti</entry>
+		<descrizione>Dolore pungente localizzato nei denti</descrizione>
+		<capitolo>D19_SINTOMO O DISTURBI RIFERITI A DENTI O GENGIVE</capitolo>
+		<id>161</id>
+		<descrizioniAggiuntive>
+			<descrizione>Qualsiasi malattia a carico dei denti</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Odontopatia</sinonimo>
+			<sinonimo>Mal di denti</sinonimo>
+			<sinonimo>Odontalgia</sinonimo>
+		</sinonimi>	
+	</voce>
+	<voce>
+		<entry>Mal di pancia</entry>
+		<descrizione>forte dolore alla parte bassa dell'addome che si manifesta sottoforma di fitte o crampi, il piu' delle volte si accompagna a gonfiore della pancia, che puo' essere causato da cattiva digestione, nelle donne da dolori mestruali, ecc.</descrizione>
+		<capitolo>D01_DOLORE ADDOMINALE GENERALE / CRAMPI</capitolo>
+		<id>162</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il dolore addominale è un sintomo avvertito nella regione delimitata superiormente dal torace, inferiormente dall'inguine.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Gastralgia</sinonimo>
+			<sinonimo>Mal di stomaco</sinonimo>
+			<sinonimo>Dolore addominale</sinonimo>
+			<sinonimo>Dolore di stomaco</sinonimo>
+			<sinonimo>Mal di pancia</sinonimo>
+			<sinonimo>Dolore epigastrico</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/dolore_addominale</wikiLink>
+	</voce>
+	<voce>
+		<entry>Mal di testa</entry>
+		<descrizione>Dolore localizzato alla testa</descrizione>
+		<capitolo>N01_CEFALEA</capitolo>
+		<id>163</id>
+		<descrizioniAggiuntive>
+			<descrizione>Per mal di testa o cefalea si intende il dolore provato in qualsiasi parte della zona della testa o del collo.</descrizione>
+			<descrizione>Disturbo doloroso della testa</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Cefalalgia</sinonimo>
+			<sinonimo>Cefalea</sinonimo>
+			<sinonimo>Cefalgia</sinonimo>
+			<sinonimo>Emicrania</sinonimo>
+			<sinonimo>Mal di testa</sinonimo>
+			<sinonimo>Dolore di testa</sinonimo>
+			<sinonimo>Cefalee</sinonimo>
+			<sinonimo>Cefalea primaria</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/cefalea</wikiLink>
+	</voce>
+	<voce>
+		<entry>Male alle ossa</entry>
+		<descrizione>Dolore alle ossa, soprattuto degli arti inferiori e superiori. In genere avvertito da anziani, oppure in seguito a cadute, lussazioni, ecc. Se continuo e persistente su tutto il corpo puo' essere sintomo di malattie come l'osteoporosi.</descrizione>
+		<capitolo>L29_ALTRO SINTOMO O DISTURBO OSTEOARTICOLARE</capitolo>
+		<id>164</id>
+	</voce>
+	<voce>
+		<entry>Mancanza d'aria</entry>
+		<descrizione>mancanza d'aria nei polmoni</descrizione>
+		<capitolo>R04_ALTRO_PROBLEMA_RESPIRATORIO</capitolo>
+		<id>165</id>
+	</voce>
+	<voce>
+		<entry>Mancanza di appetito</entry>
+		<descrizione>Assenza dello stimolo nel mangiare</descrizione>
+		<capitolo>T03_PERDITA DELL'APPETITO</capitolo>
+		<id>166</id>
+	</voce>
+	<voce>
+		<entry>Mancanza di aria</entry>
+		<descrizione>Mancanza d'aria nei polmoni</descrizione>
+		<capitolo>R02_RESPIRO CORTO, DISPNEA</capitolo>
+		<id>167</id>
+	</voce>
+	<voce>
+		<entry>Mani fredde</entry>
+		<descrizione>Quando la temperatura delle mani e' al di sotto della normale temperatura del corpo umano. Di solito, questo sintomo, e' legato a problemi di circolazione</descrizione>
+		<capitolo>L12_SINTOMO_O_DISTURBO_A_MANO_E_A_DITA</capitolo>
+		<id>168</id>
+	</voce>
+	<voce>
+		<entry>Melena</entry>
+		<descrizione>Feci scure dovute alla presenza di sangue digerito</descrizione>
+		<capitolo>D15_MELENA</capitolo>
+		<id>169</id>
+		<descrizioniAggiuntive>
+			<descrizione>Con il termine melena ci si riferisce alla emissione di sangue digerito attraverso l'ano con le feci.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Melena</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Melena</wikiLink>
+	</voce>
+	<voce>
+		<entry>Menorragia</entry>
+		<descrizione>Avere delle mestruazioni molto abbondanti</descrizione>
+		<capitolo>X06_MESTRUAZIONI ECCESSIVE</capitolo>
+		<id>170</id>
+		<descrizioniAggiuntive>
+			<descrizione>Per menorragia in campo medico, si intende un'eccessiva perdita di sangue durante la fase mestruale del ciclo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ipermenorrea</sinonimo>
+			<sinonimo>Menorragia</sinonimo>
+			<sinonimo>Mestruazione</sinonimo>
+			<sinonimo>Menorragie</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/menorragia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Meteorismo</entry>
+		<descrizione>Eccesso di gas intestinale</descrizione>
+		<capitolo>D08_FLATULENZA/METEORISMO/ERUTTAZIONE</capitolo>
+		<id>171</id>
+		<descrizioniAggiuntive>
+			<descrizione>Con meteorismo viene indicato un disturbo gastrointestinale associato alla distensione addominale provocata da una eccessiva produzione e accumulo di gas nel tratto digestivo, usualmente nel tratto intestinale o nello stomaco, più raramente nella cavità addominale.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Meteorismo</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Meteorismo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Metrorragia</entry>
+		<descrizione>Perdita di sangue dall'utero non dovuta alla mestruazione</descrizione>
+		<capitolo>X08_SANGUINAMENTO INTERMESTRUALE</capitolo>
+		<id>172</id>
+		<descrizioniAggiuntive>
+			<descrizione>Per metrorragia si intende un sanguinamento uterino atipico abbondante e protratto che avviene durante l'intervallo tra due mestruazioni consecutive.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Metrorragia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Metrorragia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Mialgia acuta</entry>
+		<descrizione>Forte dolore localizzato in uno o piu' muscoli.  I muscoli colpiti appaiono contratti, dolenti se toccati o usati</descrizione>
+		<capitolo>L18_Dolore muscolare</capitolo>
+		<id>173</id>
+	</voce>
+	<voce>
+		<entry>Naso chiuso</entry>
+		<descrizione>Impossibilità di respirare dal naso</descrizione>
+		<capitolo>R74_INFEZIONE ACUTA VIE RESPIRATORIE SUPERIORI</capitolo>
+		<id>174</id>
+	</voce>
+	<voce>
+		<entry>Nausea</entry>
+		<descrizione>Senso di vomito, e di reflusso. Puo' essere dovuto ad odori molesti, gravidanza, cattiva digestione, ecc.</descrizione>
+		<capitolo>D09_NAUSEA</capitolo>
+		<id>175</id>
+		<descrizioniAggiuntive>
+			<descrizione>La nausea, parola derivante dal latino nãusea mal di mare, derivante a sua volta dal greco, variante ionica di, derivante da nave, è una sensazione di malessere e fastidio allo stomaco che può precedere il vomito.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Nausea</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/nausea</wikiLink>
+	</voce>
+	<voce>
+		<entry>Nevralgia</entry>
+		<descrizione>Dolore locale per irritazione di particolari nervi</descrizione>
+		<capitolo>N29_ALTRO SINTOMO O DISTURBO NEUROLOGICO</capitolo>
+		<id>176</id>
+		<descrizioniAggiuntive>
+			<descrizione>Intenso dolore, senza alterazioni anatomiche evidenti di un nervo</descrizione>
+			<descrizione>Per nevralgia in campo medico, si intende un dolore non nocicettivo ovvero non determinato dall'attivazione dei recettori del dolore in un distretto corporeo, bensì da una patologia del nervo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Neuralgia</sinonimo>
+			<sinonimo>Neurodinia</sinonimo>
+			<sinonimo>Nevralgia</sinonimo>
+			<sinonimo>Nevralgie</sinonimo>
+			<sinonimo>Nevralgia facciale</sinonimo>
+			<sinonimo>Neuralgy</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/nevralgia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Nevralgia facciale</entry>
+		<descrizione>Dolore al volto per irritazione di particolari nervi</descrizione>
+		<capitolo>N03_DOLORE AL VISO</capitolo>
+		<id>177</id>
+		<descrizioniAggiuntive>
+			<descrizione>Intenso dolore, senza alterazioni anatomiche evidenti di un nervo</descrizione>
+			<descrizione>Per nevralgia in campo medico, si intende un dolore non nocicettivo ovvero non determinato dall'attivazione dei recettori del dolore in un distretto corporeo, bensì da una patologia del nervo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Neuralgia</sinonimo>
+			<sinonimo>Neurodinia</sinonimo>
+			<sinonimo>Nevralgia</sinonimo>
+			<sinonimo>Nevralgie</sinonimo>
+			<sinonimo>Nevralgia facciale</sinonimo>
+			<sinonimo>Neuralgy</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/nevralgia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Noduli sottocutanei</entry>
+		<descrizione>Indurimenti, formazioni tonde sotto la pelle</descrizione>
+		<capitolo>S99_ALTRA MALATTIA DELLA PELLE</capitolo>
+		<id>178</id>
+	</voce>
+	<voce>
+		<entry>Nodulo alla tiroide</entry>
+		<descrizione>Indurimento, formazione tonda sulla tiroide</descrizione>
+		<capitolo>T81_GOZZO</capitolo>
+		<id>179</id>
+	</voce>
+	<voce>
+		<entry>Occhiaie</entry>
+		<descrizione>Alone scuro intorno agli occhi, sposso collegato alla stanchezza</descrizione>
+		<capitolo>F29_ALTRO SINTOMO O DISTURBO AGLI OCCHI</capitolo>
+		<id>180</id>
+	</voce>
+	<voce>
+		<entry>Offuscamento della vista</entry>
+		<descrizione>Riduzione della capacità visiva. La vista è come annebbiata.  Un offuscamento della vista in entrambi gli occhi non continuo, ma che si alterni durante la giornata a momenti in cui la visione è normale, e che si accompagni alla percezione di bagliori luminosi, può essere ad esempio l’espressione di un'ipertensione arteriosa.</descrizione>
+		<capitolo>F05_ALTRI DISTURBI VISIVI</capitolo>
+		<id>181</id>
+	</voce>
+	<voce>
+		<entry>Onicofagia</entry>
+		<descrizione>Rosicchiarsi, mangiarsi le unghie per nervosismo</descrizione>
+		<capitolo>P01_SENSAZIONE DI NERVOSISMO/ ANSIETa'/TENSIONE</capitolo>
+		<id>182</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'onicofagia è un disturbo compulsivo che porta il paziente, pediatrico o adulto, a mangiare le proprie unghie.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Onicofagia</sinonimo>
+			<sinonimo>Mangiarsi le unghie</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Onicofagia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Oppressione toracica</entry>
+		<descrizione>Senso di peso sul petto</descrizione>
+		<capitolo>R29_ALTRO SINTOMO O DISTURBO AL SISTEMA RESPIRATORIO</capitolo>
+		<id>183</id>
+	</voce>
+	<voce>
+		<entry>Orripilazione</entry>
+		<descrizione>Erezione dei peli e dei capelli provocata da un violento stato emotivo o dal freddo.</descrizione>
+		<capitolo>A29_ALTRO SINTOMO O DISTURBO GENERALE</capitolo>
+		<id>184</id>
+		<descrizioniAggiuntive>
+			<descrizione>Con il termine piloerezione in fisiologia ci si riferisce all'erezione dei peli dell'epidermide dovuta dalla contrazione dei muscoli erettori dei peli in conseguenza di stimoli nervosi.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Pelle d'oca</sinonimo>
+			<sinonimo>Piloerezione</sinonimo>
+			<sinonimo>Orripilazione</sinonimo>
+			<sinonimo>Cute anserina</sinonimo>
+			<sinonimo>Oca brufolo</sinonimo>
+			<sinonimo>Oca urto</sinonimo>
+			<sinonimo>Pilomotor reflex</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Piloerezione</wikiLink>
+	</voce>
+	<voce>
+		<entry>Otalgia</entry>
+		<descrizione>Dolore ad un'orecchio</descrizione>
+		<capitolo>H01_DOLORE D'ORECCHIO/OTALGIA</capitolo>
+		<id>185</id>
+		<descrizioniAggiuntive>
+			<descrizione>L'otalgia è un dolore dell'orecchio legato a patologie che colpiscono altri apparati: il dolore derivato da alterazioni auricolare è invece detto "otodinia".</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Otalgia</sinonimo>
+			<sinonimo>Otodinia</sinonimo>
+			<sinonimo>Dolore all'orecchio</sinonimo>
+			<sinonimo>Mal d'orecchi</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/otalgia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Otalgia bilaterale</entry>
+		<descrizione>Dolore ad ambedue le orecchie</descrizione>
+		<capitolo>H01_DOLORE D'ORECCHIO/OTALGIA</capitolo>
+		<id>186</id>
+	</voce>
+	<voce>
+		<entry>Otorragia</entry>
+		<descrizione>Fuoriuscita di sangue dall'orecchio</descrizione>
+		<capitolo>H05_SANGUINAMENTO DALL'ORECCHIO</capitolo>
+		<id>187</id>
+	</voce>
+	<voce>
+		<entry>Pallore</entry>
+		<descrizione>Sintomo che si manifesta con la diminuzione del normale colore della pelle dell’individuo o anche l’assenza di colore della cute, in particolare del viso, che evince uno stato di malessere</descrizione>
+		<capitolo>B29_ALTRO SINTOMO O DISTURBO DEL SANGUE O DEL SIST. IMMUNITARIO</capitolo>
+		<id>188</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il livor mortis è la decolorazione del corpo dopo la morte a causa della stasi del sangue non più pompato dal cuore, che per gravità filtra lentamente verso il basso attraverso i tessuti.</descrizione>
+			<descrizione>Per pallore in campo medico si intende una diminuzione del normale colore della pelle dell’individuo o anche l’assenza di colore della cute.</descrizione>
+			<descrizione>Il ristagno del sangue nelle parti declivi di un corpo privo di circolazione sanguigna.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Lividezza</sinonimo>
+			<sinonimo>Pallore</sinonimo>
+			<sinonimo>Pallidezza</sinonimo>
+			<sinonimo>Livor mortis</sinonimo>
+			<sinonimo>Acromia</sinonimo>
+			<sinonimo>Lividness</sinonimo>
+			<sinonimo>Pallidness</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/pallore</wikiLink>
+	</voce>
+	<voce>
+		<entry>Papule</entry>
+		<descrizione>Rilievi della pelle senza pus</descrizione>
+		<capitolo>S04_GONFIORE/PROTUBERANZA CUTANEA LOCALIZZATA</capitolo>
+		<id>189</id>
+		<descrizioniAggiuntive>
+			<descrizione>Una papula è un piccolo rilievo della pelle, solido e generalmente di forma conica.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Bollicina</sinonimo>
+			<sinonimo>Papula</sinonimo>
+			<sinonimo>Papule</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/papula</wikiLink>
+	</voce>
+	<voce>
+		<entry>Paresi</entry>
+		<descrizione>Riduzione dei movimenti muscolari</descrizione>
+		<capitolo>N18_PARALISI / DEBOLEZZA</capitolo>
+		<id>190</id>
+		<descrizioniAggiuntive>
+			<descrizione>Patologia che induce la diminuzione della motilità muscolare, di origine organica o funzionale</descrizione>
+			<descrizione>La paresi è un disturbo che consiste in una diminuzione parziale della motilità di un distretto muscolare.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Paresi</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/paresi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Paresi facciale</entry>
+		<descrizione>Riduzione dei movimenti muscolari del viso</descrizione>
+		<capitolo>N91_PARALISI FACCIALE/PARALISI DI BELL</capitolo>
+		<id>191</id>
+	</voce>
+	<voce>
+		<entry>Paura</entry>
+		<descrizione>E' uno stato emotivo che si presenta solitamente quando si percepisce una situazione di pericolo, o di incertezza.</descrizione>
+		<capitolo>A13_PREOCCUPAZIONE_O_PAURA_PER_UN_TRATTAMENTO</capitolo>
+		<id>192</id>
+	</voce>
+	<voce>
+		<entry>Pelle secca</entry>
+		<descrizione>La pelle appare ruvida, arrossata e screpolata, facilmente irritabile. La pelle diventa secca quando si riduce la capacità di mantenere la naturale idratazione cutanea.</descrizione>
+		<capitolo>S21_SINTOMO O DISTURBO ALLA STRUTTURA CUTANEA</capitolo>
+		<id>193</id>
+		<descrizioniAggiuntive>
+			<descrizione>Per xerosi in campo medico, si intende la mancanza di umidità o di sebo nella pelle, un termine che indica quindi la pelle secca.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Xerosi</sinonimo>
+			<sinonimo>Xeroderma</sinonimo>
+			<sinonimo>Xerodermia</sinonimo>
+			<sinonimo>Pelle secca</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Xerosi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Percosse</entry>
+		<descrizione>Botte dovute  ad un'aggressione</descrizione>
+		<capitolo>A29_ALTRO SINTOMO O DISTURBO GENERALE</capitolo>
+		<id>194</id>
+	</voce>
+	<voce>
+		<entry>Perdita dei capelli</entry>
+		<descrizione>Caduta e non ricrescita dei capelli. Provoca la calvizia</descrizione>
+		<capitolo>S23_PERDITA_DEI_CAPELLI/CALVIZIA(INCLUSO ALOPECIA)</capitolo>
+		<id>195</id>
+	</voce>
+	<voce>
+		<entry>Perdita di capelli</entry>
+		<descrizione>Caduta e non ricrescita dei capelli. Provoca la calvizia</descrizione>
+		<capitolo>S23_PERDITA DEI CAPELLI/CALVIZIA (INCLUSO ALOPECIA)</capitolo>
+		<id>196</id>
+		<descrizioniAggiuntive>
+			<descrizione>Processo di diminuzione della qualità e della quantità di capelli o la loro scomparsa.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Alopecia</sinonimo>
+			<sinonimo>Psilosi</sinonimo>
+			<sinonimo>Perdita di capelli</sinonimo>
+			<sinonimo>Calvizie</sinonimo>
+			<sinonimo>Calvezza</sinonimo>
+			<sinonimo>Pelata</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Alopecia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Pesantezza di stomaco</entry>
+		<descrizione>Cattiva digestione. Spesso e provocato ad una alimentazione eccessivamente pesante. Bruciori o dolori allo stomaco in relazione o meno alla ingestione di cibo. Sensazione di gonfiore allo stomaco.</descrizione>
+		<capitolo>D29_ALTRO SINTOMI O DISTURBI ALL'APPARATO DIGERENTE</capitolo>
+		<id>197</id>
+	</voce>
+	<voce>
+		<entry>Petecchie</entry>
+		<descrizione>Piccole perdite di sangue che formano puntini sulla pelle</descrizione>
+		<capitolo>S29_ALTRO SINTOMO O DISTURBO DELLA PELLE</capitolo>
+		<id>198</id>
+		<descrizioniAggiuntive>
+			<descrizione>La petecchia è una macchia cutanea di piccole dimensioni, di forma irregolarmente circolare e di colore rosso vivo, determinata da emorragie circoscritte, visibili per trasparenza sotto l'epidermide.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Petecchia</sinonimo>
+			<sinonimo>Petecchie</sinonimo>
+			<sinonimo>Petecchiale</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Petecchia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Petecchie al tronco</entry>
+		<descrizione>Piccole perdite di sangue che formano puntini sul torace e sull'addome</descrizione>
+		<capitolo>S29_ALTRO SINTOMO O DISTURBO DELLA PELLE</capitolo>
+		<id>199</id>
+	</voce>
+	<voce>
+		<entry>Piaghette</entry>
+		<descrizione>Piccole ferite ma piuttosto profonde</descrizione>
+		<capitolo>S97_ULCERA CUTANEA CRONICA</capitolo>
+		<id>200</id>
+	</voce>
+	<voce>
+		<entry>Piedi freddi</entry>
+		<descrizione>I piedi freddi si presentano quando la temperatura dei piedi e' al di sotto della normale temperatura del corpo umano</descrizione>
+		<capitolo>L17_SINTOMO O DISTURBO A PIEDE, A DITO DEL PIEDE</capitolo>
+		<id>201</id>
+	</voce>
+	<voce>
+		<entry>Ponfo/Ponfi</entry>
+		<descrizione>Formazione simile a un brufolo tondo, che da' prurito e di colore rosa</descrizione>
+		<capitolo>S29_ALTRO SINTOMO O DISTURBO DELLA PELLE</capitolo>
+		<id>202</id>
+	</voce>
+	<voce>
+		<entry>Ponfo da puntura</entry>
+		<descrizione>Formazione simile a un brufolo tondo, che da' prurito e di colore rosa dovuto a una puntura d'insetto</descrizione>
+		<capitolo>S29_ALTRO SINTOMO O DISTURBO DELLA PELLE</capitolo>
+		<id>203</id>
+	</voce>
+	<voce>
+		<entry>Presenza di macchie</entry>
+		<descrizione>presenza di macchie chiare o scure sulla pelle, spesso lungo gli arti e il tronco. Possono essere dovute al sole, a virus della pelle come ad esempio la Pitiriasi Versicolor, o magari all'acqua del mare. In genere non sono previste delle cure perche' scompaiono da sole. O al limite si utilizzano unguenti a base di Cloruro di Sodio  e applicazione di vasillina.</descrizione>
+		<capitolo>S29_ALTRO SINTOMO O DISTURBO DELLA PELLE</capitolo>
+		<id>204</id>
+	</voce>
+	<voce>
+		<entry>Pressione alta</entry>
+		<descrizione>Situazione in cui la pressione del sangue e' superiore al normale.</descrizione>
+		<capitolo>K85_PRESSIONE ARTERIOSA ELEVATA</capitolo>
+		<id>205</id>
+		<descrizioniAggiuntive>
+			<descrizione>Aumento anormale dei valori della pressione arteriosa</descrizione>
+			<descrizione>L'ipertensione o ipertensione arteriosa, è una condizione clinica in cui la pressione del sangue nelle arterie della circolazione sistemica risulta elevata.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ipertensione</sinonimo>
+			<sinonimo>Pressione alta</sinonimo>
+			<sinonimo>Ipertensione arteriosa</sinonimo>
+			<sinonimo>Ipertensione arteriosa sistemica</sinonimo>
+			<sinonimo>Ipertensione essenziale</sinonimo>
+			<sinonimo>Ipertesi</sinonimo>
+			<sinonimo>Alta pressione sanguigna</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/ipertensione</wikiLink>
+	</voce>
+	<voce>
+		<entry>Pressione bassa</entry>
+		<descrizione>Situazione in cui la presssione del sangue e' inferiore al normale</descrizione>
+		<capitolo>K88_IPOTENSIONE ORTOSTATICA</capitolo>
+		<id>206</id>
+	</voce>
+	<voce>
+		<entry>Prurito</entry>
+		<descrizione>Il prurito è un'irritazione della pelle, che da un fastidio frequente e porta a grattarsi in continuazione. Si può percepire in qualsisasi parte del corpo. E' frequente nel caso di allergie ed esantemi.</descrizione>
+		<capitolo>S02_PRURITO</capitolo>
+		<id>207</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il prurito è una sensazione che provoca il desiderio o il riflesso di grattarsi.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Prurito</sinonimo>
+			<sinonimo>Pizzicore</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Prurito</wikiLink>
+	</voce>
+	<voce>
+		<entry>Pungiture intercostali</entry>
+		<descrizione>forti fitte all'altezza delle costole. Probabilmente dovute a colpi di freddo</descrizione>
+		<capitolo>L29_ALTRO_SINTOMO_O_DISTURBO_OSTEOARTICOLARE</capitolo>
+		<id>208</id>
+	</voce>
+	<voce>
+		<entry>Pustole</entry>
+		<descrizione>Lesione della pelle piena di pus.</descrizione>
+		<capitolo>S96_ACNE</capitolo>
+		<id>209</id>
+		<descrizioniAggiuntive>
+			<descrizione>La pustola è una lesione circoscritta della pelle a carattere transitorio.</descrizione>
+			<descrizione>Rigonfiamento della pelle che generalmente contiene liquido organico, vescicola</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Pustola</sinonimo>
+			<sinonimo>Pustole</sinonimo>
+			<sinonimo>Bolla</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Pustola</wikiLink>
+	</voce>
+	<voce>
+		<entry>Raucedine</entry>
+		<descrizione>variazione del timbro vocale tale da rendere il suono emesso nel parlare più stridulo e acuto oppure piu' rauco</descrizione>
+		<capitolo>R23_SINTOMO_O_DISTURBO_DELLA_VOCE</capitolo>
+		<id>210</id>
+		<descrizioniAggiuntive>
+			<descrizione>La disfonia è uno dei disturbi della voce che va dalla raucedine fino all'afonia.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Disfonia</sinonimo>
+			<sinonimo>Raucedine</sinonimo>
+			<sinonimo>Roca</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Disfonia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Rettorragia</entry>
+		<descrizione>Perdita di sangue rosso vivo dall'ano</descrizione>
+		<capitolo>D16_SANGUINAMENTO RETTALE/RETTORRAGIA</capitolo>
+		<id>211</id>
+		<descrizioniAggiuntive>
+			<descrizione>La rettorragia o proctorragia è un particolare tipo di emorragia che interessa l'ano, definita come perdita di sangue rosso vivo dall'ano.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Rettorragia</sinonimo>
+			<sinonimo>Proctorragia</sinonimo>
+			<sinonimo>Ematochezia</sinonimo>
+			<sinonimo>Hematochezia</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Rettorragia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Riacutizzazione dei sintomi</entry>
+		<descrizione>Ritorno o aumento dei sintomi</descrizione>
+		<capitolo>A29_ALTRO SINTOMO O DISTURBO GENERALE</capitolo>
+		<id>212</id>
+	</voce>
+	<voce>
+		<entry>Ritenzione</entry>
+		<descrizione>Difficolta' ad eliminare le sostanze dall'organismo</descrizione>
+		<capitolo>A29_ALTRO SINTOMO O DISTURBO GENERALE</capitolo>
+		<id>213</id>
+		<descrizioniAggiuntive>
+			<descrizione>Mancata espulsione dall'organismo dell'acqua destinata all'eliminazione</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ritenzione</sinonimo>
+			<sinonimo>Ritenzione idrica</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Ritenzione acuta</entry>
+		<descrizione>Forte difficola' ad eliminare le sostanze dall'organismo</descrizione>
+		<capitolo>A29_ALTRO SINTOMO O DISTURBO GENERALE</capitolo>
+		<id>214</id>
+	</voce>
+	<voce>
+		<entry>Ritenzione idrica</entry>
+		<descrizione>Difficolta' ad eliminare l'acqua dall'organismo. I liquidi si accumulano nel corpo</descrizione>
+		<capitolo>K07_CAVIGLIE GONFIE/EDEMA</capitolo>
+		<id>215</id>
+		<descrizioniAggiuntive>
+			<descrizione>Accumulo di liquido organico nei tessuti.</descrizione>
+			<descrizione>L'edema è un accumulo di liquidi negli spazi interstiziali dell'organismo.</descrizione>
+			<descrizione>Mancata espulsione dall'organismo dell'acqua destinata all'eliminazione.</descrizione>
+			<descrizione>Il termine ritenzione idrica significa un accumulo anormale di fluido nel sistema circolatorio o all'interno dei tessuti o delle cavità del corpo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Edema</sinonimo>
+			<sinonimo>Idrope</sinonimo>
+			<sinonimo>Idropisia</sinonimo>
+			<sinonimo>Edematosi</sinonimo>
+			<sinonimo>Edemi</sinonimo>
+			<sinonimo>Ritenzione idrica</sinonimo>
+			<sinonimo>Ritenzione</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Edema</wikiLink>
+	</voce>
+	<voce>
+		<entry>Rossore della pelle</entry>
+		<descrizione>Si verifica quando la pelle si arrossa in seguito all'esposizione al sole</descrizione>
+		<capitolo>S07_ERUZIONE GENERALIZZATA</capitolo>
+		<id>216</id>
+	</voce>
+	<voce>
+		<entry>Russare</entry>
+		<descrizione>Disturbo della respirazione durante il sonno dovuto a un'ostruzione del naso o della gola.</descrizione>
+		<capitolo>R29_ALTRO SINTOMO O DISTURBO AL SISTEMA RESPIRATORIO</capitolo>
+		<id>217</id>
+		<descrizioniAggiuntive>
+			<descrizione>La roncopatia cronica o russamento cronico patologico è un quadro sintomatologico caratterizzato da un russare discontinuo, a volte con forte rumorosità accompagnato da disturbi della respirazione o da sonno disturbato.</descrizione>
+			<descrizione>Malattia dell'apparato respiratorio</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Roncopatia</sinonimo>
+			<sinonimo>Russamento</sinonimo>
+			<sinonimo>Russare</sinonimo>
+			<sinonimo>Stertor</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Roncopatia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Sangue dal naso</entry>
+		<descrizione>Perdita di sangue dal naso causata dalla fragilita' dei vasi sanguigni all'interno del naso. Molto frequente nei bambini, in caso di raffreddore e soprattutto d'estate dovuto alla forte esposizione al sole. Il sintomo viene curato di solito con del ghiaggio o con una semplice pressione delle dita. Mentre un'abitudine frequente ma errata per curarlo e' quella di abbassare la testa all'indietro. Il sangue dal naso puo' essere sintomo anche di problemi piu' seri, come ad esempio l'ipertensione o altre malattie che alterano la coagualzione del sangue.</descrizione>
+		<capitolo>R06_SANGUE_DAL_NASO/EPISTASSI</capitolo>
+		<id>218</id>
+		<descrizioniAggiuntive>
+			<descrizione>Emorragia nasale</descrizione>
+			<descrizione>L'epistassi o rinorragia è un'emorragia originatasi all'interno delle fosse nasali.</descrizione>
+			<descrizione>Emorragia che ha origine nelle fosse nasali</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Epistassi</sinonimo>
+			<sinonimo>Rinorragia</sinonimo>
+			<sinonimo>Sangue al naso</sinonimo>
+			<sinonimo>Emorragia nasale</sinonimo>
+			<sinonimo>Sanguinamento del naso</sinonimo>
+			<sinonimo>Sangue dal naso</sinonimo>
+			<sinonimo>Sanguinamento dal naso</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/epistassi</wikiLink>
+	</voce>
+	<voce>
+		<entry>Sangue dalla vagina</entry>
+		<descrizione>Emorragia vaginale</descrizione>
+		<capitolo>U06_EMATURIA</capitolo>
+		<id>219</id>
+	</voce>
+	<voce>
+		<entry>Sanguinare</entry>
+		<descrizione>Perdita di sangue</descrizione>
+		<capitolo>A10_SANGUINAMENTO/EMORRAGIA_NAC</capitolo>
+		<id>220</id>
+		<descrizioniAggiuntive>
+			<descrizione>Perdere il sangue dal proprio corpo</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Sanguinare</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Sciatalgia</entry>
+		<descrizione>Irritazione del nervo sciatico con dolore all'anca e all'arto inferiore e difficolta' di movimento</descrizione>
+		<capitolo>L02_SINTOMO O DISTURBO ALLA REGIONE DORSO-LOMBARE</capitolo>
+		<id>221</id>
+		<descrizioniAggiuntive>
+			<descrizione>La sciatalgia o sciatica è una sensazione di intenso dolore alla gamba causata dall'irritazione del nervo ischiatico.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Ischialgia</sinonimo>
+			<sinonimo>Sciatalgia</sinonimo>
+			<sinonimo>Sciatica</sinonimo>
+			<sinonimo>Lombosciatalgia</sinonimo>
+			<sinonimo>Dolore al nervo sciatico</sinonimo>
+			<sinonimo>Nevralgia sciatica</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/sciatalgia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Senso di abbattimento</entry>
+		<descrizione>Una sensazione di tristezza limitata nel tempo come reazione a una delusione o a una perdita. Senso di colpa, poco sicurezza in sè stessi.</descrizione>
+		<capitolo>P76_Depressione</capitolo>
+		<id>222</id>
+	</voce>
+	<voce>
+		<entry>Singhiozzo</entry>
+		<descrizione>E' un fenomeno dovuto alle contrazioni ripetute e involontarie del muscolo del diaframma. Può capitare a tutti e si ripete in modo ritmico e fastidioso.</descrizione>
+		<capitolo>R29_ALTRO_SINTOMO_O_DISTURBO_AL_SISTEMA_RESPIRATORIO</capitolo>
+		<id>223</id>
+		<descrizioniAggiuntive>
+			<descrizione>Improvvisa contrazione del diaframma, accompagnata da un suono caratteristico.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Singhiozzo</sinonimo>
+			<sinonimo>Singulto</sinonimo>
+			<sinonimo>Stranguglione</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Singhiozzo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Sonnolenza</entry>
+		<descrizione>Calo dell'attenzione, sensazione di sonno, anche nelle ore diurne. Magari dovuto a pesantezza (tipico dopo pranzo) o ad altri disturbi. Puo' essere anche un effetto collaterale di molti farmaci</descrizione>
+		<capitolo>A29_ALTRO_SINTOMO_O_DISTURBO_GENERALE</capitolo>
+		<id>224</id>
+		<descrizioniAggiuntive>
+			<descrizione>La sonnolenza è uno stato di torpore psicofisico caratterizzato dal bisogno e dal desiderio di dormire, con conseguente riduzione del livello di coscienza e difficoltà a mantenere lo stato di veglia.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Addormentamento</sinonimo>
+			<sinonimo>Assopimento</sinonimo>
+			<sinonimo>Sonno</sinonimo>
+			<sinonimo>Sonnolenza</sinonimo>
+			<sinonimo>Sopore</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/sonnolenza</wikiLink>
+	</voce>
+	<voce>
+		<entry>Spellarsi</entry>
+		<descrizione>Succede dopo una scottatura quando pezzi dello strato esterno si staccano dal resto della pelle</descrizione>
+		<capitolo>S21_SINTOMO_O_DISTURBO_ALLA_STRUTTURA_CUTANEA</capitolo>
+		<id>225</id>
+	</voce>
+	<voce>
+		<entry>Spossatezza</entry>
+		<descrizione>Stato di prostrazione fisica o psichica</descrizione>
+		<capitolo>P78_NEURASTENIA/SURMENAGE</capitolo>
+		<id>226</id>
+		<descrizioniAggiuntive>
+			<descrizione>Estrema fatica</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Abbattimento</sinonimo>
+			<sinonimo>Fiaccatura</sinonimo>
+			<sinonimo>Infiacchimento</sinonimo>
+			<sinonimo>Rifinitezza</sinonimo>
+			<sinonimo>Sfinimento</sinonimo>
+			<sinonimo>Snervatezza</sinonimo>
+			<sinonimo>Spossamento</sinonimo>
+			<sinonimo>Spossatezza</sinonimo>
+			<sinonimo>Straccaggine</sinonimo>
+			<sinonimo>Straccamento</sinonimo>
+			<sinonimo>Stracchezza</sinonimo>
+			<sinonimo>Stremezza</sinonimo>
+			<sinonimo>Esaurimento</sinonimo>
+		</sinonimi>
+	</voce>
+	<voce>
+		<entry>Stanchezza</entry>
+		<descrizione>Sentirsi stanchi, affaticati</descrizione>
+		<capitolo>A04_ASTENIA/STANCHEZZA_GENERALE</capitolo>
+		<id>227</id>
+		<descrizioniAggiuntive>
+			<descrizione>Stato che deriva da uno sforzo fisico o intellettuale troppo intenso o prolungato</descrizione>
+			<descrizione>Per affaticamento in campo medico, si intende un insieme di sintomi avvertiti dalla persona, essi possono variare dalla letargia ad una sensazione di bruciore e può essere fisico o mentale.</descrizione>
+			<descrizione>Sensazione di stanchezza</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Affaticamento</sinonimo>
+			<sinonimo>Estenuazione</sinonimo>
+			<sinonimo>Fatica</sinonimo>
+			<sinonimo>Fiacca</sinonimo>
+			<sinonimo>Fiacchezza</sinonimo>
+			<sinonimo>Stanchezza</sinonimo>
+			<sinonimo>Stracca</sinonimo>
+			<sinonimo>Letargo</sinonimo>
+			<sinonimo>Sfinitezza</sinonimo>
+			<sinonimo>Letargico</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/affaticamento</wikiLink>
+	</voce>
+	<voce>
+		<entry>Starnuti</entry>
+		<descrizione>Espulsione di aria, variamente violenta e rumorosa, da naso e bocca associata a raffreddori virali o allergici.</descrizione>
+		<capitolo>R07_STARNUTI/CONGESTIONE_NASALE</capitolo>
+		<id>228</id>
+		<descrizioniAggiuntive>
+			<descrizione>Atto respiratorio riflesso violento e rumoroso, dovuto all'irritazione delle terminazioni nervose della mucosa nasale</descrizione>
+			<descrizione>Lo starnuto è una violenta emissione d'aria dai polmoni.</descrizione>
+			<descrizione>Violenta emissione d'aria dai polmoni</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Starnuto</sinonimo>
+			<sinonimo>Starnuti</sinonimo>
+			<sinonimo>Starnutire</sinonimo>
+			<sinonimo>Sternutation</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Starnuto</wikiLink>
+	</voce>
+	<voce>
+		<entry>Stitichezza</entry>
+		<descrizione>Difficolta a defecare e produzione di feci molto dure</descrizione>
+		<capitolo>D12_STIPSI</capitolo>
+		<id>229</id>
+		<descrizioniAggiuntive>
+			<descrizione>La stitichezza o stipsi è una malattia o disturbo della defecazione consistente nella difficoltà di svuotare in tutto o in parte l'intestino espellendone le feci.</descrizione>
+			<descrizione>Constipazione grave dovuta ad una ostruzione negli intestini</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Stitichezza</sinonimo>
+			<sinonimo>Costipazione</sinonimo>
+			<sinonimo>Stipsi</sinonimo>
+			<sinonimo>Blocco intestinale</sinonimo>
+			<sinonimo>Costipamento</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Stitichezza</wikiLink>
+	</voce>
+	<voce>
+		<entry>Svenimento</entry>
+		<descrizione>Perdita momentanea dei sensi. Può essere dovuto a un calo di pressione o essere sintomo di una malattia neurologica.</descrizione>
+		<capitolo>A06_LIPOTIMIA/SINCOPE</capitolo>
+		<id>230</id>
+		<descrizioniAggiuntive>
+			<descrizione>Perdita di sensi, svenimento.</descrizione>
+			<descrizione>La sincope è una perdita di coscienza transitoria, ad insorgenza rapida, da ipo-perfusione cerebrale globale, di breve durata e a risoluzione spontanea.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Sincope</sinonimo>
+			<sinonimo>Svenimento</sinonimo>
+			<sinonimo>Deliquio</sinonimo>
+			<sinonimo>Basimento</sinonimo>
+			<sinonimo>Collasso</sinonimo>
+			<sinonimo>Mancamento</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/Sincope_(medicina)</wikiLink>
+	</voce>
+	<voce>
+		<entry>Tachicardia</entry>
+		<descrizione>Aumento della frequenza dei battiti del cuore al di sopra del valore limite considerato normale per un cuore a riposo. Compare generalmente sotto sforzo nelle persone normali, quando il cuore viene stimolato di più a contrarsi</descrizione>
+		<capitolo>K04_PALPITAZIONI/PERCEZIONE_DI_BATTITI_CARDIACI</capitolo>
+		<id>231</id>
+		<descrizioniAggiuntive>
+			<descrizione>Aumento patologico della frequenza dei battiti del cuore</descrizione>
+			<descrizione>La tachicardia è una forma di accelerazione del battito cardiaco, con aumento della frequenza dei battiti cardiaci e pulsazioni sopra i 100 battiti al minuto a riposo o senza alcuna forma di stress.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Palpitazione</sinonimo>
+			<sinonimo>Palpitazioni</sinonimo>
+			<sinonimo>Tachicardia</sinonimo>
+			<sinonimo>Tachiaritmia</sinonimo>
+			<sinonimo>Tachicardie</sinonimo>
+			<sinonimo>Tvns</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/tachicardia</wikiLink>
+	</voce>
+	<voce>
+		<entry>Torcicollo</entry>
+		<descrizione>Dolore al collo che non permette un libero movimento della testa, spesso dovuto a colpi d'aria.</descrizione>
+		<capitolo>L83_SINDROME_CERVICALE</capitolo>
+		<id>232</id>
+		<descrizioniAggiuntive>
+			<descrizione>Il torcicollo è una condizione patologica caratterizzata da una deviazione laterale e rotatoria del capo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Torcicollo</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/torcicollo</wikiLink>
+	</voce>
+	<voce>
+		<entry>Tosse</entry>
+		<descrizione>Espulsione violenta, rapida e rumorosa di aria dai polmoni</descrizione>
+		<capitolo>R05_TOSSE</capitolo>
+		<id>233</id>
+		<descrizioniAggiuntive>
+			<descrizione>Espirazione forzata e sonora per espellere il contenuto delle vie respiratorie</descrizione>
+			<descrizione>La tosse è un'energica contrazione inspiratoria, cui segue una rapida espirazione, con chiusura della rima glottidea, seguita da una riapertura della stessa con genesi di una vibrazione sonora, a cui si accompagna un innalzamento del palato molle, occludente il nasofaringe.</descrizione>
+			<descrizione>Energica contrazione inspiratoria, cui segue una rapida espirazione</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Colpo di tosse</sinonimo>
+			<sinonimo>Tosse</sinonimo>
+			<sinonimo>Mucolitico</sinonimo>
+			<sinonimo>Mucolitici</sinonimo>
+			<sinonimo>Tosse cronica</sinonimo>
+			<sinonimo>Tosse secca</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/tosse</wikiLink>
+	</voce>
+	<voce>
+		<entry>Vertigini</entry>
+		<descrizione>le vertigini si presentano come un forte giramento di testa, non si riescono a tenere gli occhi aperti e da fastidio la luce. Alcuni hanno questo sintomo quando si trovano ad alta quota.</descrizione>
+		<capitolo>N17_VERTIGINE/CAPOGIRO</capitolo>
+		<id>234</id>
+		<descrizioniAggiuntive>
+			<descrizione>Improvvisa sensazione di perdita dell'equilibrio e di turbamento della vista</descrizione>
+			<descrizione>La vertigine è una distorsione della percezione sensoriale dell’individuo.</descrizione>
+			<descrizione>Sensazione sgradevole di rotazione. È un sintomo.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Capogiro</sinonimo>
+			<sinonimo>Giracapo</sinonimo>
+			<sinonimo>Giramento</sinonimo>
+			<sinonimo>Giramento di testa</sinonimo>
+			<sinonimo>Vertigine</sinonimo>
+			<sinonimo>Vertigini</sinonimo>
+			<sinonimo>Sensazione di testa vuota</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/vertigine</wikiLink>
+	</voce>
+	<voce>
+		<entry>Vomito</entry>
+		<descrizione>Espulsione violenta di cibo dalla bocca. Esiste anche un vomito di tipo non alimentare con espulsione di succhi gastrici o di bile. E' preceduto da nausea.</descrizione>
+		<capitolo>D10_VOMITO</capitolo>
+		<id>235</id>
+		<descrizioniAggiuntive>
+			<descrizione>Atto del vomitare</descrizione>
+			<descrizione>Il vomito è l'espulsione rapida attraverso la bocca di materiale gastrointestinale, provocata dalla rapida contrazione involontaria dei muscoli dell'addome, associata ad un'apertura del cardias in seguito ad un'onda antiperistaltica che parte dal digiuno.</descrizione>
+		</descrizioniAggiuntive>
+		<sinonimi>
+			<sinonimo>Rigurgito</sinonimo>
+			<sinonimo>Vomito</sinonimo>
+			<sinonimo>Emesi</sinonimo>
+			<sinonimo>Conati di vomito</sinonimo>
+			<sinonimo>Vomito fecaloide</sinonimo>
+			<sinonimo>Conato</sinonimo>
+			<sinonimo>Conato di vomito</sinonimo>
+			<sinonimo>Sboccatura</sinonimo>
+			<sinonimo>Vomitare</sinonimo>
+			<sinonimo>Vomita</sinonimo>
+		</sinonimi>
+		<wikiLink>it.wikipedia.org/wiki/vomito</wikiLink>
+	</voce>
+</sintomi>

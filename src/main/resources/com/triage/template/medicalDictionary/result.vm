@@ -1,0 +1,7 @@
+#set($newline="
+")
+#if($results)
+*$result.name*: $result.description.
+#if($result.wikiLink)Approfondimenti: [$result.wikiLink]($result.wikiLink) $newline $newline#end
+#else Non ho individuato nessun risultato. Digita una altro termine da ricercare $newline $newline#end
+Digita un nuovo termine medico da ricercate o premi Menu per tornare al menu principale.

@@ -1,0 +1,14 @@
+#set($newline="
+")
+#set($tab="   ")
+#if($recognized)
+Sintomi riconosciuti:
+ - *$symptom*
+
+Possibili sintomi correlati:
+ - correlati...
+
+Premi Si se il sintomo ti sembra corretto, altrimenti descrivilo nuovamente.
+#else
+Nessun sintomo riconosciuto. Descrivi un nuovo sintomo:
+#end

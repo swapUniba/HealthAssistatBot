@@ -1,0 +1,7 @@
+#set( $newline="
+")
+Ecco i dettagli della notifica per l'esame *$reminder.exam*
+
+#if($reminder.isPassed)Hai ricevuto#else Riceverai#end una notifica in data *$reminder.dateNewFormat*  alle ore: *$reminder.hour*
+
+Se desideri modificare l'ora o la data, premi il corrispondente bottone.
